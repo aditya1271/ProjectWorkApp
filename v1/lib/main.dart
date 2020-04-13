@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MultiProvider(
       providers: [
-        ChangeNotifierProvider.value(value: firsttimeprovider()),
+        ChangeNotifierProvider.value(value: FirstTimeProvider()),
       ],
       child: MaterialApp(
         home: HomeApp(),
@@ -31,7 +31,7 @@ class _HomeAppState extends State<HomeApp> {
       appBar: AppBar(
         title: Text("2"),
       ),
-      body: Consumer<firsttimeprovider>(
+      body: Consumer<FirstTimeProvider>(
         builder: (context, val, _) => FutureBuilder(
           builder: (context, snapshot) => val.temp ? Text("yeh") : Firsttime(),
           future: val.f2(),

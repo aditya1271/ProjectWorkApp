@@ -1,5 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:v1/Widgets/ImagePreview.dart';
 import '../Widgets/CameraContainer(Button).dart';
 import '../Widgets/GalleryButton.dart';
 
@@ -28,15 +29,7 @@ class _ImageInputScreenState extends State<ImageInputScreen> {
                   ),
                   color: Theme.of(context).primaryColor,
                 ),
-                child: img == null
-                    ? ClipRRect(
-                        borderRadius: BorderRadius.all(Radius.circular(10)),
-                        child: Image.asset(
-                          'assets/images/no_image.png',
-                          fit: BoxFit.cover,
-                        ),
-                      )
-                    : Text("Asdf"),
+                child: ImagePreview(),
                 height: contraints.maxHeight * 0.3,
                 width: contraints.maxWidth * 0.5,
               ),

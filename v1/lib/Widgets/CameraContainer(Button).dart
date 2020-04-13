@@ -1,4 +1,7 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
+import 'package:image_picker/image_picker.dart';
 class CameraContainer extends StatefulWidget {
   final double h;
   final double w;
@@ -13,11 +16,23 @@ class CameraContainer extends StatefulWidget {
 class _CameraContainerState extends State<CameraContainer> {
   bool taped = false;
   Image img;
+  Timer timer;
 
   void functanlity() async {
     setState(() {
       taped = true;
     });
+    if(timer!=null)
+      timer.cancel();
+    timer=Timer(Duration(seconds: 1),(){
+      setState(() {
+        taped=false;
+      });
+    });
+
+    final img = await ImagePicker.pickImage(
+      source: ImageSource.camera,
+    );
   }
 
   @override

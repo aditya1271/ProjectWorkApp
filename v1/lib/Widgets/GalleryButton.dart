@@ -1,4 +1,9 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
+import 'package:image_picker/image_picker.dart';
+
+
 class GalleryContainer extends StatefulWidget {
   final double h;
   final double w;
@@ -13,12 +18,26 @@ class GalleryContainer extends StatefulWidget {
 
 class _GalleryContainerState extends State<GalleryContainer> {
   bool taped = false;
+  Timer timer;
 
   void functanlity() async {
     setState(() {
       taped = true;
     });
+    if(timer!=null)
+      timer.cancel();
+    timer=Timer(Duration(seconds: 1),(){
+      setState(() {
+        taped=false;
+      });
+    });
+
+    final img = await ImagePicker.pickImage(
+      source: ImageSource.gallery,
+    );
+
   }
+
 
   @override
   Widget build(BuildContext context) {
@@ -28,7 +47,7 @@ class _GalleryContainerState extends State<GalleryContainer> {
       },
       child: Container(
         child:
-        Icon(Icons.attach_file, color: taped ? Colors.white : Colors.black),
+            Icon(Icons.attach_file, color: taped ? Colors.white : Colors.black),
         decoration: BoxDecoration(
           color: Theme.of(context).accentColor,
           borderRadius: BorderRadius.all(
@@ -42,7 +61,3 @@ class _GalleryContainerState extends State<GalleryContainer> {
     );
   }
 }
-
-
-
-

@@ -4,14 +4,9 @@ import 'package:v1/Widgets/ImagePreview.dart';
 import '../Widgets/CameraContainer(Button).dart';
 import '../Widgets/GalleryButton.dart';
 
-class ImageInputScreen extends StatefulWidget {
-  @override
-  _ImageInputScreenState createState() => _ImageInputScreenState();
-}
-
-class _ImageInputScreenState extends State<ImageInputScreen> {
-  Image img;
-
+class ImageInputScreen extends StatelessWidget {
+  static  Function f;
+  static Image img;
   @override
   Widget build(BuildContext context) {
     return LayoutBuilder(builder: (context, contraints) {
@@ -88,4 +83,3 @@ class _ImageInputScreenState extends State<ImageInputScreen> {
     });
   }
 }
-

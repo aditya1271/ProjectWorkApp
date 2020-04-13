@@ -1,5 +1,8 @@
+import 'dart:math';
+
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:image_picker/image_picker.dart';
 
 class ImageInputScreen extends StatefulWidget {
   @override
@@ -7,6 +10,8 @@ class ImageInputScreen extends StatefulWidget {
 }
 
 class _ImageInputScreenState extends State<ImageInputScreen> {
+  Image img;
+
   @override
   Widget build(BuildContext context) {
     return LayoutBuilder(builder: (context, contraints) {
@@ -18,11 +23,21 @@ class _ImageInputScreenState extends State<ImageInputScreen> {
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: <Widget>[
               Container(
-                child: Text(
-                  "sdf",
-                  style: TextStyle(color: Colors.black),
+                decoration: BoxDecoration(
+                  borderRadius: BorderRadius.all(
+                    Radius.circular(10),
+                  ),
+                  color: Theme.of(context).primaryColor,
                 ),
-                color: Colors.white,
+                child: img == null
+                    ? ClipRRect(
+                        borderRadius: BorderRadius.all(Radius.circular(10)),
+                        child: Image.asset(
+                          'assets/images/no_image.png',
+                          fit: BoxFit.cover,
+                        ),
+                      )
+                    : Text("Asdf"),
                 height: contraints.maxHeight * 0.3,
                 width: contraints.maxWidth * 0.5,
               ),
@@ -34,37 +49,13 @@ class _ImageInputScreenState extends State<ImageInputScreen> {
                 children: <Widget>[
                   Flexible(
                     flex: 1,
-                    child: GestureDetector(
-                      child: Container(
-                        decoration: BoxDecoration(
-                          color: Theme.of(context).accentColor,
-                          borderRadius: BorderRadius.all(
-                            Radius.circular(10),
-                          ),
-                        ),
-                        child: Icon(Icons.camera_alt),
-                        margin: EdgeInsets.symmetric(horizontal: 10),
-                        height: contraints.maxHeight * 0.1,
-                        width: contraints.maxWidth * 1 / 2,
-                      ),
-                    ),
+                    child: CameraContainer(contraints.maxHeight * 0.1,
+                        contraints.maxWidth * 1 / 2),
                   ),
                   Flexible(
                     flex: 1,
-                    child: GestureDetector(
-                      child: Container(
-                        child: Icon(Icons.attach_file),
-                        decoration: BoxDecoration(
-                          color: Theme.of(context).accentColor,
-                          borderRadius: BorderRadius.all(
-                            Radius.circular(10),
-                          ),
-                        ),
-                        margin: EdgeInsets.symmetric(horizontal: 10),
-                        height: contraints.maxHeight * 0.1,
-                        width: contraints.maxWidth * 1 / 2,
-                      ),
-                    ),
+                    child: GalleryContainer(contraints.maxHeight * 0.1,
+                        contraints.maxWidth * 1 / 2),
                   )
                 ],
               )
@@ -106,3 +97,93 @@ class _ImageInputScreenState extends State<ImageInputScreen> {
   }
 }
 
+class GalleryContainer extends StatefulWidget {
+  final double h;
+  final double w;
+
+  // final Function f;
+
+  GalleryContainer(this.h, this.w);
+
+  @override
+  _GalleryContainerState createState() => _GalleryContainerState();
+}
+
+class _GalleryContainerState extends State<GalleryContainer> {
+  bool taped = false;
+
+  void functanlity() async {
+    setState(() {
+      taped = true;
+    });
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return GestureDetector(
+      onTap: () {
+        functanlity();
+      },
+      child: Container(
+        child:
+            Icon(Icons.attach_file, color: taped ? Colors.white : Colors.black),
+        decoration: BoxDecoration(
+          color: Theme.of(context).accentColor,
+          borderRadius: BorderRadius.all(
+            Radius.circular(10),
+          ),
+        ),
+        margin: EdgeInsets.symmetric(horizontal: 10),
+        height: widget.h,
+        width: widget.w,
+      ),
+    );
+  }
+}
+
+class CameraContainer extends StatefulWidget {
+  final double h;
+  final double w;
+
+  // final Function f;
+
+  CameraContainer(this.h, this.w);
+
+  @override
+  _CameraContainerState createState() => _CameraContainerState();
+}
+
+class _CameraContainerState extends State<CameraContainer> {
+  bool taped = false;
+  Image img;
+
+  void functanlity() async {
+    setState(() {
+      taped = true;
+    });
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return GestureDetector(
+      onTap: () {
+        functanlity();
+      },
+      child: Container(
+        decoration: BoxDecoration(
+          color: Theme.of(context).accentColor,
+          borderRadius: BorderRadius.all(
+            Radius.circular(10),
+          ),
+        ),
+        child: Icon(
+          Icons.camera_alt,
+          color: taped ? Colors.white : Colors.black,
+        ),
+        margin: EdgeInsets.symmetric(horizontal: 10),
+        height: widget.h,
+        width: widget.w,
+      ),
+    );
+  }
+}

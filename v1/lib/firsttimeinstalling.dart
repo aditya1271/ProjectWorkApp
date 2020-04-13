@@ -14,7 +14,7 @@ class _FirsttimeState extends State<Firsttime> {
     return IconButton(
       icon: Icon(Icons.add),
       onPressed: () {
-        Provider.of<firsttimeprovider>(context, listen: false).f1();
+        Provider.of<FirstTimeProvider>(context, listen: false).f1();
       },
     );
   }

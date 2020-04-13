@@ -3,6 +3,9 @@ import 'package:provider/provider.dart';
 import 'package:v1/firsttimeinstalling.dart';
 import 'package:v1/providers/firsttimeprovider.dart';
 import 'package:v1/screen/imageinputscreen.dart';
+import 'package:v1/providers/imageprovider.dart';
+
+
 
 void main() => runApp(MyApp());
 
@@ -12,6 +15,7 @@ class MyApp extends StatelessWidget {
     return MultiProvider(
       providers: [
         ChangeNotifierProvider.value(value: FirstTimeProvider()),
+        ChangeNotifierProvider.value(value: Image_Provider())
       ],
       child: MaterialApp(
         home: HomeApp(),

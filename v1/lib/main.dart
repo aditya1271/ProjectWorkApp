@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:v1/firsttimeinstalling.dart';
 import 'package:v1/providers/firsttimeprovider.dart';
+import 'package:v1/screen/imageinputscreen.dart';
 
 void main() => runApp(MyApp());
 
@@ -14,6 +15,11 @@ class MyApp extends StatelessWidget {
       ],
       child: MaterialApp(
         home: HomeApp(),
+        theme: ThemeData(
+          primaryColor: Color.fromRGBO(14, 196, 169, 1),
+          accentColor: Color.fromRGBO(7, 218, 230, 1),
+          canvasColor: Colors.black
+        ),
       ),
     );
   }
@@ -33,7 +39,8 @@ class _HomeAppState extends State<HomeApp> {
       ),
       body: Consumer<FirstTimeProvider>(
         builder: (context, val, _) => FutureBuilder(
-          builder: (context, snapshot) => val.temp ? Text("yeh") : Firsttime(),
+          builder: (context, snapshot) =>
+              val.temp ? ImageInputScreen() : Firsttime(),
           future: val.f2(),
         ),
       ),

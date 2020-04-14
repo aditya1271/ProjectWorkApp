@@ -18,7 +18,8 @@ class _ImagePreviewState extends State<ImagePreview> {
         child: img == null
             ? Image.asset(
                 'assets/images/no_image.png',
-                fit: BoxFit.cover,
+                fit: BoxFit.fill
+          ,
               )
             : FittedBox(child: img,fit: BoxFit.fill,));
   }

@@ -22,11 +22,11 @@ class ImageInputScreen extends StatelessWidget {
                   borderRadius: BorderRadius.all(
                     Radius.circular(10),
                   ),
-                  color: Theme.of(context).primaryColor,
+                  //color: Theme.of(context).primaryColor,
                 ),
                 child: ImagePreview(),
-                height: contraints.maxHeight * 0.3,
-                width: contraints.maxWidth * 0.5,
+                height: contraints.maxHeight * 0.4,
+                width: contraints.maxWidth * 0.8,
               ),
               SizedBox(
                 height: contraints.maxHeight * 0.1,

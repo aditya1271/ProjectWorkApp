@@ -5,8 +5,9 @@ import '../Widgets/CameraContainer(Button).dart';
 import '../Widgets/GalleryButton.dart';
 
 class ImageInputScreen extends StatelessWidget {
-  static  Function f;
+  static Function f;
   static Image img;
+
   @override
   Widget build(BuildContext context) {
     return LayoutBuilder(builder: (context, contraints) {
@@ -55,18 +56,20 @@ class ImageInputScreen extends StatelessWidget {
             ),
             color: Theme.of(context).accentColor,
             child: InkWell(
-              onTap: () {},
+              onTap: () {
+                print(MediaQuery.of(context).size.height);
+              },
               splashColor: Theme.of(context).primaryColor,
               child: Container(
                 width: MediaQuery.of(context).size.width,
                 alignment: Alignment.center,
-                height: 40,
+                height: MediaQuery.of(context).size.height * 0.06,
                 child: Text(
                   "Go",
                   style: TextStyle(
                       color: Colors.white,
                       fontWeight: FontWeight.bold,
-                      fontSize: 25),
+                      fontSize: MediaQuery.of(context).size.height >= 1000.0? 50 : 25),
                   textAlign: TextAlign.center,
                 ),
                 decoration: BoxDecoration(

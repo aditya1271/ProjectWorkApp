@@ -13,14 +13,16 @@ class _ImagePreviewState extends State<ImagePreview> {
     final img = Provider.of<Image_Provider>(context).img;
 
     return ClipRRect(
-
-        borderRadius: BorderRadius.all(Radius.circular(10)),
-        child: img == null
-            ? Image.asset(
-                'assets/images/no_image.png',
-                fit: BoxFit.fill
-          ,
-              )
-            : FittedBox(child: img,fit: BoxFit.fill,));
+      borderRadius: BorderRadius.all(Radius.circular(10)),
+      child: img == null
+          ? Image.asset(
+              'assets/images/no_image.png',
+              fit: BoxFit.fill,
+            )
+          : FittedBox(
+              child: img,
+              fit: BoxFit.fill,
+            ),
+    );
   }
 }

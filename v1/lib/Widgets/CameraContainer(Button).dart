@@ -62,6 +62,7 @@ class _CameraContainerState extends State<CameraContainer> {
         child: Icon(
           Icons.camera_alt,
           color: taped ? Colors.white : Colors.black,
+          size: MediaQuery.of(context).size.height > 800 ? 30 : 25,
         ),
         margin: EdgeInsets.symmetric(horizontal: 10),
         height: widget.h,

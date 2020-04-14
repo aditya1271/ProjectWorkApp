@@ -1,3 +1,4 @@
+import 'package:device_preview/device_preview.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:v1/firsttimeinstalling.dart';
@@ -18,6 +19,7 @@ class MyApp extends StatelessWidget {
         ChangeNotifierProvider.value(value: Image_Provider())
       ],
       child: MaterialApp(
+        //builder: DevicePreview.appBuilder,
         home: HomeApp(),
         theme: ThemeData(
           primaryColor: Color.fromRGBO(14, 196, 169, 1),

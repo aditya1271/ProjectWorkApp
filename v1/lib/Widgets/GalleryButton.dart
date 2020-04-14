@@ -31,18 +31,15 @@ class _GalleryContainerState extends State<GalleryContainer> {
         taped = false;
       });
     });
-try{
-  final img = await ImagePicker.pickImage(
-    source: ImageSource.gallery,
-  );
-  Provider.of<Image_Provider>(context,listen: false)
-      .functionhelpingchangereview(Image.file(img));
-} catch (error)
-    {
+    try {
+      final img = await ImagePicker.pickImage(
+        source: ImageSource.gallery,
+      );
+      Provider.of<Image_Provider>(context, listen: false)
+          .functionhelpingchangereview(Image.file(img));
+    } catch (error) {
       print(error);
     }
-
-
   }
 
   @override
@@ -52,8 +49,11 @@ try{
         functanlity();
       },
       child: Container(
-        child:
-            Icon(Icons.attach_file, color: taped ? Colors.white : Colors.black),
+        child: Icon(
+          Icons.attach_file,
+          color: taped ? Colors.white : Colors.black,
+          size: MediaQuery.of(context).size.height > 800 ? 30 : 25,
+        ),
         decoration: BoxDecoration(
           color: Theme.of(context).accentColor,
           borderRadius: BorderRadius.all(

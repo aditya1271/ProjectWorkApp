@@ -8,6 +8,7 @@ import 'package:provider/provider.dart';
 class CameraContainer extends StatefulWidget {
   final double h;
   final double w;
+  AnimationController controller;
 
   // final Function f;
 
@@ -21,6 +22,7 @@ class _CameraContainerState extends State<CameraContainer> {
   bool taped = false;
   Image img;
   Timer timer;
+
 
   void functanlity() async {
     setState(() {
@@ -36,6 +38,7 @@ class _CameraContainerState extends State<CameraContainer> {
        final img = await ImagePicker.pickImage(
          source: ImageSource.camera,
        );
+
        Provider.of<Image_Provider>(context,listen: false)
            .functionhelpingchangereview(Image.file(img));
      } catch(error)

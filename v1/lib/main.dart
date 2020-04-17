@@ -6,8 +6,6 @@ import 'package:v1/providers/firsttimeprovider.dart';
 import 'package:v1/screen/imageinputscreen.dart';
 import 'package:v1/providers/imageprovider.dart';
 
-
-
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
@@ -25,8 +23,8 @@ class MyApp extends StatelessWidget {
           primaryColor: Color.fromRGBO(14, 196, 169, 1),
           accentColor: Color.fromRGBO(7, 218, 230, 1),
           canvasColor: Color.fromRGBO(25, 26, 26, 1),
-
         ),
+
       ),
     );
   }
@@ -40,17 +38,14 @@ class HomeApp extends StatefulWidget {
 class _HomeAppState extends State<HomeApp> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: Text(""),
-      ),
-      body: Consumer<FirstTimeProvider>(
+    return Consumer<FirstTimeProvider>(
         builder: (context, val, _) => FutureBuilder(
           builder: (context, snapshot) =>
               val.temp ? ImageInputScreen() : Firsttime(),
           future: val.f2(),
         ),
-      ),
-    );
+
+      );
+
   }
 }

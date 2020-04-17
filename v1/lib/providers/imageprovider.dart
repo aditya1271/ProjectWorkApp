@@ -10,6 +10,7 @@ class Image_Provider extends ChangeNotifier {
   void functionhelpingchangereview(Image img) {
     _img = img;
 
+
     notifyListeners();
   }
 }

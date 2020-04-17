@@ -8,10 +8,12 @@ import 'package:v1/providers/imageprovider.dart';
 class GalleryContainer extends StatefulWidget {
   final double h;
   final double w;
+  final AnimationController controller;
+
 
   // final Function f;
 
-  GalleryContainer(this.h, this.w);
+  GalleryContainer({this.h, this.w,this.controller});
 
   @override
   _GalleryContainerState createState() => _GalleryContainerState();
@@ -34,7 +36,9 @@ class _GalleryContainerState extends State<GalleryContainer> {
     try {
       final img = await ImagePicker.pickImage(
         source: ImageSource.gallery,
+
       );
+
       Provider.of<Image_Provider>(context, listen: false)
           .functionhelpingchangereview(Image.file(img));
     } catch (error) {

@@ -13,7 +13,7 @@ Future<void> f1() async {
 
     pref.setString("id", "ready");
 
-    notifyListeners();
+    //notifyListeners();
   }
 Future<void> f2()async{
     final pref = await SharedPreferences.getInstance();

@@ -23,6 +23,7 @@ dependencies:
   provider: ^4.0.5
   image_picker: ^0.6.5
   device_preview: ^0.4.4
+  path_provider: ^1.6.5
 
 
   # The following adds the Cupertino Icons font to your application.

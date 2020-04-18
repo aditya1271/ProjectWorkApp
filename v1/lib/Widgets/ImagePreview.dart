@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:v1/Widgets/GalleryButton.dart';
+
+
 import '../providers/imageprovider.dart';
 
 class ImagePreview extends StatefulWidget {
@@ -42,6 +43,8 @@ class _ImagePreviewState extends State<ImagePreview>
   @override
   Widget build(BuildContext context) {
     img = Provider.of<Image_Provider>(context).img;
+
+
 
     return ClipRRect(
       borderRadius: BorderRadius.all(Radius.circular(10)),

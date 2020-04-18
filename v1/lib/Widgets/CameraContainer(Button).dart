@@ -4,6 +4,8 @@ import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 import '../providers/imageprovider.dart';
 import 'package:provider/provider.dart';
+import 'package:path_provider/path_provider.dart' as path_provider;
+import 'package:path/path.dart' as path;
 
 class CameraContainer extends StatefulWidget {
   final double h;
@@ -41,10 +43,15 @@ class _CameraContainerState extends State<CameraContainer> {
 
        Provider.of<Image_Provider>(context,listen: false)
            .functionhelpingchangereview(Image.file(img));
+       final path1 = await path_provider.getApplicationDocumentsDirectory();
+       final path2 = path.basename(img.path);
+
+       final copiedpath=img.copy(path.join(path1.path,path2));
      } catch(error)
     {
       print(error);
     }
+
 
 
   }

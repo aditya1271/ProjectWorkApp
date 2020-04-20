@@ -18,7 +18,13 @@
 	<string>$(FLUTTER_BUILD_NAME)</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
-	<key>CFBundleVersion</key>
+	<key>NSPhotoLibraryUsageDescription</key>
+    <string>Need your permission for camera</string>
+    <key>NSCameraUsageDescription</key>
+    <string>Required camera permissions for data</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>Permission for microphone</string>
+    <key>CFBundleVersion</key>
 	<string>$(FLUTTER_BUILD_NUMBER)</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>

@@ -1,0 +1,193 @@
+(smallest/JJS single/JJ unit/NN)
+(life/NN)
+(collection/NN)
+(organelles/NNS)
+(specific/JJ functions/NNS)
+(Rudolph/NNP Virchow/NNP)
+(work/NN)
+(other/JJ scientists/NNS)
+(accurate/JJ conclusions/NNS)
+(cells/NNS)
+(Cell/NNP Theory/NNP)
+(statements/NNS)
+(functional/JJ unit/NN)
+(living/JJ things/NNS)
+(pre-existing/JJ cells/NNS)
+(inheritable/JJ information/NN)
+(cell/NN)
+(cell/NN division/NN)
+(chemical/JJ composition/NN)
+(metabolism/NN)
+(biochemistry/NN)
+(life/NN occurs/NNS)
+(cell/NN theory/NN)
+(amoeba/NN)
+(necessary/JJ functions/NNS)
+(species/NNS)
+(part/NN)
+(multicellular/JJ organism/NN)
+(many/JJ cells/NNS)
+(varying/VBG functions/NNS according/VBG)
+(cell/NN type/NN)
+(living/NN organism/NN)
+(way/NN)
+(energy/NN)
+(wastes/NNS)
+(functions/NNS)
+(Domains/NNS according/VBG)
+(specific/JJ characteristics/NNS)
+(A./NN Prokaryotic/NNP cells/NNS)
+(simple/JJ cells/NNS)
+(few/JJ organelles/NNS)
+(nucleus/NN)
+(DNA/NNP)
+(blueprints/NNS)
+(growth/NN)
+(reproduction/NN)
+(cell/NN wall/NN)
+(cytoplasm/NN)
+(few/JJ other/JJ organelles/NNS)
+(prokaryotic/JJ cells/NNS)
+(bacteria/NNS)
+(short/JJ hair-like/JJ structures/NNS)
+(pili/NN)
+(long/JJ whip/NN)
+(flagellum/NN) Lisp/NNP
+Artificial/NNP intelligence/NN languages/NNS
+Artificial/NNP intelligence/NN software/NN
+computer/NN
+particular/JJ objects/NNS
+real/JJ life/NN scene/NN
+Digital/NNP convertor/NN
+ADC/NNP
+Binary/NNP version/NN
+    scene/NN
+    Saifullah_khyber/NNP
+    @/NNP
+    yahoo.com/NNP
+    Ai/NNP
+    /NNP
+    vision/NN
+    program/NN
+    /NNP
+Search/NNP
+video/NN camera/NN
+picture/NN
+video/JJ signal/NN
+converter/NN changes/NNS
+analog/NN
+scene/NN
+voice/NN recognizer/NN
+NLP/NNP
+input/NN
+Ai/NNP technique/NN
+Ai/NNP
+Hardware/NNP
+computer/NN software/NN
+Computer/NNP science/NN
+subfield/NN
+Artificial/JJ Intelligence/NNP
+thinking/NN
+capability/NN
+knowledge/NN
+inference/NN engine/NN
+ability/NN
+such/JJ computer/NN
+chess/NN
+B/NNP
+person/NN
+qualitative/JJ problem/NN
+algorithm/NN
+quantitative/JJ problems/NNS
+step/NN
+step/NN procedure/NN
+problem/NN
+human/JJ intelligence/NN
+problems/NNS
+computer/NN system/NN
+software/NN
+machine/NN
+untrained/JJ user/NN
+artificial/JJ intelligence/NN
+operating/NN system/NN languages/NNS
+syntax/NN
+cryptic/JJ commands/NNS
+other/JJ language/NN
+mother/NN
+tongue/NN
+English/NNP
+data/NNS
+Expert/NNP system/NN
+Knowledge/NNP Base/NNP
+facts/NNS
+ideas/NNS relationship/NN
+interactions/NNS
+specific/JJ domain/NN
+decision/NN
+field/NN
+order/NN
+understanding/JJ images/NNS
+processing/NN
+methods/NNS
+intelligence/NN
+Ai/NNP French/NNP
+main/JJ goals/NNS
+more/JJR characteristics/NNS
+device/NN
+man/NN
+Ai/NNP Conventional/NNP
+Intelligent/NNP Computing/NNP Advantages/NNP
+Disadvantages/NNP
+Ai/NNP Application/NNP
+Computers/NNS
+User/NNP
+dump/JJ machine/NN
+Pashto/NNP language/NN
+program/NN
+Artificial/JJ intelligence/NN
+computer/NN programs/NNS
+C++/NNP
+C/NNP
+conventional/JJ languages/NNS
+Computer/NNP
+lot/NN
+much/JJ facility/NN
+loop/NN statements/NNS
+conventional/JJ computer/NN system/NN
+records/NNS
+organization/NN
+/JJ Doing/NNP repetitive/NN
+conventional/JJ software/NN system/NN
+facility/NN
+/JJ intelligence/NN
+corporations/NNS
+DEC/NNP
+user/NN interface/NN software/NN
+new/JJ knowledge/NN
+knowledge/NN base/NN
+implements/NNS communication/NN
+position/NN
+arm/NN
+other/JJ conditions/NNS
+development/NN
+Ai/NNP S/w/NNP
+difficulty/NN
+intelligent/JJ advisor/NN
+lots/NNS
+fast/JJ CPU/NNP
+powerful/JJ computers/NNS
+Logic/NNP
+human/JJ thought/NN
+robots/NNS
+many/JJ AI/NNP applications/NNS
+mainframes/NNS
+H/w/NNP
+wide/JJ range/NN
+/JJ B/NNP /NN
+class/NN
+A/NNP /NNP
+move/NN
+manufacturing/NN operation/NN
+place/NN parts/NNS
+manipulator/NN arm/NN
+sequential/JJ procedure/NN

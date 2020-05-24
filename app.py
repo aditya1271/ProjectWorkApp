@@ -1,12 +1,11 @@
-
+# Always Remove pyobject from requirements.txt
 from flask import Flask, render_template, url_for, request, redirect
-from flask_sqlalchemy import SQLAlchemy
 from datetime import datetime
-from SPARQLWrapper import SPARQLWrapper,JSON
 import pandas as pd
 import nltk
 import re
 from nltk.tokenize import PunktSentenceTokenizer
+from SPARQLWrapper import SPARQLWrapper,JSON
 from bs4 import BeautifulSoup as bs
 import pickle
 import requests
@@ -99,7 +98,6 @@ def onotology(task_content):
                 wikidata.append(url)
                 #print(url)
         #print(wikidata)
-
         count = 0
         wikidata_id  = ""
         for i in wikidata[0]:
@@ -241,18 +239,22 @@ def onotology(task_content):
 
     def Graph_gen():
         load_graph()
+        print(len(Graph))
         for node in list_of_nodes:
             id,new_node=id_extractor(node)
             if id!="-1":
                 renamed_nodes.append(new_node)
                 save_graph("prev_graph.txt")
                 if new_node not in Graph:
-                    chilldren(node,id,0)
-                    parent(node,id,0)
+                    #print("Here")
+                    chilldren(new_node,id,0)
+                    parent(new_node,id,0)
                     #print(Graph)
                     save_graph("graph.txt")
+        print("DONE")
 
     data_to_list(task_content)
+    print(list_of_nodes)
     Graph_gen()
 
 
@@ -263,11 +265,8 @@ def onotology(task_content):
 def index():
     if request.method == 'POST':
         task_content = request.form['content']
-
         #print(task_content)
-
         try:
-
             onotology(task_content)
             #onotology()
             return redirect('/')
@@ -275,7 +274,7 @@ def index():
             return 'There was an issue adding your task'
 
     else:
-        tasks = Todo.query.order_by(Todo.date_created).all()
+
         return render_template('index.html', tasks=[len(Graph)])
 
 

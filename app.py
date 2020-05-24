@@ -275,7 +275,7 @@ def index():
 
     else:
 
-        return render_template('index.html', tasks=[len(Graph)])
+        return render_template('index.html', tasks=renamed_nodes)
 
 
 

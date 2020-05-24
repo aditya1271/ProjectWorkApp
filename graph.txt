@@ -1,3 +1,9 @@
+metaclass
+Wikidata metaclass
+chemical component
+vehicle family
+variable-order metaclass
+-1
 Ryukyuan people
 -1
 Fachportal Pädagogik – Education Research Portal
@@ -27,8 +33,6 @@ Amiga 600
 Amiga 500 Plus
 Amiga 1500
 -1
-Q10871615
--1
 Fortran
 coarray Fortran
 High Performance Fortran
@@ -47,8 +51,7 @@ Fortran 2018
 -1
 iRobot Create
 -1
-power station
-control room
+MERIT Internodal Protocol
 -1
 mounting bracket
 Flat Display Mounting Interface
@@ -67,8 +70,6 @@ bailiff
 crime fighter
 Q16957269
 -1
-pro–am
--1
 The Madonna in art
 Madonna
 Child
@@ -79,13 +80,11 @@ Madonna and Child
 -1
 Q1513626
 -1
-Japanese people in China
+Intermediary
 -1
 Esperanto alphabet
 B
 A
--1
-Q33219663
 -1
 VARSX
 -1
@@ -95,14 +94,9 @@ service industry worker
 funeral service professional
 valet parking attendant
 -1
-field recording
-live recording
--1
 sports fan
 -1
 Mercurial SSH command protocol
--1
-Q1871103
 -1
 Bosporus Germans
 -1
@@ -115,6 +109,16 @@ Q3388476
 ThinCan
 -1
 folk saint
+-1
+Internet Protocol
+DEC-Bit
+IP fragmentation
+IP packet
+Trunk-1
+IPv6 adoption
+ephemeral port
+Dynamic IP
+Q56808665
 -1
 command and control
 -1
@@ -163,15 +167,13 @@ Tait conjectures
 Torsion conjecture
 Pollock's conjecture
 -1
-data in transit
--1
 planning expert system
 -1
-Kraut
+Service-Specific Connection-Oriented Protocol in a Multilink and Connectionless Environment
 -1
-Finnish alphabet
-B
-A
+neuro-linguistic programming
+Q2307244
+Q2984926
 -1
 computer hardware
 power supply unit
@@ -253,6 +255,9 @@ railroad engineer
 Q1373245
 freight conductor
 -1
+sleep study
+Multiple Sleep Latency Test
+-1
 overall winner general classification
 -1
 home plate
@@ -301,7 +306,8 @@ IMSAI 8080
 -1
 13th great-grandparent
 -1
-MERIT Internodal Protocol
+undead in Warcraft
+Forsaken
 -1
 fourth-generation programming language
 -1
@@ -318,8 +324,6 @@ HTC Shift
 Vulcan FlipStart
 -1
 Q13973030
--1
-Colossus
 -1
 standard person
 -1
@@ -345,14 +349,13 @@ Krait
 -1
 Q18745806
 -1
-production supervisor
-senior production supervisor
--1
 grandparent
 grandmother
 grandfather
 paternal grandparent
 maternal grandparent
+-1
+abstract thought
 -1
 Acer Veriton
 -1
@@ -411,7 +414,43 @@ Gaussian blur
 Confucian scholar
 Q11457485
 -1
-motorist
+metadata
+timestamp
+tag
+annotation
+header
+geospatial metadata
+attribute
+coverage
+creator
+date
+description
+language
+relation
+preservation metadata
+Standard Architecture for Universal Comment Extensions
+archival description
+subject
+bibliographic metadata
+Web Annotation Data Model
+NIF 2.0
+Extremely Annotational RDF Markup
+legal requirements metadata
+use metadata
+descriptive metadata
+stand-alone metadata
+structural metadata
+technical metadata
+embedded metadata
+Q66555539
+book imprints
+title
+publisher
+type
+format
+identifier
+source
+rights
 -1
 human biblical figure
 Simon and Jude
@@ -470,35 +509,6 @@ anthropology
 cognitive science
 artificial intelligence
 -1
-educator
-Enseignant au Collégial
-Q3054733
-Q3054735
-teacher
-rhetorician
-preceptor
-ballet master
-tutor
-governess
-Q1670591
-school counselor
-Scout leader
-preschool teacher
-Q3580097
-specialized educator
-Q3580099
-paraprofessional educator
-Q12310964
-Kinderpfleger
-art educator
-instructor
-sex educator
-riding coach
-member of a board of education
-Jesuit
-health educator
-normal master
--1
 protection
 Ökostollen
 Öltagebuch
@@ -537,15 +547,10 @@ Distance Vector Multicast Routing Protocol
 exterior gateway protocol
 ad hoc routing protocol
 -1
-game designer
-puzzle designer
-video game designer
-crossword compiler
-role-playing game designer
-video game developer
-level designer
--1
 Q27922429
+-1
+natural language processing
+speech recognition
 -1
 healthy weight
 -1
@@ -566,7 +571,7 @@ Secure Hypertext Transfer Protocol
 -1
 determined by the player
 -1
-human nkt cell
+Macintosh 128K
 -1
 demoware
 -1
@@ -657,8 +662,10 @@ non-binary human
 -1
 Network Voice Protocol
 -1
-medium
-Tongji
+Macintosh Quadra 605
+-1
+Inferno
+Q9086151324
 -1
 storyboard artist
 -1
@@ -672,6 +679,16 @@ campanology
 Q3733830
 -1
 discipline-specific programming language
+-1
+expansion bus
+Peripheral Component Interconnect
+PCI Express
+Accelerated Graphics Port
+SATA Express
+-1
+machine instruction
+CPUID
+floating point operation
 -1
 forked tongue
 -1
@@ -700,8 +717,6 @@ Cognitive skill
 -1
 type
 -1
-rural municipality of Nepal
--1
 foliate papilla
 -1
 challenge–response authentication
@@ -728,6 +743,12 @@ computational linguistics
 natural language processing
 speech recognition
 -1
+address
+email address
+@
+username
+@
+-1
 Dissimilar Gateway Protocol
 -1
 winner of the young rider classification
@@ -740,37 +761,17 @@ David and Simon Reuben
 David Reuben
 Simon Reuben
 -1
-eunuch
-eunuch in Imperial China
-castrato
-gallus
-eunuch official
+Q20741461
 -1
 room
 control room
 alarm device
 -1
-player
-gamemaster
-card player
-field player
-dealer
-Q2419025
-Hijack
-player to be named later
-competitive player
-Quidditch player
-Valencian pilota player
-real tennis player
-player of jeu de paume
-mind gamer
-English billiards player
+rights
 -1
 PARC Universal Packet
 -1
 Integrated Net Layer Security Protocol
--1
-Abox
 -1
 work
 algorithm
@@ -807,16 +808,16 @@ Löwenheim–Skolem theorem
 -1
 odalisque
 -1
-Q28864043
+Sitter
 -1
 electrical network
 integrated circuit
 -1
 domino computer
 -1
-Q620569
+free-form language
 -1
-lateral thinking
+Q620569
 -1
 ascetic
 Fakir
@@ -834,17 +835,13 @@ Q2301194
 -1
 political domain
 -1
-anti-nuclear activist
-anti-nuclear power activist
-anti-nuclear weapons activist
--1
 Saro
 -1
 extended binary tree
 -1
-@
+Q3125117
 -1
-Paluche
+Q33219663
 -1
 AmiTCP
 -1
@@ -858,23 +855,28 @@ approved social worker
 Q10709550
 child protection worker
 -1
-AIM-65
+software development process
+software configuration management
+software development methodology
+software verification and validation
+waterfall model
+software prototyping
+rapid prototyping
+spiral model
+iterative and incremental development
+Q3859853
+Q3859878
+MBASE
 -1
 Alcatel Alpha Plus
 -1
-sleeper
-dreamer
-sleepwalker
+intelligent dance music
 -1
 sportsperson with relation to this place
 -1
-position fixing
--1
 12th man
 -1
-personal computer hardware
-white box
-thermal printer
+Colour of Love
 -1
 arcade system board
 Namco System 11
@@ -887,11 +889,11 @@ SNK Triple Z80 Based
 Killer Instinct arcade motherboard
 Atari Vector
 -1
-base clock frequency
+Apostles of Linnaeus
 -1
 DOT pictograms
 -1
-Service-Specific Connection-Oriented Protocol in a Multilink and Connectionless Environment
+Kraut
 -1
 Intel 8048
 -1
@@ -909,7 +911,7 @@ robot
 -1
 strictfp
 -1
-Nlb
+Allochtoon
 -1
 Good Ole Boys Like Me
 -1
@@ -1021,8 +1023,6 @@ great-grandaunt or great-granduncle
 93rd great-grandparent
 94th great-grandparent
 -1
-episyllogism
--1
 Block-level storage
 -1
 service worker
@@ -1040,13 +1040,15 @@ access method
 -1
 description
 -1
-domain-specific language
+16th great-grandparent
 -1
 use metadata
 -1
 Time-Triggered Protocol
 -1
 Mining Rig
+-1
+Tbox
 -1
 S corporation
 -1
@@ -1059,7 +1061,7 @@ Hero of Socialist Labour
 Hero of Socialist Labour of Czechoslovakia
 Order of the Hero of Socialist Labour
 -1
-Tbox
+Gittite
 -1
 splay tree
 -1
@@ -1079,7 +1081,12 @@ Bulawa
 Toy robots
 Hexbug
 -1
+Nascom
+-1
 Economic data
+-1
+music psychology
+music perception
 -1
 28th great-grandparent
 -1
@@ -1097,6 +1104,8 @@ Q13986915
 Seattleites
 Portlanders
 -1
+Transaction Control Language
+-1
 Q2253199
 -1
 wing
@@ -1107,13 +1116,28 @@ Q12031142
 insect wing
 bird's wing
 -1
+cross-platform software
+-1
 self-balancing binary search tree
 (a,b)-tree
 height-balanced binary search tree
 -1
 interpretation
 -1
-born-again virgin
+consent
+Informed consent document
+ratification
+informed consent
+imprimatur
+Q2823451
+consensus
+Q2994426
+Queen's Consent
+photos allowed
+Sexual consent
+ethical approval
+access
+speaking languages other than Esperanto is tolerated
 -1
 Q21694612
 -1
@@ -1122,8 +1146,6 @@ binary tree
 -1
 heraldic badge
 heraldic knot
--1
-Q8964089
 -1
 Q27906726
 -1
@@ -1158,8 +1180,6 @@ Linux namespaces
 crypto-agility
 result view
 -1
-Big History
--1
 Mercurial HTTP command protocol over TLS
 -1
 API management
@@ -1181,8 +1201,6 @@ EPR01
 writing
 scientific terminology
 -1
-modus ponens
--1
 cataloguing module
 -1
 Fragment Header for IPv6
@@ -1192,6 +1210,8 @@ Q9816468
 Q18244608
 Q61000279
 Q65167411
+-1
+profile
 -1
 International Organization for Standardization Internet Protocol
 -1
@@ -1389,6 +1409,8 @@ BigDog
 -1
 XT4 Internal Interconnect
 -1
+actor-based programming language
+-1
 African people
 Zulu people
 Makaa people
@@ -1411,7 +1433,7 @@ Q2989426
 motorcycle racer
 motorbiker
 -1
-abstract thought
+primary sex characteristic
 -1
 human research subject
 -1
@@ -1452,12 +1474,9 @@ Elk Cloner
 Apple IIe
 Apple IIc Plus
 -1
-crown shyness
--1
 Cross Net Debugger
 -1
-clean-up artist
-clean-up supervisor
+Procedure (disambiguation)
 -1
 XScale PXA270
 -1
@@ -1490,9 +1509,53 @@ Q5493361
 -1
 folk hero
 -1
-thematic analysis
+network card
+small form-factor pluggable transceiver
+wireless network interface controller
+NE1000
+Converged network adapter
+Kedron
+TP-LINK TL-WN822N v1
 -1
-high-level programming language
+female human
+Womanhood
+woman
+girl
+mother
+girlfriend
+aunt
+wife
+daughter
+sister
+mother-in-law
+great-grandmother
+half-sister
+sister-in-law
+niece
+grandniece
+grandaunt
+stepmother
+second aunt
+daughter-in-law
+granddaughter
+stepdaughter
+stepsister
+adopted daughter
+foster mother
+great-granddaughter
+may be daughter
+may be mother
+Q23067029
+cousin-in-law
+adoptive sister
+great-great-grandmother
+godmother
+grandmother-in-law
+co-sister-in-law
+great-great-granddaughter
+female cousin
+adoptive mother
+great-grandniece
 -1
 naturalized Japanese citizens of Korean origin
 -1
@@ -1580,9 +1643,9 @@ Coats of arms of Brazilian capitals
 Raison coat of arms
 Coats of arms of Brittany pays
 -1
-DEC-Bit
+left forearm
 -1
-divine soul
+domain-specific language
 -1
 TRS-80
 TRS-80 Color Computer
@@ -1603,94 +1666,8 @@ Voskhod Spacecraft "Globus" IMP navigation instrument
 -1
 Q63860540
 -1
-engineer
-audio engineer
-combat engineer
-inventor
-flight engineer
-business manager
-financial engineer
-electrical engineer
-sales engineer
-systems engineer
-building services engineer
-naval engineer
-hydraulic engineer
-Q1750051
-Coastal engineering
-chief engineer
-mechanical engineer
-Q1978899
-race engineer
-engineering officer
-commercial engineer
-Q2267418
-structural engineer
-liaison engineer
-energy engineer
-geological engineer
-Master of Science in Engineering
-Centralien
-architectural engineer
-structural calculation engineer
-Corps de l'armement
-chief mechanical engineer
-safety engineer
-chemical engineer
-Q10272925
-knowledge engineer (double entry)
-hydrology technician
-Q11006100
-telecommunications engineer
-civil engineer
-mechatronics engineer
-aerospace engineer
-forestry engineer
-technologist
-Q16643554
-optical engineer
-mining engineer
-marine engineer
-agricultural engineer
-biomedical engineer
-Q20078556
-management engineer
-aeronautical engineer
-environmental engineer
-materials engineer
-nuclear engineer
-petroleum engineer
-building engineer
-agriculturist
-business engineer
-Q27041990
-home automation engineer
-metallurgical engineer
-design engineer
-highway engineer
-Q47514955
-lighting technology engineer
-acoustical engineer
-automotive engineer
-forest engineer
-bureau engineer
-spatial planner
-satellite engineer
-Food Technologist
-principal engineer
-fire protection engineer
-computer engineer
-refrigeration engineer
-information engineer
-food engineer
-consulting engineer
-process engineer
-biochemical engineer
-Q77467349
-mechanical designer
-watch and clock repairer
-textile engineer
-production engineer
+size
+organism
 -1
 Q63860010
 -1
@@ -1729,9 +1706,6 @@ logging
 -1
 Point-to-point protocol over Ethernet
 -1
-urban history
-Q18745232
--1
 municipality of Chile
 -1
 Q1221121
@@ -1752,9 +1726,6 @@ Europeans
 Engelandvaarder
 Dutch people
 Europeans in Medieval China
--1
-size
-organism
 -1
 caravan dweller
 -1
@@ -1793,7 +1764,7 @@ Multiplexing Protocol
 -1
 IBM System/32
 -1
-health data
+P8000
 -1
 Cell
 Apulet
@@ -1864,6 +1835,21 @@ third base
 -1
 finger search tree
 -1
+skilled worker
+electrician
+printer
+machinist
+auto mechanic
+diver
+crane driver
+car finance
+vocational driver
+lathe operator
+new-collar worker
+-1
+Merold
+Yahoo
+-1
 Gigapixel image
 -1
 character supervisor
@@ -1913,6 +1899,8 @@ Coats of arms of Brittany pays
 -1
 HP ePrint
 -1
+MERA-80
+-1
 torrent file
 -1
 tool
@@ -1956,8 +1944,6 @@ Q63859237
 white
 Apple Network Server
 -1
-Digital History
--1
 witch in fantasy fiction and games
 Witch
 hag
@@ -1968,13 +1954,16 @@ Panasonic AG-HVX200
 -1
 probabilistic programming language
 -1
-gender symbol
+autonomous robot
+robotic vacuum cleaner
+military robot
+robotic lawn mower
+-1
+fellow human
 -1
 tree
 polytree
 rooted tree
--1
-Q3859853
 -1
 JVM language
 -1
@@ -1984,7 +1973,7 @@ equestrian portrait
 -1
 Rainbow 100
 -1
-workaholic
+Q11916775
 -1
 Q2794716
 -1
@@ -2003,7 +1992,21 @@ Begging (song)
 hologram
 microhologram
 -1
-Gödel numbering for sequences
+physical activity
+sport
+-1
+polymerase chain reaction
+reverse transcription polymerase chain reaction
+inverse polymerase chain reaction
+RAPD
+multiplex ligation-dependent probe amplification
+touchdown polymerase chain reaction
+real-time polymerase chain reaction
+nested polymerase chain reaction
+multiplex polymerase chain reaction
+Quantitative polymerase chain reaction
+hot start PCR
+Digital polymerase chain reaction
 -1
 58th great-grandparent
 -1
@@ -2013,12 +2016,12 @@ seer
 -1
 VINES
 -1
-7th great-grandparent
+episyllogism
 -1
 specialized terminology
 scientific terminology
 -1
-Q16068947
+smoker
 -1
 Banana Pro
 -1
@@ -2028,7 +2031,8 @@ Q3085681
 -1
 HERO
 -1
-Q1230352
+electronic component
+integrated circuit
 -1
 David and Frederick Barclay
 Frederick Barclay
@@ -2273,9 +2277,6 @@ Green-collar worker
 -1
 non-vegetarian
 -1
-special public interest promotion corporation
-Independent Administrative Institution
--1
 Leaf-2
 -1
 chess
@@ -2301,14 +2302,13 @@ Q21055024
 -1
 Akkordant
 -1
-heat spreader
-Copper tubing
-heat pipe
-griddle
+sleeper
+dreamer
+sleepwalker
 -1
 software verification and validation
 -1
-robotic arm
+dice chess
 -1
 block-structured programming language
 -1
@@ -2317,6 +2317,8 @@ Canon EOS C500
 SATNET Monitoring
 -1
 Q13466284
+-1
+Virtuelle Fachbibliothek Germanistik
 -1
 digital elevation model
 Shuttle Radar Topography Mission
@@ -2440,29 +2442,16 @@ address bus
 -1
 Javaw
 -1
-electronic component
-integrated circuit
+personal computer hardware
+white box
+thermal printer
 -1
 Cable modem termination system
 -1
 principle
 value
 -1
-search engine
-web indexing
-indexation software
-Human search engine
-route planning software
-desktop search
-vertical search engine
-Q2713778
-Visual search engine
-distributed search engine
-network search engine
-Search appliance
-scholarly search service
-hangul search engine
-BiTtorrent search engine
+Sozio
 -1
 Educational Wall Picture
 -1
@@ -2481,11 +2470,11 @@ point of view
 -1
 Save the Overtime
 -1
-Knightscope
--1
 Remote administration software
 -1
 twen
+-1
+Continuous Integration Software
 -1
 sage
 Rishi
@@ -2500,7 +2489,7 @@ subdivision of cardinal body part
 -1
 heckler
 -1
-actor-based programming language
+Anno
 -1
 PC speaker
 -1
@@ -2523,8 +2512,6 @@ ontic
 -1
 Deviant
 -1
-disproven person
--1
 Convergent thinking
 -1
 Q11947939
@@ -2539,8 +2526,6 @@ Preparation
 theatrical genre
 dramaturgy
 theatre, film and media studies
--1
-Q12031142
 -1
 person related to this place
 -1
@@ -2558,7 +2543,7 @@ GS workstation
 -1
 Programmed Data Processor
 -1
-discrete interval encoding tree
+Q62024691
 -1
 Sol Zakay
 -1
@@ -2602,8 +2587,6 @@ History of art criticism
 vase science
 Art geography
 -1
-technical animation supervisor
--1
 nervous system disease
 genetic nervous system disorder
 -1
@@ -2624,11 +2607,11 @@ Q27926295
 -1
 Eurasian
 -1
+Nlb
+-1
 Full system simulator
 -1
 Q12054447
--1
-inductive reasoning
 -1
 Dropper
 -1
@@ -2639,22 +2622,16 @@ stateful protocol
 -1
 IHS
 -1
-nipple
-male nipple
-female nipple
-Right nipple
-Left nipple
--1
 platform as a service
 -1
 Q2258803
 -1
 podcast episode
 -1
-Celtic cross
-Cross stone
+ZX Interface 1
 -1
-Bluetooth Networking Encapsulation Protocol
+International Phonetic Alphabet
+Ă
 -1
 Canon Cinema EOS
 Canon EOS C500
@@ -2664,53 +2641,11 @@ Galeb
 Legacy-free PC
 Chrome OS computer
 -1
-68th great-grandparent
--1
-metadata
-timestamp
-tag
-annotation
-header
-geospatial metadata
-attribute
-coverage
-creator
-date
-description
-language
-relation
-preservation metadata
-Standard Architecture for Universal Comment Extensions
-archival description
-subject
-bibliographic metadata
-Web Annotation Data Model
-NIF 2.0
-Extremely Annotational RDF Markup
-legal requirements metadata
-use metadata
-descriptive metadata
-stand-alone metadata
-structural metadata
-technical metadata
-embedded metadata
-Q66555539
-book imprints
-title
-publisher
-type
-format
-identifier
-source
-rights
--1
 WebFTP
 -1
 Radio Regulations
 -1
 learning management system
--1
-categorical variable
 -1
 victim
 people killed at the Berlin Wall
@@ -2756,9 +2691,6 @@ victim of Stalinism
 -1
 DEC Professional (computer)
 -1
-genetic variability
-polymorphism
--1
 servant of God
 -1
 Ethernet-within-IP Encapsulation
@@ -2789,7 +2721,7 @@ qualitative property
 -1
 ARM Cortex-A53
 -1
-Susan
+Digital History
 -1
 gentleman
 Junzi
@@ -2797,7 +2729,24 @@ Junzi
 tragic hero
 Byronic hero
 -1
-Cubieboard2
+martial artist
+Yusei
+Grandmaster
+budoka
+uke
+rikishi
+judoka
+karateka
+boxer
+mixed martial artist
+amateur wrestler
+Brazilian jiu-jitsu practitioner
+sambo fighter
+wrestler
+jujutsuka
+capoeira practitioner
+Hapkido practitioner
+pugilist
 -1
 Iskra 226
 -1
@@ -2811,25 +2760,30 @@ pickup
 warrior
 knight
 -1
-C
-C preprocessor
-structure in C
-typedef
-sizeof
-Strtod
-Sfio
-Q11298043
-!=
-Escape sequences in C
-register
-C99
-ANSI C
-C11
-C18
-K&R C
-C2x
+accord
+signature
+opening clause
+severability clause
+clause
+contractual term
+contract
+treaty
+customs agreement
+rights
+minority rights
+Deal with the Devil
+Individual and group rights
+wage-price agreement
+Q2244614
+Q17620108
+intergovernmental agreement
+cooperation agreement
 -1
 50th great-grandparent
+-1
+Icelandic alphabet
+B
+A
 -1
 wireless keyboard
 Apple Wireless Keyboard
@@ -2848,7 +2802,7 @@ Mobile Internetworking Control Protocol
 -1
 Syntax
 -1
-Osmo
+Big History
 -1
 adopted child
 adopted son
@@ -3749,14 +3703,21 @@ Q15811433
 -1
 Apollo/Domain
 -1
+internet celebrity
+YouTuber
+Q41685600
+Instagram blogger
+Twitch streamer
+online streamer
+Squawker
+tweeter
+social media influencer
+-1
 constraint logic programming language
 concurrent constraint logic programming language
 -1
 low-level programming language
 assembly language
--1
-wheeled vehicle
-motor vehicle
 -1
 WIDEBAND EXPAK
 -1
@@ -3764,9 +3725,10 @@ Panasonic Senior Partner
 -1
 Q63679030
 -1
-NDR-Klein-Computer
+production supervisor
+senior production supervisor
 -1
-animal navigation
+Q10871615
 -1
 Free limb segment
 cardinal free limb segment
@@ -3793,9 +3755,6 @@ integrated circuit
 human activity
 problem solving
 -1
-formal system
-formal language
--1
 hetuvidyā
 -1
 simulation language
@@ -3821,8 +3780,6 @@ Method
 -1
 ocean rower
 -1
-human in Dungeons & Dragons
--1
 Nicolette 1080
 -1
 Open science data
@@ -3831,7 +3788,7 @@ wage labor
 salary job
 smart working
 -1
-Psion Organiser
+AAC
 -1
 accident prevention
 -1
@@ -3842,16 +3799,13 @@ organism
 -1
 Cyber-dissident
 -1
-Buddha
-Eternal Buddha
--1
 Active Networks
 -1
 43rd great-grandparent
 -1
 aviation pioneer
 -1
-brainstorming
+logical link control
 -1
 superhuman
 Superhero
@@ -3880,11 +3834,6 @@ articulated robot
 expression-oriented programming language
 -1
 special purpose artist
--1
-Southern Pashto
--1
-Operational risk management
-control room
 -1
 Tori
 -1
@@ -3960,6 +3909,9 @@ kindergartner
 school child
 disabled children
 -1
+CS
+cs
+-1
 clairvoyant
 -1
 digital distribution platform
@@ -3970,15 +3922,17 @@ streaming service
 video game distribution platform
 e-book distribution platform
 -1
+Highly sensitive person
+-1
 Tramp signs
 -1
 Halt and Catch Fire
 -1
-microdata
+data hub
 -1
-neuro-linguistic programming
-Q2307244
-Q2984926
+Finnish alphabet
+B
+A
 -1
 PXL-2000
 -1
@@ -3993,11 +3947,11 @@ non-human person
 -1
 Blue Gene
 -1
-dashboard
+hand of justice
+-1
+motorist
 -1
 Shogi variant
--1
-unstructured data
 -1
 property
 Unicode character property
@@ -4034,9 +3988,7 @@ Logitech G15
 Razer Arctosa
 Razer Ornata
 -1
-audio data
--1
-Calo
+rural municipality of Nepal
 -1
 Q56027028
 -1
@@ -4087,9 +4039,6 @@ Acer Aspire desktops
 -1
 ship christener
 -1
-crime prevention
-crime control
--1
 inframammary fold
 right inframammary crease
 left inframammary crease
@@ -4100,12 +4049,11 @@ Reverse takeover
 -1
 Welsh syntax
 -1
-archival description
-hierarchical description
+format
 -1
 combat robot
 -1
-Virtuelle Fachbibliothek Germanistik
+albedo
 -1
 Interaction protocol
 -1
@@ -4126,13 +4074,11 @@ port authority
 Autoridad portuaria
 Greek port authorities
 -1
-sibling-in-law
-brother-in-law
-sister-in-law
+Inter-Domain Policy Routing Protocol
 -1
 ttyrec
 -1
-22nd great-grandparent
+Q2945441
 -1
 unlawful combatant
 -1
@@ -4278,8 +4224,7 @@ Q56036548
 -1
 head of visual development
 -1
-Sprite
-CSS sprites
+robotic arm
 -1
 XML editor
 -1
@@ -4300,10 +4245,7 @@ Tourette syndrome
 transport network
 control room
 -1
-game
-sequential game
-strategy game
-abstract game
+Q16068947
 -1
 Leaf-1
 -1
@@ -4443,7 +4385,8 @@ Q74748795
 -1
 MOVE
 -1
-layout manager
+wheeled vehicle
+motor vehicle
 -1
 international human rights instrument
 core international human rights instrument
@@ -4750,9 +4693,11 @@ BitTorrent
 torrent file
 WebTorrent
 -1
-type of sport
-mind sport
-individual sport
+public figure
+Person der Zeitgeschichte
+cultural activist
+famous people from 17th and 18th century
+famous people from 17th century
 -1
 character
 stem
@@ -4818,27 +4763,13 @@ vitriol
 Chinese alchemy
 Q19787434
 -1
-prisoner
-prisoner of war
-hostage
-civilian internee
-political prisoner
-Sonderkommando
-Kapo
-Heimkehrer
-prisoner of a Nazi concentration camp
-ghost detainee
-Q3389010
-Canadian detainees at Guantanamo Bay
-Q7210478
-Zek
-Q18088349
-inmate
-Q47484906
-Q58225756
-federal prisoner
+brainstorming
 -1
-Q62027129
+teenager
+teenage girl
+Q2882200
+Q43305125
+teenage parent
 -1
 code generation
 -1
@@ -4863,11 +4794,6 @@ Emotion Engine
 -1
 video game terminology
 -1
-rule of inference
-structural rule
-rule of replacement
-non monotonic inference rule
--1
 The Cute Happiness
 -1
 Papular purpuric gloves and socks syndrome
@@ -4888,7 +4814,9 @@ multispectral image
 -1
 Setun
 -1
-Anwar Saifullah Khan
+type of sport
+mind sport
+individual sport
 -1
 disadvantage
 -1
@@ -4897,8 +4825,6 @@ Q2703328
 Chaos magic
 -1
 Vinyl cutter
--1
-Anno
 -1
 Fellagha
 -1
@@ -4921,23 +4847,8 @@ left upper arm
 -1
 Pentagon
 -1
-signal
-Hechizo
-Nostalgia
-Poderoso Señor
-threat
-display
-alarm device
-Alarm indication signal
-Q1738935
-warning
-distress signal
-Q2549556
-warning signal
-Q3496907
-Q43291951
-honest signal
-alarm device
+field recording
+live recording
 -1
 video game accessory
 Nintendo 64DD
@@ -4972,9 +4883,8 @@ Q67080105
 -1
 mobility data
 -1
-Toshiba T3100
--1
-SCPS-TP
+Operational risk management
+control room
 -1
 Cursores
 -1
@@ -5029,6 +4939,12 @@ zionist
 -1
 37th great-grandparent
 -1
+entertainment
+game
+music
+-1
+IPv6 encapsulation
+-1
 fashion person
 hairdresser
 cobbler
@@ -5051,37 +4967,62 @@ fashion historian
 -1
 dataflow programming language
 -1
+Q&A software
+-1
 Loop-mediated isothermal amplification
 -1
 convict
 -1
-ProLiant
+human body
+respiratory system
+human skeleton
+integumentary system
+lymphatic system
+human anus
+human head
+core
+human skin
+internal organ
+human leg
+human abdomen
+human nervous system
+crotch
+bikini line
+human anatomical structure
+male human body
+female human body
 -1
-Pine64
+ThinkServer
 -1
 Hey Baby (They're Playing Our Song)
 -1
 mathematical thinking
 -1
-legal person
-juridical person
-company
--1
 International development
 -1
-knowledge base
-ontic
-Abox
-DiShIn
-Tbox
-class
-metaclass
-formal ontology concept
-knowledge graph
-Open Data Web
-ontology
-model organism database
-question-answering dataset
+humanoid robot
+Robonaut 2
+Surena
+gynoid
+REEM
+Robonaut
+Kismet
+KHR-1
+DARwIn-OP
+Actroid
+HRP-4C
+Toyota Partner Robot
+EveR
+Geoff Peterson
+MAHRU
+HRP-3
+HR6
+Atlas
+RoboTurk
+Salvius
+Pepper
+Telenoid R1
+Nadine Social Robot
 -1
 barcode
 PIATS
@@ -5151,15 +5092,6 @@ Socket AM4
 FCBGA1364
 LGA 1200
 -1
-art
-music
--1
-teenager
-teenage girl
-Q2882200
-Q43305125
-teenage parent
--1
 mole people
 -1
 tartan
@@ -5176,6 +5108,8 @@ juridical person
 corporation
 separate legal entity
 -1
+CDC 6500
+-1
 Q13575460
 -1
 environmental protocol
@@ -5186,9 +5120,9 @@ conjunctive normal form
 -1
 100th great-grandparent
 -1
-ROMP
+root-finding algorithm
 -1
-Mølmer–Sørensen gate
+dashboard
 -1
 75th great-grandparent
 -1
@@ -5209,8 +5143,6 @@ thermography
 OH Cards
 computer-generated imagery
 -1
-prevention of allergy
--1
 villain
 evil twin
 evil genius
@@ -5221,11 +5153,45 @@ tragic villain
 -1
 My Shit
 -1
-Software analysis pattern
+medical corporation
 -1
-night owl
--1
-feature-oriented programming language
+railway worker
+crossing keeper
+conductor
+ticket controller
+Q600763
+brakeman
+platelayer
+Bahnmeister
+fireman
+Q1311612
+train dispatcher
+signalman
+Q1530486
+pusher
+Q1756339
+Q1868603
+shunter
+Q2130948
+railroad engineer
+Q2869942
+Q2936863
+station master
+Q2962038
+train conductor
+Q2996178
+Q3053336
+Q3332123
+flagman
+Q3565098
+Secondman
+railroad construction foreman
+track worker
+Q25384878
+Q31285854
+Q50992309
+Q56871036
+Q66482688
 -1
 64th great-grandparent
 -1
@@ -5283,7 +5249,7 @@ Kickstarter account
 -1
 Compaq Portable
 -1
-Elastic cloud storage
+legged robot
 -1
 database interface
 -1
@@ -5310,10 +5276,19 @@ monitoring expert system
 -1
 Q65274801
 -1
-device
-machine
-electrical apparatus
-alarm device
+rendering
+image-based lighting
+Path tracing
+Image-based meshing
+Specularity
+high-dynamic-range rendering
+Q2712876
+physically based rendering
+rasterisation
+3D rendering
+Spectral rendering
+progressive photon mapping
+adjoint particle tracer
 -1
 MIDI controller
 -1
@@ -5374,9 +5349,7 @@ transcendental deduction
 -1
 Internet Packet Core Utility
 -1
-MK14
--1
-Pokémon Professor
+Specialised Information Service Performing Arts
 -1
 Q5978898
 -1
@@ -5397,13 +5370,13 @@ Q2650804
 360-degree video
 panoramic photography
 -1
-Vietnamese alphabet
-B
-Ă
-A
-Â
+grammatology
+oracle bone studies
 -1
-Łoś–Vaught test
+class
+type of sport
+-1
+Topo
 -1
 virgin
 -1
@@ -5446,14 +5419,9 @@ Device
 -1
 Beige box
 -1
-aerodrome
-control room
--1
 74th great-grandparent
 -1
 role-oriented programming language
--1
-WebTorrent
 -1
 Zenith Z-89
 -1
@@ -5470,7 +5438,11 @@ amateur historian
 amateur archaeologist
 amateur artist
 -1
-system console
+machine code
+opcode
+Halt and Catch Fire
+machine instruction
+Code segment
 -1
 14 to 29 year olds
 -1
@@ -5480,7 +5452,9 @@ History of the NFL Commissioner
 -1
 Q1665504
 -1
-Q4530997
+BeagleBoard
+-1
+Mølmer–Sørensen gate
 -1
 vehicle operator
 navigator
@@ -5520,8 +5494,6 @@ Q24573121
 -1
 90th great-grandparent
 -1
-Universal Transport Interface Protocol
--1
 complaints of arm, neck and shoulder
 -1
 winner of the rookie classification
@@ -5543,8 +5515,11 @@ X-47
 MQ-25 Stingray
 Altair
 -1
-entertainment robot
-robotic dog
+open data
+open data in France
+Open science data
+linked open data
+YODA Project
 -1
 ambiguous image
 My Wife and My Mother-in-Law
@@ -5560,10 +5535,7 @@ MP3
 -1
 Q3910121
 -1
-prevention of schizophrenia
--1
-physical activity
-sport
+SQL programming tool
 -1
 Web template system
 Template processor
@@ -5577,9 +5549,11 @@ second-order logic
 computing
 computing infrastructure
 -1
-Strtod
+Q43379525
 -1
 Q21809706
+-1
+educational programming language
 -1
 virtual research environment
 Collaboratory
@@ -5598,17 +5572,11 @@ Apport
 paraconsistent logic
 paraconsistent deduction theorem
 -1
+purely functional programming language
+-1
 advent star
 -1
 Sim
--1
-fourth-degree relative
-grandniece or grandnephew
-grandaunt or granduncle
-great-great-grandchild
-great-great-grandparent
-fourth cousin
-first half cousin
 -1
 IDPR Control Message Transport Protocol
 -1
@@ -5640,8 +5608,6 @@ systematic musicology
 music history
 Musicology in Cuba
 -1
-consequent
--1
 Q1631117
 -1
 national symbol
@@ -5672,22 +5638,7 @@ national dance
 national firearm
 Q85289707
 -1
-philosophical logic
-Epistemic modal logic
-inductive logic
-deontic logic
--1
-skilled worker
-electrician
-printer
-machinist
-auto mechanic
-diver
-crane driver
-car finance
-vocational driver
-lathe operator
-new-collar worker
+telemetry
 -1
 actor
 -1
@@ -5696,9 +5647,7 @@ building manager
 street sweeper
 janitor
 -1
-directed acyclic graph
-arborescence
-polytree
+Living Treasures of Hawai'i
 -1
 computer science
 artificial intelligence
@@ -5708,6 +5657,8 @@ data structure
 interface
 natural language processing
 computational linguistics
+-1
+data in use
 -1
 unidentified decedent
 -1
@@ -5780,7 +5731,9 @@ pathology diagnosis
 -1
 aspect-oriented programming language
 -1
-Donner Model 30
+neuroscience
+cognitive science
+artificial intelligence
 -1
 academic discipline
 science
@@ -5799,9 +5752,6 @@ endgame
 quality
 -1
 run-time system
--1
-proof theory
-Gödel's speed-up theorem
 -1
 castaway
 -1
@@ -5830,7 +5780,9 @@ IPv6 Hop-by-Hop Option
 -1
 professional video camera
 -1
-impious person
+File Transfer Protocol
+WebFTP
+anonymous FTP
 -1
 rogueware
 rogue security software
@@ -5855,6 +5807,8 @@ Building Management System
 -1
 SS blood group tattoo
 -1
+67th great-grandparent
+-1
 arXiv ID
 -1
 visual culture
@@ -5876,7 +5830,7 @@ AN/ASQ-91
 -1
 self-reconfiguring modular robot
 -1
-educational programming language
+Q5735986
 -1
 politically exposed person
 -1
@@ -5888,16 +5842,13 @@ IBM 1720
 -1
 Parsuna
 -1
-pocket computer
-Sharp PC-1211
-Sharp PC-1500
-Ockel Sirius B
+insect wing
+Hamulus
+elytron
 -1
 graph
 -1
 Bashkiriya-2M
--1
-Intermediate System to Intermediate System
 -1
 charge
 lion head
@@ -5933,11 +5884,19 @@ Experimental data
 text
 document
 -1
-ODROID-XU
+game designer
+puzzle designer
+video game designer
+crossword compiler
+role-playing game designer
+video game developer
+level designer
 -1
 DEC Alpha
 -1
 Q3579010
+-1
+Three-phase commit protocol
 -1
 smartphone
 iPhone
@@ -6770,7 +6729,7 @@ Samsung Galaxy Tab S4
 Honor MagicBook 2019
 foldable smartphone
 -1
-House sign
+night owl
 -1
 anonymous
 Master of Saint Francis
@@ -6779,47 +6738,15 @@ senior administration official
 -1
 Model 104 Computer
 -1
-application programming interface
-Message Passing Interface
-Web API
-Server Application Programming Interface
-Type library
-database interface
-Glide API
-access method
-Open API
-API management
-Developer Portal
--1
-mobile software
-mobile app
-mobile operating system
-official app
+Knightscope
 -1
 Kvazar-86
+-1
+final
 -1
 Boot disk
 -1
 homebuilt computer
--1
-human body
-respiratory system
-human skeleton
-integumentary system
-lymphatic system
-human anus
-human head
-core
-human skin
-internal organ
-human leg
-human abdomen
-human nervous system
-crotch
-bikini line
-human anatomical structure
-male human body
-female human body
 -1
 AlphaSmart
 -1
@@ -6837,8 +6764,6 @@ Trungpa tülkus
 -1
 concept art
 -1
-rights
--1
 Mongoose-V
 -1
 Ghawazi
@@ -6852,8 +6777,7 @@ NEC VR4300
 sexual dimorphism
 sexual characteristics
 -1
-radix point
-decimal separator
+position fixing
 -1
 70th great-grandparent
 -1
@@ -6896,9 +6820,9 @@ bird watcher
 -1
 rule-based expert system
 -1
-crescent
+Forbes billionaire
 -1
-Commodore Educator 64
+crescent
 -1
 patient
 Überlieger
@@ -6937,7 +6861,7 @@ disease of anatomical entity
 genetic disease
 hereditary disorder
 -1
-page description language
+intentional programming language
 -1
 official image
 official portrait
@@ -6951,9 +6875,7 @@ man
 -1
 language-oriented programming language
 -1
-insect wing
-Hamulus
-elytron
+Q16912099
 -1
 badge
 chaton
@@ -6990,16 +6912,43 @@ Asus Tinker Board
 -1
 psychoanalytic symbol
 -1
+corporation
+Agrargemeinschaft
+Shelf corporation
+self-regulatory organization
+statutory corporation
+homeowner association
+professional association
+local authority
+Q1102369
+private law corporation
+municipal corporation
+S corporation
+benefit corporation
+C corporation
+for-profit corporation
+foreign corporation
+municipality of Chile
+private company limited by guarantee
+Public development authority
+public service company
+religious corporation
+association of legal entities
+Q10871615
+special public interest promotion corporation
+Authorized Corporation
+nonprofit corporation
+Kosher certification agency
+Q33000899
+Nobiliary Corporation
+public-benefit corporation
+-1
 Canon EOS C700
 -1
 Just in time
 JIT II
 -1
-address
-email address
-@
-username
-@
+Gödel numbering for sequences
 -1
 computer fan
 3-pin fan connector
@@ -7045,8 +6994,6 @@ color
 non diegetic sound
 diegetic sound
 -1
-MARCbot
--1
 Shell of Saint James
 -1
 acoustic version
@@ -7062,8 +7009,6 @@ Q65770027
 Absolvent
 -1
 waterfall model
--1
-User
 -1
 Iskra Delta Partner
 -1
@@ -7111,7 +7056,24 @@ conceptual character
 prophet of Islam
 list of speakers in Plato's dialogues
 -1
-lower-back tattoo
+erudite
+antiquarian
+scientist
+Sheikh
+educator
+Pandit
+classical scholar
+sage
+salonnière
+Marabout
+literary
+Confucian scholar
+Rangaku scholar
+legal scholar
+humanities scholar
+cosmographer
+visiting scientist
+mind gamer
 -1
 portrait sculpture
 Roman portraiture
@@ -7122,8 +7084,7 @@ bust
 neurodevelopmental disorders
 motor disorder
 -1
-Commodore PC compatible systems
-Commodore PC-1
+descriptive metadata
 -1
 Transylvanian Saxons
 -1
@@ -7233,8 +7194,6 @@ Wikimedia tool
 user interface
 expert system
 -1
-blank node
--1
 scientific instrument
 optical instrument
 -1
@@ -7260,26 +7219,13 @@ Atari STacy
 -1
 Molecular design software
 -1
-Q3125117
--1
 history of music
 Innovations in the piano
 Q16610623
 -1
-Q63677550
--1
-Computer Protocol Heart Beat
--1
-File Transfer Protocol
-WebFTP
-anonymous FTP
--1
-memory
-knowledge
+Paluche
 -1
 statistical programming language
--1
-Q2672965
 -1
 53rd great-grandparent
 -1
@@ -7288,8 +7234,6 @@ IBM PC keyboard
 Class-D Personnel
 -1
 IBM Personal Computer XT
--1
-polysyllogism
 -1
 public service company
 -1
@@ -7349,35 +7293,16 @@ Apple Lisa
 -1
 David Reuben
 -1
-software development process
-software configuration management
-software development methodology
-software verification and validation
-waterfall model
-software prototyping
-rapid prototyping
-spiral model
-iterative and incremental development
-Q3859853
-Q3859878
-MBASE
--1
 Bulk Data Transfer Protocol
 -1
 Panasonic FH-2000
 -1
-root-finding algorithm
--1
-Q62024691
--1
-Wakamaru
+Bluetooth Networking Encapsulation Protocol
 -1
 synthetic voice
 -1
 Q2147431324
 vi
--1
-Intermediary
 -1
 binary search tree
 splay tree
@@ -7430,6 +7355,8 @@ Lutheran
 Q2431451
 -1
 Stevengraph
+-1
+ping6
 -1
 Ukrainian oligarchs
 -1
@@ -7500,18 +7427,9 @@ value-level programming language
 -1
 Third Party Connect Protocol
 -1
-magician
-witch
-warlock
-Vedmak
-Volkhv
-Bokor
-necromancer
-witch and warlock
--1
 anti-cheat
 -1
-Alids of Tabaristan, Daylam and Gilan
+Software analysis pattern
 -1
 Q13436983
 -1
@@ -7540,45 +7458,11 @@ Atlantid race
 thanking
 acknowledgment
 -1
-false alarm
+computer vision
+image segmentation
+object detection
 -1
-railway worker
-crossing keeper
-conductor
-ticket controller
-Q600763
-brakeman
-platelayer
-Bahnmeister
-fireman
-Q1311612
-train dispatcher
-signalman
-Q1530486
-pusher
-Q1756339
-Q1868603
-shunter
-Q2130948
-railroad engineer
-Q2869942
-Q2936863
-station master
-Q2962038
-train conductor
-Q2996178
-Q3053336
-Q3332123
-flagman
-Q3565098
-Secondman
-railroad construction foreman
-track worker
-Q25384878
-Q31285854
-Q50992309
-Q56871036
-Q66482688
+feature-oriented programming language
 -1
 criterion
 goal
@@ -7589,53 +7473,14 @@ all-purpose computer
 -1
 spatial navigation
 -1
-audio programming language
--1
-NHS foundation trust
--1
-PC-8000 series
-PC-8001mkII
-NEC PC-8001
-NEC PC-8001mkIISR
+unstructured data
 -1
 product
 integrated circuit
 physical interface
 information system
 -1
-designer
-architect
-graphic designer
-golf course designer
-head of design
-Q1779650
-lighting designer
-interior designer
-jewellery designer
-scenographer
-landscape architect
-production designer
-sound designer
-fashion designer
-game designer
-architectural designer
-Fabergé workmaster
-furniture designer
-camoufleur
-Q11852757
-garden designer
-motorcycle designer
-property designer
-industrial designer
-textile designer
-Product-designer
-Q29179832
-user interface designer
-Q33392730
-fabric designer
-tapestry designer
-vexillographer
-mechanical designer
+Q63677550
 -1
 ODROID-X
 -1
@@ -7660,12 +7505,8 @@ organism
 -1
 clone
 -1
-harm reduction
-safe sex
-acceptance oriented drug care
-responsible drug use
--1
-Q28709676
+external hard drive
+My Passport
 -1
 KC 85
 -1
@@ -7673,7 +7514,7 @@ logic programming language
 -1
 Intel Galileo
 -1
-Apostles of Linnaeus
+Q8964089
 -1
 software as a service
 payments as a service
@@ -7683,9 +7524,6 @@ search as a service
 IBM 5120
 -1
 date
--1
-control room
-alarm device
 -1
 endgame
 Q177351
@@ -7711,7 +7549,67 @@ rook and bishop versus rook endgame
 -1
 Honorary Aryan
 -1
-Seven Great Lords of Narnia
+data
+open data in France
+Q151522
+digital data
+signal
+metadata
+fact
+telemetry
+checksum
+open data
+sales data
+geospatial information
+Master data
+mask
+big data
+sales lead
+message authentication code
+unstructured data
+Compact Disc subcode
+paradata
+microdata
+raw data
+categorical variable
+semi-structured data
+audio recording
+Test set
+Experimental data
+machine-readable data
+ordinal variable
+Synthetic data
+Test data
+transaction data
+research data
+quasi-identifier
+Economic data
+health data
+scientific data
+datapoint for Wikidata statistics
+Q25424895
+structured data
+biodiversity data
+FAIR data
+legacy data
+statistical data
+argument
+sensor data
+climate data
+data silo
+satellite data
+2018 FIFA World Cup statistics
+numeric data
+Q60475632
+image data
+representational data
+text data
+audio data
+individual data
+shape expression
+Q65770027
+Clinical data
+mobility data
 -1
 annotation
 point of interest
@@ -7751,14 +7649,9 @@ Planetarium software
 -1
 Remote Virtual Disk Protocol
 -1
-subdivision of cardinal body part
-arm
--1
-medical corporation
+Elastic cloud storage
 -1
 legendary hero
--1
-title
 -1
 System generation
 -1
@@ -7779,32 +7672,24 @@ Digital imaging
 superresolution
 digital morphology
 -1
-Inter-Domain Policy Routing Protocol
--1
 entity
 artificial entity
 item with given name property
 -1
-arm
-forearm
-upper arm
-Q2732501
-human forearm
-human upper arm
-wing
-left arm
-right arm
-left upper arm
-right upper arm
-human arm (excluding hand)
+formal science
+computer science
+artificial intelligence
+algorithm
+algorithm
+data structure
+interface
+logic
 -1
 Q63677539
 -1
-public figure
-Person der Zeitgeschichte
-cultural activist
-famous people from 17th and 18th century
-famous people from 17th century
+Vulnerable person
+Vulnerable adult
+frail elderly
 -1
 Yakusha-e
 -1
@@ -7816,8 +7701,6 @@ human midzonal LSECs
 human central LSECs
 -1
 Performance Transparency Protocol
--1
-Message Passing Interface
 -1
 recursive programming language
 -1
@@ -7838,7 +7721,7 @@ ordinal variable
 -1
 second-generation programming language
 -1
-PJLink
+Analog
 -1
 microcomputer
 static random-access memory
@@ -7882,20 +7765,9 @@ Gigatron TTL
 -1
 formal ontology concept
 -1
-salonnière
--1
 Q3620811
 -1
-medical association
-Österreichische Ärztekammer
-Q1516655
-Q15855960
--1
 maid
--1
-Q43379525
--1
-Allochtoon
 -1
 air navigation
 Instrument Landing System
@@ -8062,11 +7934,6 @@ Ghilman
 -1
 Sheikh
 -1
-autonomous robot
-robotic vacuum cleaner
-military robot
-robotic lawn mower
--1
 user interface design
 CSS Flex Box Layout
 -1
@@ -8092,6 +7959,9 @@ Zoom Q8 Handy Video Recorder
 static random-access memory
 6264
 Nonvolatile BIOS memory
+-1
+fashion illustration
+fashion figure
 -1
 97th great-grandparent
 -1
@@ -8140,88 +8010,6 @@ intelligence
 -1
 Vividness of Visual Imagery Questionnaire
 -1
-artist
-My Shit
-Amer Nejma
-actor
-sommelier
-cinematographer
-comedian
-animator
-perfumer
-war artist
-musician
-mime artist
-art director
-performing artist
-conferencier
-storyteller
-art exhibition curator
-colorist
-impressionist
-music artist
-filmmaker
-illusionist
-theatrical producer
-tattoo artist
-Q1899943
-taxidermist
-fantasy artist
-game artist
-collector
-cast member
-calligrapher
-visual artist
-director
-armourer
-iconographer
-background artist
-animalier
-storyboard artist
-multimedia artist
-ceramicist
-starving artist
-Q11606851
-parodist
-humorist
-Q15141567
-experimental artist
-body piercer
-tea master
-art forger
-sound artist
-artivist
-story artist
-contemporary artist
-special effects artist
-Art director (animation)
-Q24557532
-paleoartist
-concept artist
-layout artist
-clean-up artist
-Q28869817
-land artist
-liturgical artist
-museum professional
-abstractionist
-marqueteur
-intarsia cutter
-Q55798364
-artist-curator
-decorative artist
-beadworker
-folk artist
-environmental artist
-tapestry artist
-Q72230666
-cut-paper artist
-Q75732339
-ornamentalist
-theater maker
-Steel engraver
-Q88202445
--1
 look-alike
 doppelgänger
 -1
@@ -8235,6 +8023,8 @@ Destination Options for IPv6
 -1
 descriptive complexity theory
 Fagin's theorem
+-1
+ergonomic keyboard
 -1
 troubleshooting
 tracing
@@ -8255,9 +8045,23 @@ disk drive head
 -1
 MBASE
 -1
+communication
+depiction
+depiction
+-1
 Macintosh Quadra 650
 -1
-Forbes billionaire
+second-degree relative
+niece or nephew
+grandparent
+grandchild
+uncle or aunt
+half-sibling
+Biaoge
+Biaodi
+Biaojie
+Biaomei
+half cousin
 -1
 Furfooz Man
 -1
@@ -8279,13 +8083,13 @@ law society
 ordre des avocats de Châteauroux
 ordre des avocats de Cambrai
 -1
-SM-4
+workaholic
 -1
 container
 -1
 Vector-06C
 -1
-PDP-8
+@
 -1
 X.25
 -1
@@ -8293,13 +8097,9 @@ PDP-6
 -1
 PDP-7
 -1
-Internet Stream Protocol
--1
 Q86002358
 -1
 digital addict
--1
-post-visualization supervisor
 -1
 saint symbolism
 -1
@@ -8323,13 +8123,11 @@ office clerk
 OpenStreetMap contributor
 office worker
 -1
+Crossland banner
+-1
 Jog
 -1
 reminder software
--1
-digital humanities
-Digital History
-digital humanities project
 -1
 87th great-grandparent
 -1
@@ -8365,6 +8163,8 @@ Segesser II
 -1
 Record
 -1
+72nd great-grandparent
+-1
 Compaq Peer Protocol
 -1
 territorial collectivity of France
@@ -8392,11 +8192,6 @@ Q84669937
 Q84671480
 Q87714330
 -1
-treasure hunter
-vault hunter
--1
-Sitter
--1
 PCI Express edge connector
 -1
 amateur artist
@@ -8409,38 +8204,62 @@ contemplation
 -1
 language
 -1
-tag
-<meta> element
-hashtag
-medical identification tag
-revision tag
-triple tag
--1
 Q2122094
 -1
 text-based protocol
 -1
-heraldic animal
-cow head
-fish
-imaginary creature
-cow
-body part
-heraldic bird
-animal head
-heraldic insect
-reptile
-quadruped heraldic
+AIM-65
 -1
 motion
 transport
 commercial vehicle
 -1
-journalistic scandal
--1
 Intel HD Audio connector
 -1
-Transaction Control Language
+cultural studies
+study of the Hebrew language
+papyrology
+funeral rite
+ethnobotany
+visual culture
+participant observation
+anthropology of Religion
+isolated human group
+extinct human group
+folkloristic morphology
+role-playing game theory
+Arabic studies
+gender archaeology
+Native American studies
+ethnic studies
+Jewish studies
+ethnology
+folkloristics
+African American studies
+disability studies
+game studies
+cultural history
+area studies
+xenology
+cultural psychology
+gender studies
+Q1786978
+Q1791844
+migration studies
+queer studies
+Q2499930
+francology
+Asian American studies
+Deaf studies
+performance studies
+Q15075764
+transgender studies
+Hispanic-American, Puerto Rican, and Mexican-American/Chicano studies
+fan studies
+anarchist studies
+Sephardic studies
+mad studies
+Caribbean studies
 -1
 Q2528335
 -1
@@ -8448,7 +8267,7 @@ Japanese Uruguayan
 -1
 Earth sciences graphics software
 -1
-ARGUS
+UNIVAC III
 -1
 mechanical failure
 -1
@@ -8502,10 +8321,96 @@ data mapping
 concordance
 thermal mapping
 -1
-Rooted graph
-rooted tree
+engineer
+audio engineer
+combat engineer
+inventor
+flight engineer
+business manager
+financial engineer
+electrical engineer
+sales engineer
+systems engineer
+building services engineer
+naval engineer
+hydraulic engineer
+Q1750051
+Coastal engineering
+chief engineer
+mechanical engineer
+Q1978899
+race engineer
+engineering officer
+commercial engineer
+Q2267418
+structural engineer
+liaison engineer
+energy engineer
+geological engineer
+Master of Science in Engineering
+Centralien
+architectural engineer
+structural calculation engineer
+Corps de l'armement
+chief mechanical engineer
+safety engineer
+chemical engineer
+Q10272925
+knowledge engineer (double entry)
+hydrology technician
+Q11006100
+telecommunications engineer
+civil engineer
+mechatronics engineer
+aerospace engineer
+forestry engineer
+technologist
+Q16643554
+optical engineer
+mining engineer
+marine engineer
+agricultural engineer
+biomedical engineer
+Q20078556
+management engineer
+aeronautical engineer
+environmental engineer
+materials engineer
+nuclear engineer
+petroleum engineer
+building engineer
+agriculturist
+business engineer
+Q27041990
+home automation engineer
+metallurgical engineer
+design engineer
+highway engineer
+Q47514955
+lighting technology engineer
+acoustical engineer
+automotive engineer
+forest engineer
+bureau engineer
+spatial planner
+satellite engineer
+Food Technologist
+principal engineer
+fire protection engineer
+computer engineer
+refrigeration engineer
+information engineer
+food engineer
+consulting engineer
+process engineer
+biochemical engineer
+Q77467349
+mechanical designer
+watch and clock repairer
+textile engineer
+production engineer
 -1
-Topo
+animal navigation
 -1
 victim of the Nazi regime
 non-Jewish victim of the Nazi regime
@@ -8516,11 +8421,15 @@ Product Owner
 -1
 shipbuilding in the DDR
 -1
-P8000
+media logic
+-1
+Q11565586
 -1
 Sony camcorders
 -1
 human nk cell
+-1
+Atari TT030
 -1
 Gauntlet
 -1
@@ -8533,13 +8442,6 @@ open data in France
 mining
 -1
 Q62108530
--1
-activity
-routine
-industry
-sport
-human activity
-design
 -1
 Q2679533
 -1
@@ -8561,7 +8463,7 @@ Q17990546
 Q20043946
 state song of a state of the United States
 -1
-Q2307244
+disproven person
 -1
 holder
 -1
@@ -8575,24 +8477,24 @@ Makedonomachos
 -1
 Combat Radio User Datagram
 -1
+emotive
+-1
 loverboy
 -1
 Pompeblêd
 -1
 Titan
 -1
-natural language processing toolkit
+digital humanities
+Digital History
+digital humanities project
 -1
 serf
 -1
 production system
 shape grammar
 -1
-accused
-defendant
-respondent
-enemy of the state
-falsely accused
+animal-person
 -1
 househusband
 -1
@@ -8603,16 +8505,11 @@ IP Payload Compression Protocol
 -1
 astrological symbol
 -1
-Q3069786
--1
-HyperPlex
+blank node
 -1
 riser card
 -1
-Authorized Corporation
-medical corporation
-Private Education Institution of Japan
-Q11588318
+D-II Data Exchange
 -1
 human hepatocyte
 -1
@@ -8633,83 +8530,31 @@ Field
 -1
 graphic tablet
 -1
-geographic information systems software
+medium
+Tongji
 -1
-86th great-grandparent
+Calo
 -1
 weather lore
 -1
-albedo
+knowledge base
+ontic
+Abox
+DiShIn
+Tbox
+class
+metaclass
+formal ontology concept
+knowledge graph
+Open Data Web
+ontology
+model organism database
+question-answering dataset
 -1
 Migrant labor
 Mingong
 aleksandrinka
 Q50419716
--1
-coach
-player-coach
-horse trainer
-association football manager
-personal trainer
-baseball coach
-caretaker manager
-baseball manager
-national team coach
-goalkeeper coach
-Q3020534
-head coach
-basketball coach
-ice hockey coach
-cornerman
-fitness professional
-assistant coach
-tennis coach
-handball coach
-rugby union coach
-chess coach
-basketball assistant coach
-track and field coach
-biathlon coach
-swimming coach
-volleyball coach
-rowing coach
-boxing trainer
-ski jumping coach
-karate coach
-skeleton trainer
-floorball coach
-speed skating trainer
-acting coach
-badminton coach
-American football coach
-gymnastics coach
-riding coach
-bandy coach
-alpine skiing coach
-Australian rules football coach
-futsal coach
-curling coach
-Luge trainer
-catch trainer
-coach (Basque pelota)
-figure skating coach
-striking coach
-rugby league coach
-cross-country skiing coach
-triathlon coach
-bobsledder coach
-youth team coach
-rugby sevens coach
-skating coach
-cricket coach
-Q69272749
-conditional trainer
-rink hockey coach
-field hockey coach
-Q88107866
-Q88214483
-golf coach
-Q88284558
 -1
 functional logic programming language
 -1
@@ -8732,11 +8577,8 @@ toll gantry
 -1
 Intel Xeon Phi 7285
 -1
-machine code
-opcode
-Halt and Catch Fire
-machine instruction
-Code segment
+Sprite
+CSS sprites
 -1
 Q63858763
 -1
@@ -8746,14 +8588,16 @@ foreach loop
 -1
 Snake-arm robot
 -1
+test automation framework
+test automation management tool
+-1
 foreigner
 metic
 expatriate
 illegal immigrant
 foreign worker
 -1
-IBM 305 RAMAC
-IBM 370 printer
+Intermediate System to Intermediate System
 -1
 equipment
 physical interface
@@ -8763,9 +8607,9 @@ Q2370300
 -1
 Q29042904
 -1
-First Men
+22nd great-grandparent
 -1
-Cronopio
+First Men
 -1
 channel
 -1
@@ -8798,7 +8642,7 @@ victim of miscarriage of justice
 -1
 statistical data
 -1
-Q&A software
+tacit knowledge
 -1
 Eurasian nomads
 -1
@@ -8811,8 +8655,6 @@ Alcatel Alpha Plus
 Wang 1200
 Sony Series 35
 -1
-BeagleBoard
--1
 Routing Header for IPv6
 -1
 information system
@@ -8820,11 +8662,6 @@ knowledge-based system
 inference engine
 -1
 embedded home server
--1
-Voice over Internet Protocol
-mobile VoIP
-Q28864043
-VoWiMAX
 -1
 portable computer
 Cambridge Z88
@@ -8862,26 +8699,30 @@ right upper arm
 -1
 Electronic Field Production
 -1
-Vulnerable person
-Vulnerable adult
-frail elderly
+secondary sex characteristic
+breast
+facial hair
 -1
-crowds supervisor
+aerodrome
+control room
 -1
 homeless people
 mole people
 -1
 Sanbot
 -1
+eunuch
+eunuch in Imperial China
+castrato
+gallus
+eunuch official
+-1
 Altos 586
 -1
 Alman
 -1
-open data
-open data in France
-Open science data
-linked open data
-YODA Project
+entertainment robot
+robotic dog
 -1
 esoteric programming language
 -1
@@ -8941,7 +8782,7 @@ bank risk manager
 academic professional
 turner
 -1
-Q4374884
+FLOSS contributor
 -1
 Fexpr
 -1
@@ -8958,15 +8799,13 @@ creator software
 -1
 score supervisor
 -1
-pajama activist
--1
 foreign worker
 gastarbeiter
 Q20495490
 -1
 WIDEBAND Monitoring
 -1
-Eco-warrior
+Wakamaru
 -1
 Q3859878
 -1
@@ -8989,16 +8828,16 @@ ARC
 -1
 label
 -1
-Persistent programming language
+Q28709676
 -1
-Q16912099
+negation complete
 -1
 physiological phenomena
 reproductive physiological phenomena
 -1
 Q4476620
 -1
-Q4476621
+title
 -1
 adult human
 young adult
@@ -9007,25 +8846,8 @@ adult survivor of child abuse
 Quantum gate
 Mølmer–Sørensen gate
 -1
-media logic
--1
 web indexing
 Q3345645
--1
-consent
-Informed consent document
-ratification
-informed consent
-imprimatur
-Q2823451
-consensus
-Q2994426
-Queen's Consent
-photos allowed
-Sexual consent
-ethical approval
-access
-speaking languages other than Esperanto is tolerated
 -1
 26th great-grandparent
 -1
@@ -9036,6 +8858,12 @@ Dungeon Master
 MMORPG game master
 GM-less
 -1
+parallel bus
+Ultra Direct Memory Access
+ATA Packet Interface
+Peripheral Component Interconnect
+Parallel ATA
+-1
 IBM PS/2 L40SX
 -1
 cocktail robot
@@ -9045,38 +8873,7 @@ water integrator
 Amstrad PCW
 Q8197850
 -1
-A Quiet Place: Part II
--1
-enslaved person
-galley slave
-odalisque
-Mamluk
-Q1035029
-Ghilman
-hierodule
-auriga
-Q2679533
-Q2919599
-Cursores
-Field slave
-fugitive slaves in United States
-Q5658651
-house slave
-Q5978898
-Industrial slave
-Q8964089
-Calo
-Canaanite slave
-Barda
-Athenian slaves
-pedagogue
-Q21087626
-fugitive slave
-Turkish slaves in the Delhi Sultanate
-Q33219663
-qayna
-Q53012224
-serf
+Locus Address Resolution Protocol
 -1
 personal computer
 notebook processor
@@ -9167,8 +8964,7 @@ ENER 1000
 Toshiba T1000LE
 Chrome OS computer
 -1
-routine
-user interface
+interactive computing
 -1
 representational data
 -1
@@ -9213,9 +9009,6 @@ PSE
 Serving GPRS Support Node
 network appliance
 -1
-musical instrument part
-pickup
--1
 message broker
 -1
 muggle-born
@@ -9228,7 +9021,87 @@ Acer Aspire desktops
 Acer Aspire laptops
 Acer Aspire 5336
 -1
-16th great-grandparent
+artist
+My Shit
+Amer Nejma
+actor
+sommelier
+cinematographer
+comedian
+animator
+perfumer
+war artist
+musician
+mime artist
+art director
+performing artist
+conferencier
+storyteller
+art exhibition curator
+colorist
+impressionist
+music artist
+filmmaker
+illusionist
+theatrical producer
+tattoo artist
+Q1899943
+taxidermist
+fantasy artist
+game artist
+collector
+cast member
+calligrapher
+visual artist
+director
+armourer
+iconographer
+background artist
+animalier
+storyboard artist
+multimedia artist
+ceramicist
+starving artist
+Q11606851
+parodist
+humorist
+Q15141567
+experimental artist
+body piercer
+tea master
+art forger
+sound artist
+artivist
+story artist
+contemporary artist
+special effects artist
+Art director (animation)
+Q24557532
+paleoartist
+concept artist
+layout artist
+clean-up artist
+Q28869817
+land artist
+liturgical artist
+museum professional
+abstractionist
+marqueteur
+intarsia cutter
+Q55798364
+artist-curator
+decorative artist
+beadworker
+folk artist
+environmental artist
+tapestry artist
+Q72230666
+cut-paper artist
+Q75732339
+ornamentalist
+theater maker
+Steel engraver
+Q88202445
 -1
 public security
 control room
@@ -9317,25 +9190,43 @@ textile scientist
 photon scientist
 Q88198806
 -1
+mathematical symbol
+plus and minus signs
+comparison sign
+operator
+division sign
+plus sign
+minus sign
+-1
 French alphabet
 B
 A
 -1
-automated theorem proving
+sports figure
+coach
+sporting director
+motorsport marshal
+athlete
+History of the NFL Commissioner
+sports director
+sportswriter
+sports journalist
+sports scientist
+rowing person
+sports administrator
+sports team owner
+boxing promoter
+sports photographer
+sportsperson with relation to this place
+powerboat competitor
+chess person
 -1
 topological quantum computer
--1
-telemetry
 -1
 abstract data type
 tree data structure
 -1
 NeXT Computer
--1
-gustatory papilla
-fungiform papilla
-vallate papilla
-foliate papilla
 -1
 private company limited by guarantee
 -1
@@ -9349,21 +9240,27 @@ Q1035029
 -1
 pollution prevention
 -1
-Applicative programming language
+Q2307244
 -1
 ENER 1000
 -1
-animal-person
+social purpose corporation
 -1
 IBM AP-101
+-1
+heat spreader
+Copper tubing
+heat pipe
+griddle
+-1
+clock rate
+base clock frequency
+boost clock frequency
 -1
 sport
 mind sport
 -1
 *Lisp
--1
-dump truck
-Articulated hauler
 -1
 Mailüfterl
 -1
@@ -9372,19 +9269,22 @@ Q784294
 parking ticket
 bills and receipts
 -1
-dependently typed programming language
+crowds supervisor
 -1
 car driver
 -1
 Private Network-to-Network Interface
 -1
-screenshot
+categorical variable
+-1
+IBM 305 RAMAC
+IBM 370 printer
 -1
 Subfield
 -1
 concept programming language
 -1
-72nd great-grandparent
+pajama activist
 -1
 polytree
 arborescence
@@ -9403,9 +9303,9 @@ Xerox NoteTaker
 -1
 Shahid
 -1
-anime director
--1
 57th great-grandparent
+-1
+House sign
 -1
 infrastructure
 computing infrastructure
@@ -9450,24 +9350,18 @@ Mouth assessment
 psychiatric assessment
 geriatric assessment
 -1
+NDR-Klein-Computer
+-1
 Menu key
 -1
 Acer Aspire laptops
 Acer Aspire 8920
 -1
-Server Application Programming Interface
--1
 Microsoft Natural keyboard
 Windows key
 Menu key
 -1
-environmentalist
-Q12322818
-conservationist
-ecofeminist
-Water protectors
-climate activist
-Land defender
+Southern Pashto
 -1
 neighborhood watch
 -1
@@ -9490,6 +9384,10 @@ player to be named later
 -1
 nonterminal symbol
 -1
+first cousin once removed ascending
+second uncle
+second aunt
+-1
 Q74523086
 -1
 Reaver
@@ -9511,6 +9409,8 @@ crown
 Decision
 -1
 Hungarian studies
+-1
+MK14
 -1
 exploit
 session hijacking
@@ -9542,62 +9442,6 @@ left-child right-sibling binary tree
 -1
 admissible heuristic
 consistent heuristic
--1
-logic
-predicate logic
-Principle of explosion
-causality
-propositional logic
-modal logic
-fuzzy logic
-classical logic
-premise
-Science of Logic
-description logic
-deductive reasoning
-inductive reasoning
-philosophical logic
-category of being
-quantum logic
-appeal to motive
-Q3016108
-opposition
-logical form
-Q8465354
-Q10317846
-formalized language
-Alebo
-deontic logic
-Syntax
-conjunctive normal form
-Open-world assumption
-Gödel's completeness theorem
-Löwenheim–Skolem theorem
-closed world assumption
-Gödel numbering
-judgment
-negation complete
-strength
-Shannon's expansion
-reflection principle
-literal
-Implication graph
-Q55766620
-syllogism
-Deontic logic
-formal logic
-mathematical logic
-logic in computer science
-Q2672965
-Q3065774
-Q3490550
-Obversion
-verbal reasoning
-Q9389394
-hetuvidyā
-Q11762395
-Q25518081
-media logic
 -1
 DJI Osmo Pocket
 -1
@@ -9737,7 +9581,7 @@ hierarchical storage management
 -1
 racing thoughts
 -1
-non-procedural programming language
+Pokémon Professor
 -1
 Q231727
 -1
@@ -9761,7 +9605,7 @@ collector's mark
 touchmark
 stone mark
 -1
-AT keyboard
+Strtod
 -1
 file system
 directory
@@ -9799,9 +9643,9 @@ browser extension
 Mozilla extension
 MediaWiki extension
 -1
-Hamulus
+69th great-grandparent
 -1
-Q2785035
+Q12031142
 -1
 Datapoint 2200
 -1
@@ -9848,10 +9692,6 @@ situational crime prevention
 sound
 music
 -1
-Versatile Message Transaction Protocol
--1
-Procedure (disambiguation)
--1
 equation solving
 root-finding algorithm
 Solutions of the Einstein field equations
@@ -9867,32 +9707,20 @@ iterative and incremental development
 -1
 Q13738726
 -1
-presenter
-news presenter
-Master of ceremonies
-television presenter
-radio personality
-Caucus chair
-guest host
-Q5797651
-ring announcer
-stand-up comedian
-Q83623429
--1
 Raspberry Pi Zero W
 -1
 appeal to motive
 -1
-GEC 4000 series
+Xserve
 -1
 hereditary disorder
 genetic disease
 -1
-expertise
+DEC-Bit
 -1
 stepfather
 -1
-Single-photon emission computed tomography
+lateral thinking
 -1
 charity worker
 -1
@@ -9926,7 +9754,7 @@ Amateur X.25
 -1
 OH Cards
 -1
-ISO Transport Protocol Class 4
+consequent
 -1
 book illustration
 -1
@@ -10037,14 +9865,18 @@ elector
 -1
 Q11762395
 -1
-the Coward
+hermit
+anchorite
+garden hermit
+recluse
+Yamabushi
 -1
 upper extremity
 free upper limb
 -1
 persona
 -1
-Netlist
+screenshot
 -1
 Siddha
 -1
@@ -10090,14 +9922,19 @@ Juveniles held at the Guantanamo Bay detention camp
 -1
 Internet Stream Protocol Datagram Mode
 -1
-class-based programming language
+Soup
 -1
 AMDP-System
 -1
 Holocaust victim
 Wilkomirski-Syndrome
 -1
-MERA-80
+chamber of commerce
+German Chambers of Commerce Abroad
+Q897399
+chamber of commerce in France
+CANACO
+Q25381619
 -1
 German orthography
 German alphabet
@@ -10115,14 +9952,12 @@ Trekkie
 -1
 liquid-cooling radiator
 -1
-bounty hunter
-slave hunter
+genetic variability
+polymorphism
 -1
 CMOT
 -1
 frontispiece
--1
-Internet Group Management Protocol
 -1
 sinner
 -1
@@ -10139,9 +9974,13 @@ Q2732501
 multi-way tree
 k-ary tree
 -1
+Überrest
+ruins
+-1
 outdoor enthusiast
 -1
-SYMAG Informatique Orchidée
+formal system
+formal language
 -1
 input device
 disk buffer
@@ -10177,8 +10016,6 @@ film frame
 -1
 generic programming language
 -1
-author name string
--1
 music criticism
 -1
 RDF node
@@ -10203,24 +10040,11 @@ salonnière
 -1
 strikeout
 -1
-elderly care robots
--1
-winner
-champion
-overall winner general classification
-stage winner
-overall leader at the end of the stage
-winner of the teams classification by time
-winner of the points classification
-winner of the young rider classification
-winner of the mountain classification
-award winner
-Q27067359
-winner of the rookie classification
--1
-Living Treasures of Hawai'i
+Personal robot
 -1
 map language
+-1
+IP-within-IP Encapsulation Protocol
 -1
 Sony DCR-PC7E
 -1
@@ -10236,8 +10060,6 @@ ATA Packet Interface
 Parallel ATA
 -1
 visiting scientist
--1
-Q21056507
 -1
 Jack of all trades
 -1
@@ -10261,11 +10083,9 @@ MIKROSTER MSA-80
 -1
 computer case screw
 -1
-IBM Displaywriter System
+Q3069786
 -1
 human portal vein
--1
-Q2370707
 -1
 Jack of all trades, master of none
 -1
@@ -10282,7 +10102,7 @@ Q13727686
 -1
 functional reactive programming language
 -1
-spamware
+PJLink
 -1
 stranger
 hitchhiker
@@ -10290,8 +10110,6 @@ hitchhiker
 Scribbler
 -1
 Q11588318
--1
-primary sex characteristic
 -1
 full binary tree
 perfect binary tree
@@ -10306,24 +10124,23 @@ Pantoffelheld
 for loop
 foreach loop
 -1
-Mercurial HTTP command protocol
--1
 RoboBee
 -1
-Virtual Router Redundancy Protocol
+polysyllogism
+-1
+Q4358132
 -1
 Q2849993
 -1
 Velotype
+-1
+audio data
 -1
 Q1521050
 -1
 IBM 1620
 IBM 1620 Model I
 IBM 1620 Model II
--1
-Solutions of the Einstein field equations
-closed timelike curve
 -1
 competition
 intellectual competition
@@ -10337,8 +10154,34 @@ stepparent
 stepfather
 stepmother
 -1
-natural language processing
-speech recognition
+educator
+Enseignant au Collégial
+Q3054733
+Q3054735
+teacher
+rhetorician
+preceptor
+ballet master
+tutor
+governess
+Q1670591
+school counselor
+Scout leader
+preschool teacher
+Q3580097
+specialized educator
+Q3580099
+paraprofessional educator
+Q12310964
+Kinderpfleger
+art educator
+instructor
+sex educator
+riding coach
+member of a board of education
+Jesuit
+health educator
+normal master
 -1
 labor leader
 -1
@@ -10356,24 +10199,28 @@ fungiform papilla
 -1
 Raspberry Pi Zero
 -1
-Site-specific browser
+Q12042163
+scientific terminology
 -1
-Gekko
+Trad.
 -1
 historical fact
 Revolutionary wave
 historical administrative division
 -1
-Q12050475
+rule of inference
+structural rule
+rule of replacement
+non monotonic inference rule
 -1
-Olympic rings
+special public interest promotion corporation
+Independent Administrative Institution
 -1
 tango tree
 -1
 Q3095455
 -1
-Q9086151324
-Inferno
+MARCbot
 -1
 Zanni
 -1
@@ -10534,13 +10381,13 @@ Photovoice
 -1
 Class
 -1
-futanari
--1
 artivist
 -1
 quasi-identifier
 -1
-Sfio
+Q10708261
+-1
+Persistent programming language
 -1
 arts
 character device
@@ -10570,14 +10417,7 @@ artivism
 Language arts
 Sculpture
 -1
-descriptive metadata
--1
 U.d.T.
--1
-industrial robot
-Cartesian coordinate robot
-5DX
-mobile industrial robot
 -1
 ontology
 ontic
@@ -10660,65 +10500,14 @@ Q2147431324
 -1
 Curatorial platform as management system
 -1
-Trus, Balbes and Byvalyi
-the Coward
-the Fool
-the Pro
+Q9323066
 -1
-communication
-depiction
-depiction
+Q25412478
 -1
-image
-Good Ole Boys Like Me
-Love Me Over Again
-Hey Baby (They're Playing Our Song)
-Susan
-Render
-channel
-Segesser I
-Segesser II
-symbol
-emblem
-portrait
-vector graphic
-illustration
-raster graphics
-karyotype
-anamorphosis
-intermediate image
-entrance pupil
-wordmark
-laser guide star
-clip art
-digital image
-Educational Wall Picture
-multispectral image
-vessel traffic service
-mirror image
-hologram
-petrosomatoglyph
-standard test image
-warrior
-Tracing board
-ambiguous image
-Ames trapezoid
-archival image
-iron-on
-Stevengraph
-pole figure
-moving image
-Segesser hides
-Image
-Palladium
-sonogram
-still frame
-Hand Heart
-Q28009426
-official image
-blur
-figure
-tattoo
+philosophical logic
+Epistemic modal logic
+inductive logic
+deontic logic
 -1
 sailor tattoos
 -1
@@ -10730,9 +10519,9 @@ IFLA member
 -1
 polyglot
 -1
-Barda
--1
 gender bender
+-1
+Bonokuhle Magwaza
 -1
 shipbuilding
 keel laying
@@ -10742,9 +10531,7 @@ shipbuilding in the DDR
 Refueling and Overhaul
 history of shipbuilding
 -1
-neuroscience
-cognitive science
-artificial intelligence
+Donner Model 30
 -1
 operator
 operator in C or C++
@@ -10762,24 +10549,18 @@ unary operator
 relational algebra operator
 type ascription
 -1
-Quantitative polymerase chain reaction
-real-time polymerase chain reaction
--1
 Q56324329
 -1
 Q24960185
 -1
+Q9086151324
+Inferno
+-1
 NBMA Address Resolution Protocol
 -1
-parallel bus
-Ultra Direct Memory Access
-ATA Packet Interface
-Peripheral Component Interconnect
-Parallel ATA
+freemasonry symbolism
 -1
 network host
--1
-patronus
 -1
 Q4160992
 -1
@@ -10799,6 +10580,8 @@ racist
 intrusive thought
 earworm
 racing thoughts
+-1
+Q4374884
 -1
 scientific theory
 string cosmology
@@ -10828,6 +10611,8 @@ diver navigation
 -1
 Q2568933
 -1
+Q2694784
+-1
 Q1519259
 Q43638700
 Ethical attitude
@@ -10836,10 +10621,10 @@ Autoresponder
 -1
 numerical weather prediction
 -1
-32nd great-grandparent
+vector graphic
+auto traced vector graphic
 -1
-rider
-passenger
+32nd great-grandparent
 -1
 5DX
 -1
@@ -10880,7 +10665,8 @@ Evangelic
 motor vehicle
 commercial vehicle
 -1
-Littlewood's three principles of real analysis
+drive bay
+backplane
 -1
 simulation supervisor
 -1
@@ -10897,8 +10683,10 @@ torse
 -1
 IBM System/3
 -1
-system resource
-cloud computing
+pocket computer
+Sharp PC-1211
+Sharp PC-1500
+Ockel Sirius B
 -1
 floral emblem
 national flower of China
@@ -10914,10 +10702,11 @@ data
 -1
 flâneur
 -1
-UNIVAC III
+Libre knowledge
 -1
-house slave
-ancilla
+anti-nuclear activist
+anti-nuclear power activist
+anti-nuclear weapons activist
 -1
 spiritualism
 Q10316994
@@ -11052,7 +10841,7 @@ film scored by this composer
 -1
 people killed at the Berlin Wall
 -1
-Q1334964
+high-level programming language
 -1
 Cubieboard
 -1
@@ -11060,12 +10849,7 @@ Lisp machine
 -1
 sensor data
 -1
-genetic testing
-genealogical DNA test
-Predictive testing
-Carrier testing
-genetic screening
-Elective genetic and genomic testing
+anvil test
 -1
 Northern Pashto
 -1
@@ -11081,12 +10865,8 @@ Q23685787
 mixed-signal integrated circuit
 analog-to-digital converter
 -1
-vault hunter
--1
 mathematics
 algorithm
--1
-left forearm
 -1
 radio navigation
 Instrument Landing System
@@ -11094,11 +10874,11 @@ Q1617138
 TORAN
 Multilateration
 -1
-47th great-grandparent
+UDP Lite
 -1
 Wikidata front end
 -1
-constraint  programming language
+Rabies testing
 -1
 aircraft pilot
 Granville Coggs
@@ -11123,9 +10903,6 @@ stunt pilot
 sportpilot
 airmail pilot
 UAV pilot
--1
-strategic game
-sequential game
 -1
 symbol
 charge
@@ -11256,38 +11033,14 @@ time-driven programming language
 -1
 Mercurial wire protocol
 -1
-preventive medicine
-sink
-detergent
-anal cleansing
-public bath
-Q32918421
-preventive health services
-healthy diet
-tooth brushing
-hygiene
-hand washing
-Quaternary prevention
-Prenatal care
-Artificial induction of immunity
-antibiotic prophylaxis
-behavior change
-personal hygiene
-primary prevention
-secondary prevention
-tertiary prevention
-preventive nutrition
-prevention of allergy
-Prevention of mental disorders
-prevention of sexually trasmitted deseases
-addiction medicine
--1
 hardware
 -1
 medical illustration
 Human anatomy illustration
 -1
 coverage
+-1
+ODROID-XU
 -1
 Q4531422
 -1
@@ -11322,6 +11075,8 @@ Compaq Portable 386
 -1
 Baudelairian spleen
 -1
+D37D
+-1
 MFE Network Services Protocol
 -1
 Q5658651
@@ -11334,7 +11089,7 @@ Q4080826
 -1
 mask
 -1
-chemical computer
+Universal Transport Interface Protocol
 -1
 aesthetics of music
 -1
@@ -11344,10 +11099,13 @@ Q12317027
 -1
 naturalized Japanese citizens of Chinese origin
 -1
-binary heap
-leftist tree
-treap
-weak heap
+directory
+home directory
+root directory
+working directory
+special folder
+podcast directory
+mount point
 -1
 tree data structure
 binary tree
@@ -11355,7 +11113,38 @@ multi-way tree
 -1
 data at rest
 -1
-Analog
+enslaved person
+galley slave
+odalisque
+Mamluk
+Q1035029
+Ghilman
+hierodule
+auriga
+Q2679533
+Q2919599
+Cursores
+Field slave
+fugitive slaves in United States
+Q5658651
+house slave
+Q5978898
+Industrial slave
+Q8964089
+Calo
+Canaanite slave
+Barda
+Athenian slaves
+pedagogue
+Q21087626
+fugitive slave
+Turkish slaves in the Delhi Sultanate
+Q33219663
+qayna
+Q53012224
+serf
+-1
+Q12057831
 -1
 Multiprotocol Label Switching Encapsulated in IP
 -1
@@ -11388,7 +11177,70 @@ Wikidata entity
 reference node
 value node
 -1
-cultural worker
+coach
+player-coach
+horse trainer
+association football manager
+personal trainer
+baseball coach
+caretaker manager
+baseball manager
+national team coach
+goalkeeper coach
+Q3020534
+head coach
+basketball coach
+ice hockey coach
+cornerman
+fitness professional
+assistant coach
+tennis coach
+handball coach
+rugby union coach
+chess coach
+basketball assistant coach
+track and field coach
+biathlon coach
+swimming coach
+volleyball coach
+rowing coach
+boxing trainer
+ski jumping coach
+karate coach
+skeleton trainer
+floorball coach
+speed skating trainer
+acting coach
+badminton coach
+American football coach
+gymnastics coach
+riding coach
+bandy coach
+alpine skiing coach
+Australian rules football coach
+futsal coach
+curling coach
+Luge trainer
+catch trainer
+coach (Basque pelota)
+figure skating coach
+striking coach
+rugby league coach
+cross-country skiing coach
+triathlon coach
+bobsledder coach
+youth team coach
+rugby sevens coach
+skating coach
+cricket coach
+Q69272749
+conditional trainer
+rink hockey coach
+field hockey coach
+Q88107866
+Q88214483
+golf coach
+Q88284558
 -1
 Nobiliary Corporation
 Maestranza de caballería
@@ -11438,6 +11290,11 @@ computer program
 inference engine
 user interface
 inference engine
+-1
+device
+machine
+electrical apparatus
+alarm device
 -1
 mother!
 -1
@@ -11515,7 +11372,7 @@ crest
 heat pipe
 Copper tubing
 -1
-Q55039102
+realist
 -1
 Science of Logic
 -1
@@ -11593,8 +11450,6 @@ thermography
 -1
 Quidditch player
 -1
-Specialised Information Service Performing Arts
--1
 Super
 -1
 celebrity
@@ -11616,7 +11471,7 @@ Q2609920
 -1
 80th great-grandparent
 -1
-non-combatant
+divine soul
 -1
 Black Disciples
 -1
@@ -11626,7 +11481,7 @@ peon
 -1
 Gateway-to-Gateway Protocol
 -1
-21st great-grandparent
+prevention of allergy
 -1
 sales data
 -1
@@ -11828,10 +11683,7 @@ sideline reporter
 sports columnist
 sports announcer
 -1
-fortune teller
-haruspex
-Q5853592
-cartomancer
+Q3859853
 -1
 punched card input/output
 -1
@@ -11868,21 +11720,53 @@ Q300319
 -1
 database access protocol
 -1
-Q5735986
+false alarm
 -1
 Worker
+-1
+Q2205043
 -1
 know-it-all
 -1
 Some Broken Hearts Never Mend
 -1
-mathematical symbol
-plus and minus signs
-comparison sign
-operator
-division sign
-plus sign
-minus sign
+jurist
+State Examination for Access to the Legal Profession (Spain)
+lawyer
+notary
+Ulama
+Q736197
+attorney at law
+avoué
+poet lawyer
+advocate general
+Queen's Counsel
+Master of Requests
+county court bailiff
+jurist-consultant
+Q2886068
+feudist
+Q3190207
+Official receiver
+magistrate
+Iudex
+judicial officer
+Solicitor General
+Q10402092
+canon law jurist
+international lawyer
+in-house lawyer
+lawyer - court specialist
+legal scholar
+counsel
+Q19365766
+philosopher of law
+Q26833986
+Q30332887
+Q56298389
+administrative lawyer
+Q65130285
+State lawyer
 -1
 Q15056236
 -1
@@ -11896,8 +11780,6 @@ challenge–response authentication
 strong authentication
 multi-factor authentication
 -1
-opposition
--1
 publishing history
 -1
 religious symbol
@@ -11910,20 +11792,20 @@ foundation item
 -1
 supervising finishing artist
 -1
-Lemon II
+Susan
 -1
 productivity software
 office suite
 -1
-Xserve
+GEC 4000 series
 -1
 lobbyist
 Q3738156
 Q12031398
 -1
-Simple Multicast Protocol
+Chamber of Architects
 -1
-Apple I
+Osmo
 -1
 fugitive
 fugitive slaves in United States
@@ -11967,12 +11849,12 @@ metropolitan community of Quebec
 -1
 space saving
 -1
-data hub
+microdata
 -1
 conviction
 knowledge
 -1
-first base
+Q1230352
 -1
 vegetarian
 vegan
@@ -11987,11 +11869,14 @@ mother's father's mother
 data management software
 ETL tool
 -1
-antispyware
+vault hunter
 -1
 experience
 customer experience
 nature experience
+-1
+host
+database
 -1
 desktop computer expansion card
 -1
@@ -12006,18 +11891,10 @@ human upper arm
 -1
 Foster-Miller TALON
 -1
-Shell Link Binary File Format
--1
 action
 human action
 -1
-input method
-language input key
-Japanese input method
-Chinese input methods for computers
-Unicode input
-Bengali input methods
-Tamil input methods
+Shell Link Binary File Format
 -1
 stand-in
 Fake Shemp
@@ -12037,26 +11914,6 @@ Sony CCD-V8AF
 Sony DCR-PC7E
 Panasonic HC-VX980
 DJI Osmo Pocket
--1
-cause
-Agadir Crisis
-assassination of Archeduke Franz Ferdinand of Austria
-causality
-causes of World War I
-causes of World War II
-stressor
-failure cause
-environmental factor
-cause of accident
-signal passed at danger
-Push and pull factors
-multiple causes
-aviation safety incident cause
-end cause
-single cause
-cause of destruction
-epidemiologic factor
-causes of the 2019 Hong Kong protests
 -1
 Robust Header Compression
 -1
@@ -12115,9 +11972,7 @@ prehistory
 -1
 automated theorem prover
 -1
-peer-to-peer software
-distributed search engine
-BitTorrent client
+25th great-grandparent
 -1
 human heart
 heart valve
@@ -12156,9 +12011,7 @@ interface standard
 -1
 real tennis player
 -1
-Q750372
--1
-gnosis
+inductive reasoning
 -1
 Q56704091
 -1
@@ -12167,7 +12020,7 @@ Q56704091
 flag
 list of black flags
 -1
-Macintosh Quadra 605
+impious person
 -1
 nomad
 Nabataeans
@@ -12197,10 +12050,7 @@ Packet Radio Measurement
 -1
 Compaq Portable III
 -1
-raster graphics
-High-dynamic-range imaging
-Subpixel rendering
-Sprite
+Server Application Programming Interface
 -1
 Pedestrian detection
 -1
@@ -12229,7 +12079,7 @@ museum founder
 city founder
 Q88213565
 -1
-intentional programming language
+chemical computer
 -1
 IP in IP
 -1
@@ -12239,7 +12089,7 @@ Germans in Bulgaria
 -1
 Amstrad NC100
 -1
-Q2694784
+the Coward
 -1
 analog-to-digital converter
 -1
@@ -12301,6 +12151,8 @@ Institutional model theory
 higher-order logic
 first-order logic
 -1
+Simple Key-Management for Internet Protocol
+-1
 mental health consumer
 -1
 Swiss people
@@ -12322,16 +12174,15 @@ loop
 -1
 inspector of works
 -1
-Breton alphabet
-B
-A
+Transaction Transport Protocol
 -1
 information
 data
 -1
 taste buds
 -1
-Q2945441
+control room
+alarm device
 -1
 31st great-grandparent
 -1
@@ -12435,14 +12286,9 @@ satellite data
 -1
 solipsist
 -1
-Implication graph
+47th great-grandparent
 -1
-acquaintance
-roommate
-friend
-Q28008270
-schoolmate
-teammate
+SCPS-TP
 -1
 Library of Anglo-American Culture & History
 -1
@@ -12496,6 +12342,8 @@ register
 -1
 rowdy
 -1
+page description language
+-1
 homeowner association
 společenství vlastníků jednotek
 -1
@@ -12504,8 +12352,6 @@ Q56026208
 DVD ripper
 -1
 Q1575950
--1
-animal soul
 -1
 Partially Deceased Syndrome sufferer
 -1
@@ -12525,9 +12371,7 @@ man
 -1
 On-premises software
 -1
-clock rate
-base clock frequency
-boost clock frequency
+futanari
 -1
 IP packet
 list of IP protocol numbers
@@ -12536,7 +12380,38 @@ IPv6 packet
 -1
 technological fix
 -1
-Atari TT030
+cross
+swastika
+ankh
+saltire
+Maltese cross
+Jerusalem cross
+Christian cross
+Order of Christ Cross
+Greek cross
+Cross potent
+patriarchal cross
+Bolnisi cross
+cross pattée
+Huguenot cross
+Lauburu
+crux gemmata
+Russian Orthodox cross
+lazarus cross
+Leopold cross
+Rupert cross
+lilac cross
+Jansenistic cross
+Agadez cross
+Borromean cross
+Q4322514
+equal-armed cross
+Angob
+Nordic cross
+Q20160267
+two-barred cross
+Russian cross
+Cross of Aviz
 -1
 wearable computer
 smartglasses
@@ -12546,18 +12421,17 @@ first human
 -1
 Index theologicus
 -1
-Simple Key-Management for Internet Protocol
--1
-hit record
-hit single
-number one album
+automated theorem proving
 -1
 Independent Administrative Institution
 Japan International Cooperation Agency
 National Research and Development Agency
 Agency Engaged in Administrative Execution
 -1
-46th great-grandparent
+mobile software
+mobile app
+mobile operating system
+official app
 -1
 regional studies
 -1
@@ -12571,18 +12445,17 @@ tacit programming language
 -1
 stand-alone metadata
 -1
-tacit knowledge
+environmentalist
+Q12322818
+conservationist
+ecofeminist
+Water protectors
+climate activist
+Land defender
 -1
-digital data
-digital electronics
-Digital imaging
-D-2
-data at rest
-overhead information
-data in transit
-data in use
+Q61932212
 -1
-Symbols of Olomouc Region
+author name string
 -1
 IBM System/34
 -1
@@ -12591,11 +12464,10 @@ speech recognition
 -1
 Mosro
 -1
-FLOSS contributor
+power station
+control room
 -1
-Q33000899
--1
-DRT-DM
+Message Passing Interface
 -1
 gallerist
 -1
@@ -12637,14 +12509,16 @@ demon hunter
 dancing partner
 Q1631117
 -1
-Incroyable
+Abox
 -1
 flying monkey
 -1
 boxing promoter
 -1
-Überrest
-ruins
+party
+litigant
+lessee
+Q56704091
 -1
 missing person
 Detainees-Disappeared
@@ -12664,15 +12538,14 @@ technical standard
 -1
 Q43233289
 -1
-municipality president
-mayor of Lausanne
+anime director
 -1
 designation
 systematic element name
 -1
 perpetual traveler
 -1
-association of legal entities
+Mercurial HTTP command protocol
 -1
 philology
 grammar
@@ -12775,35 +12648,13 @@ packet analyzer
 municipal sector
 sector of Marseille
 -1
-man
-eunuch
-gentleman
-First Gentleman
-gigolo
-young man
-househusband
-beefcake
-Randle Holme
-patriarch
-widower
-Q20741461
-zaque
-Bonokuhle Magwaza
-Q69060453
-male flight attendant
-naked man
+Sfio
 -1
-Actrix
+human nkt cell
 -1
 mathematical geography
 -1
 macro metaprogramming language
--1
-hermit
-anchorite
-garden hermit
-recluse
-Yamabushi
 -1
 bookmaking software
 -1
@@ -12822,10 +12673,13 @@ knowledge worker
 researcher
 investigator
 -1
-free-form language
+Q55039102
 -1
-map symbol
-map symbol of Japan
+Instrument Landing System
+-1
+Łoś–Vaught test
+-1
+Q1156005
 -1
 idea
 world view
@@ -12843,8 +12697,6 @@ Q3567586
 Hispanoamericanism
 Q69852531
 -1
-Q63827043
--1
 abstract strategy game
 chess
 -1
@@ -12858,23 +12710,11 @@ quantum logic
 -1
 Q11298043
 -1
-a priori and a posteriori
-a posteriori knowledge
-a priori knowledge
+Q28864043
 -1
-occult
-Spagyric
-Magnum opus
-vitriol
-Apport
-Asport
-séance
-Spirit world
-alchemy
-spiritualism
-Chaos magic
--1
-ergonomic keyboard
+most recent common ancestor
+mitochondrial Eve
+Y-chromosomal Adam
 -1
 cloud robotics
 -1
@@ -12955,8 +12795,6 @@ qualitative research
 -1
 Romani people in Germany
 -1
-Development
--1
 35th great-grandparent
 -1
 95th great-grandparent
@@ -12964,16 +12802,12 @@ Development
 heterogeneous cluster
 tongue
 -1
-Q4358132
+medical association
+Österreichische Ärztekammer
+Q1516655
+Q15855960
 -1
 History of Consciousness
--1
-lingual papilla
-filiform papilla
-fungiform papilla
-vallate papilla
-foliate papilla
-gustatory papilla
 -1
 city of Wisconsin
 first-class city
@@ -13069,7 +12903,7 @@ Q87693907
 -1
 centerfold
 -1
-logical volume caching software
+Q21056507
 -1
 base
 home plate
@@ -13081,17 +12915,13 @@ naked man
 -1
 Schiffbrücke alte Wuppermündung
 -1
-chess strategy
-blockade
--1
 Managed private cloud
 -1
 Dulmont Magnum
 -1
 Q66555539
 -1
-badware
-malware
+Cubieboard2
 -1
 lexical token
 -1
@@ -13108,7 +12938,7 @@ celebrity endorser
 dead person
 murder victim
 -1
-Soup
+class-based programming language
 -1
 prophet
 prophet of Islam
@@ -13118,12 +12948,6 @@ Manifestation of God
 sleeping preacher
 false prophet
 Qu'ranic prophet
--1
-chess person
-chess arbiter
-chess composer
-chess player
-chess official
 -1
 Private Education Institution of Japan
 -1
@@ -13181,15 +13005,23 @@ Q231727
 Northern Pashto
 Southern Pashto
 -1
-fellow human
+Hamulus
 -1
 51st great-grandparent
 -1
+radix point
+decimal separator
+-1
 relapse prevention
+-1
+dfs
+DFS
 -1
 Acer Aspire 5336
 -1
-pre-credit
+a priori and a posteriori
+a posteriori knowledge
+a priori knowledge
 -1
 integrated memory controller
 -1
@@ -13205,16 +13037,16 @@ Nvidia Tegra 3
 -1
 auto traced vector graphic
 -1
-Personal robot
+magician
+witch
+warlock
+Vedmak
+Volkhv
+Bokor
+necromancer
+witch and warlock
 -1
-23rd great-grandparent
--1
-chamber of commerce
-German Chambers of Commerce Abroad
-Q897399
-chamber of commerce in France
-CANACO
-Q25381619
+health data
 -1
 script
 Q19636751
@@ -13254,15 +13086,21 @@ IBM 4300
 SDS Sigma series
 IBM 705
 -1
-Internet Protocol
-DEC-Bit
-IP fragmentation
-IP packet
-Trunk-1
-IPv6 adoption
-ephemeral port
-Dynamic IP
-Q56808665
+player
+gamemaster
+card player
+field player
+dealer
+Q2419025
+Hijack
+player to be named later
+competitive player
+Quidditch player
+Valencian pilota player
+real tennis player
+player of jeu de paume
+mind gamer
+English billiards player
 -1
 nuclear magnetic resonance quantum computer
 liquid state nuclear magnetic resonance quantum computer
@@ -13306,15 +13144,16 @@ thin client
 Sun Ray
 ThinCan
 -1
-nigredo
--1
 Chinese alchemy
 neidan
 -1
-disk enclosure
-external hard drive
+factory worker
+-1
+conduit
 -1
 advertising board
+-1
+Q1334964
 -1
 saint
 patron saint
@@ -13338,10 +13177,8 @@ orthodox saint
 Christian saint
 Q29381097
 -1
-Q10708261
--1
-polymorphism
-sexual dimorphism
+dump truck
+Articulated hauler
 -1
 authoring system
 -1
@@ -13349,7 +13186,7 @@ microhologram
 -1
 automatic programming language
 -1
-Villain of the week
+elderly care robots
 -1
 memory module
 Q349053
@@ -13375,7 +13212,7 @@ L4 cache
 -1
 relativistic programming language
 -1
-anvil test
+HyperPlex
 -1
 Esperantist
 -1
@@ -13401,8 +13238,6 @@ non-scientific worldview
 mining
 non-science
 -1
-human upper arm
--1
 enjambment
 -1
 Toshiba T1000
@@ -13410,6 +13245,8 @@ Toshiba T1000
 content negotiation
 -1
 John Smith
+-1
+association of legal entities
 -1
 executioner
 State Electrician
@@ -13427,7 +13264,9 @@ Sony DCM-M1
 LGBT symbols
 pride flag
 -1
-conduit
+nigredo
+-1
+Actrix
 -1
 ARM7TDMI
 -1
@@ -13436,7 +13275,11 @@ Heckinghauser Zollbrücke
 Schiffbrücke alte Wuppermündung
 hiker
 -1
-CDC 6500
+peer-to-peer software
+distributed search engine
+BitTorrent client
+-1
+Seven Great Lords of Narnia
 -1
 astronomical symbol
 solar symbol
@@ -13449,8 +13292,8 @@ Inter-Domain Routing Protocol
 -1
 Q1538749
 -1
-data center
-control room
+bounty hunter
+slave hunter
 -1
 run-time type information
 dynamic_cast
@@ -13473,10 +13316,11 @@ Sony MDH-10
 movie star
 Q5092643
 -1
+Render
+-1
 Q2281459
 -1
-test automation framework
-test automation management tool
+Raspberry Pi 4 Model B
 -1
 Germans
 German Americans
@@ -13500,10 +13344,6 @@ Q16102016
 Alman
 -1
 Q27067359
--1
-premise
-hypothesis
-determined by the player
 -1
 blood film
 -1
@@ -13539,10 +13379,12 @@ OLEFA
 Flat File Content Management System
 hypertext system
 -1
+PDP-8
+-1
 genetic disease
 Tourette syndrome
 -1
-factory worker
+WebTorrent
 -1
 alarm device
 false alarm
@@ -13673,12 +13515,10 @@ PatrolBot
 Gita
 Sanbot
 -1
-Pause/Break
--1
 person of interest
 -1
-Sarkobgar
-Leila Vaseghi
+General Alphabet of Cameroon Languages
+A
 -1
 intention
 goal
@@ -13696,9 +13536,7 @@ Asian people
 -1
 Q53012224
 -1
-Locus Address Resolution Protocol
--1
-dice chess
+end-user
 -1
 stunt supervisor
 -1
@@ -13756,8 +13594,6 @@ human chess
 -1
 Valencian pilota player
 -1
-Combat Radio Transport Protocol
--1
 causality
 consequent
 consequence
@@ -13771,7 +13607,12 @@ mechanical failure
 engine failure
 landing gear collapse
 -1
-SP Switch
+physiologic monitoring
+Self-monitoring
+fetal monitoring
+-1
+house slave
+ancilla
 -1
 Muslim
 Battle of Badr
@@ -13796,16 +13637,17 @@ mobile server
 individual data
 personal data
 -1
-deontic logic
-deontic modality
+logical volume caching software
 -1
 suspect
 prime suspect
 alleged murderer
 -1
+Toshiba T3100
+-1
 bibliographic metadata
 -1
-SGI Fuel
+Simple Multicast Protocol
 -1
 Internet Control Message Protocol
 -1
@@ -13815,13 +13657,13 @@ king
 -1
 Transaction Processing Monitor
 -1
-Q2692212
+Breton alphabet
+B
+A
 -1
-Internet library sub-saharan Africa
+SYMAG Informatique Orchidée
 -1
-neurological diagnostic techniques
--1
-panorama portrait
+audio programming language
 -1
 Zenith Z-100
 -1
@@ -13858,13 +13700,12 @@ Centralien
 -1
 statelessness
 -1
-drive bay
-backplane
+journalistic scandal
 -1
 Bluetooth
 Bluetooth Networking Encapsulation Protocol
 -1
-Address Resolution Protocol
+gender symbol
 -1
 Long take
 one-shot music video
@@ -13913,7 +13754,12 @@ command and control
 Automated Certificate Management Environment
 cryptographic protocol of communication
 -1
-purely functional programming language
+activity
+routine
+industry
+sport
+human activity
+design
 -1
 music supervisor
 -1
@@ -13937,43 +13783,18 @@ history of scuba diving
 history of baseball
 History of karate in Haiti
 -1
-Instrument Landing System
+Rooted graph
+rooted tree
+-1
+art
+music
 -1
 abductive logic programming language
 -1
-creator
-author name string
-My Shit
-urban planner
-inventor
-author
-artist
-pastry chef
-artisan
-editor
-researcher
-muse
-chess composer
-film professional
-innovator
-chef
-game designer
-anonymous
-designer
-advertising person
-documentarian
-presenter
-podcaster
-gallerist
-organizational founder
-fashion person
-mimographer
-creator software
+Applicative programming language
 -1
-forest worker
-lumberjack
-sylviculturist
-forester
+intelligence
+human intelligence
 -1
 29th great-grandparent
 -1
@@ -14008,19 +13829,13 @@ description logic
 -1
 Green Cloud Datacenter
 -1
-minisupercomputer
-Cray XMS
+Commodore Educator 64
+-1
+expertise
 -1
 twice hero of socialist labor
 -1
-formal science
-computer science
-artificial intelligence
-algorithm
-algorithm
-data structure
-interface
-logic
+Simultaneous exhibition
 -1
 CDC Cyber
 CDC Cyber 70
@@ -14035,9 +13850,7 @@ Braille translator
 -1
 Q2608611
 -1
-dubbing of film
-Q1208461
-Q1208493
+human in Dungeons & Dragons
 -1
 data visualization software
 -1
@@ -14053,14 +13866,13 @@ biodiversity data
 -1
 Virgin Webplayer
 -1
+Japanese people in China
+-1
 issue tracking system
 -1
-Q11916775
+Ipsilon Flow Management Protocol
 -1
-Wikimedia tool
-Q19636751
-Wikipedia:Gadget
-Wikidata tool
+Q1871103
 -1
 server software
 proxy server
@@ -14092,9 +13904,7 @@ Discord server
 -1
 Q61314164
 -1
-social organism behavior
-communication
-depiction
+Barda
 -1
 Berkeley sockets
 network socket
@@ -14116,12 +13926,12 @@ Q56297993
 -1
 Phoebe
 -1
-NeXTstation
+premise
+hypothesis
+determined by the player
 -1
 interface
 user interface
--1
-Cache coherence
 -1
 pagan
 -1
@@ -14129,13 +13939,11 @@ Ba
 -1
 stored-program computer
 -1
-Apricot PC
+EPR01
 -1
 human forearm
 -1
-free limb
-free upper limb
-arm
+Q12057829
 -1
 sex worker
 Gamujo
@@ -14178,20 +13986,17 @@ Linked Data Platform
 linked open data
 Library linked data
 -1
-format
--1
 English
 English as a second language
--1
-secondary sex characteristic
-breast
-facial hair
 -1
 header
 e-mail header
 HTTP header field
 -1
 Q5493361
+-1
+routine
+user interface
 -1
 alumnus
 Q3588944
@@ -14206,7 +14011,7 @@ marabout
 -1
 Position
 -1
-69th great-grandparent
+Q2919599
 -1
 SPARCstation LX
 -1
@@ -14231,40 +14036,15 @@ Portal
 -1
 Kyrgyz keyboard layout
 -1
-QNS
+lingual papilla
+filiform papilla
+fungiform papilla
+vallate papilla
+foliate papilla
+gustatory papilla
 -1
-sports figure
-coach
-sporting director
-motorsport marshal
-athlete
-History of the NFL Commissioner
-sports director
-sportswriter
-sports journalist
-sports scientist
-rowing person
-sports administrator
-sports team owner
-boxing promoter
-sports photographer
-sportsperson with relation to this place
-powerboat competitor
-chess person
--1
-rendering
-image-based lighting
-Path tracing
-Image-based meshing
-Specularity
-high-dynamic-range rendering
-Q2712876
-physically based rendering
-rasterisation
-3D rendering
-Spectral rendering
-progressive photon mapping
-adjoint particle tracer
+system resource
+cloud computing
 -1
 modal logic
 logical possibility
@@ -14279,7 +14059,8 @@ cyclist
 sport cyclist
 Q30070907
 -1
-Japhetic people
+CG modeler
+modeling supervisor
 -1
 Q88284193
 -1
@@ -14322,8 +14103,6 @@ pacemaker
 southbridge
 I/O Controller Hub
 -1
-Sozio
--1
 Marabout
 -1
 fuzzy logic
@@ -14333,6 +14112,8 @@ handshaking
 FIN
 -1
 IBM 6150 RT
+-1
+Q4530997
 -1
 configuration manager
 software configuration manager
@@ -14447,6 +14228,9 @@ touchscreen
 rackmount KVM
 indicator light
 -1
+data structure
+tree data structure
+-1
 award winner
 laureate
 -1
@@ -14465,13 +14249,13 @@ microregion
 -1
 DSR-570
 -1
-test automation
-Tosca
-test automation framework
+directed acyclic graph
+arborescence
+polytree
 -1
 right forearm
 -1
-Nascom
+base clock frequency
 -1
 Developer Portal
 -1
@@ -14479,17 +14263,17 @@ Segesser hides
 Segesser I
 Segesser II
 -1
-Gittite
+Internet Reliable Transaction Protocol
 -1
 landing zone
 -1
 government
 -1
-Tangerine Microtan 65
+born-again virgin
 -1
-Q61932212
+Motorola 6800
 -1
-Banat Swabians
+NHS foundation trust
 -1
 template metaprogramming language
 -1
@@ -14499,6 +14283,8 @@ Low Pin Count
 -1
 Macintosh 512K
 -1
+7th great-grandparent
+-1
 internal monologue
 -1
 Centre de formation des journalistes de Paris
@@ -14507,35 +14293,24 @@ superordinate goals
 -1
 Automatic repeat request
 -1
-network card
-small form-factor pluggable transceiver
-wireless network interface controller
-NE1000
-Converged network adapter
-Kedron
-TP-LINK TL-WN822N v1
+thematic analysis
 -1
 electrical load
 electrical apparatus
 -1
 Spherical robot
 -1
-Scottish district council
+Virtual Router Redundancy Protocol
 -1
 hermetic seal
 Glass-to-metal seal
 -1
 Bretteur
 -1
-Internet Reliable Transaction Protocol
--1
 book cover design
 -1
-expansion bus
-Peripheral Component Interconnect
-PCI Express
-Accelerated Graphics Port
-SATA Express
+urban history
+Q18745232
 -1
 fancy portrait
 -1
@@ -14582,7 +14357,7 @@ English non-metropolitan district council
 -1
 metaprogramming language
 -1
-chorded keyboard
+IBM Displaywriter System
 -1
 Information activist
 -1
@@ -14610,241 +14385,17 @@ property management system
 -1
 Template processor
 -1
-mass media
-newspaper
-radio station
-media of Algeria
-media of Honduras
-alternative media
-media of India
-media in Berlin
-media of Austria
-media of Poland
-new media
-Q861061
-media of the Faroe Islands
-media in Ethiopia
-online newspaper
-media of Turkey
-ethnic media
-media of Japan
-media of Belarus
-media of Burkina Faso
-media of Croatia
-media of Senegal
-media of Switzerland
-media of Sweden
-media of Russia
-media of Iran
-media of the United Kingdom
-media of Cameroon
-media of Mali
-media of Morocco
-media of Venezuela
-media of the Democratic Republic of the Congo
-media of Scotland
-media of Eritrea
-media of Cuba
-media of Iceland
-media of Tunisia
-media of Norway
-media in Hong Kong
-media of Sudan
-media of Saudi Arabia
-media in Abkhazia
-media of Baku
-media of Australia
-media of Bashkortostan
-media of Bhutan
-media of North Korea
-media of Costa Rica
-media of Turkmenistan
-media of the People's Republic of China
-media of Israel
-media of the United States of America
-media of Belgium
-media in Romania
-mainstream media
-media of Germany
-media of Chile
-media of Spain
-media of Uzbekistan
-media in Benin
-media in Uganda
-media of Afghanistan
-media of Africa
-media of Albania
-media of Angola
-media of Bahrain
-media of Barbados
-media of Bolivia
-media of Botswana
-media of Brunei
-media of Myanmar
-media of Burundi
-media of Cambodia
-media of Canada
-media of Chad
-media of Colombia
-media of Comoros
-media of Djibouti
-media of Equatorial Guinea
-media of Egypt
-media of Georgia
-media of France
-media of Guatemala
-media of Haiti
-media of Indonesia
-media of Iraq
-media of Ireland
-media of Ivory Coast
-media of Jordan
-media of Kenya
-media of Kosovo
-media of Kyrgyzstan
-media of Latin America
-media of Libya
-media of Malaysia
-media of Mauritius
-media of Mongolia
-media of Mauritania
-media of Nauru
-media of New Orleans
-Zeitungsbuch
-daily comic strip
-Teaser (Press)
-letter to the editor
-online magazine
-advertising supplement
-Zeit Online
-colour supplement
-television in Israel
-radio in Israel
-Kol Chai
-broadcasting programming
-radio programming
-Q2466900
-Clock
-Encryption Plus Non-Assertion
-television programming
-media of New Zealand
-media of Nepal
-media of Nicaragua
-media of Niger
-media of Nigeria
-media of Northern Ireland
-media of Pakistan
-media of Panama
-media of Paraguay
-media of Peru
-media of Puerto Rico
-media of Sierra Leone
-media of Somalia
-media of Singapore
-media of South Africa
-media of Sri Lanka
-media of Syria
-media of Transnistria
-media of Thailand
-media of Tajikistan
-media of Taiwan
-media of Vietnam
-media of Wales
-media of Zimbabwe
-media of Yemen
-media of the Central African Republic
-media of the Republic of the Congo
-media of the United Arab Emirates
-media of the Soviet Union
-Sign-language media
-media of Ukraine
-media of Macau
-print media
-media of the Netherlands
-media of Lebanon
-media of Italy
-media of Greece
-media of South Sudan
-broadcasting
-media of Bangladesh
-media of Gabon
-media of Jersey
-media of Ghana
-media of Estonia
-media of Kazakhstan
-media in Zambia
-media of Cape Verde
-media in Kiribati
-media of South Korea
-media of Vanuatu
-media of the Philippines
-media of Malawi
-written news media
-news website
-media of Hungary
-media of Mozambique
-media of Bosnia and Herzegovina
-media of Bulgaria
-media of Qatar
-media of Serbia
-media of Slovenia
-media of Montenegro
-Media of North Macedonia
-media of Palestine
-media of Moldova
-media of Azerbaijan
-media of Armenia
-media of Cyprus
-media of Northern Cyprus
-media of Rwanda
-information media
-media of Togo
-media of Guinea-Bissau
-media of Tanzania
-Arabic media
-media of Namibia
-media of Czech Republic
-media of Finland
-media of Lithuania
-media of Portugal
-media of Latvia
-media of Slovakia
-Q51181862
-media of São Tomé and Príncipe
-media of Denmark
-media of Brazil
-media of Uruguay
-media of Argentina
-media of Ecuador
-media of Mexico
-media of Luxembourg
-media of El Salvador
-media of the Dominican Republic
-media of Jamaica
-media of Oman
-media in Lesotho
-Qué Pasa (Zulia)
-netcaster
-América radio (Radio Station)
+forest worker
+lumberjack
+sylviculturist
+forester
 -1
 MK 45
 -1
-functionary
-High Representative for Bosnia and Herzegovina
-commissioner
-Q1006064
-European Commissioner
-Q2804433
-top official
-Director Special Forces
-Q17353934
-Chief of Defence Intelligence
-Q29552271
-United Nations official
-Q47541624
-Q48969674
-Q61876950
-party official
+industrial robot
+Cartesian coordinate robot
+5DX
+mobile industrial robot
 -1
 prenate
 human fetus
@@ -14881,7 +14432,7 @@ action language
 -1
 Canon EOS C100
 -1
-REMUS
+hacking tool
 -1
 order statistic tree
 -1
@@ -14917,9 +14468,9 @@ Mazze
 Q4536610
 Q86682079
 -1
-digital identity
-username
-@
+salonnière
+-1
+human hepatic artery
 -1
 mobile industrial robot
 -1
@@ -14928,7 +14479,8 @@ elderly care robots
 -1
 XT3 Internal Interconnect
 -1
-BBC Master
+Commodore PC compatible systems
+Commodore PC-1
 -1
 serology
 forensic serology
@@ -14975,32 +14527,20 @@ Raspberry Pi Compute Module
 Raspberry Pi 3 Model B+
 Raspberry Pi 3 Model A+
 -1
-3DLabs P20
+Pause/Break
 -1
-erudite
-antiquarian
-scientist
-Sheikh
-educator
-Pandit
-classical scholar
-sage
-salonnière
-Marabout
-literary
-Confucian scholar
-Rangaku scholar
-legal scholar
-humanities scholar
-cosmographer
-visiting scientist
-mind gamer
+lower-back tattoo
+-1
+common knowledge
 -1
 76th great-grandparent
 -1
-constitutive theory of statehood
+68th great-grandparent
 -1
-driver assistance software
+fortune teller
+haruspex
+Q5853592
+cartomancer
 -1
 alphabetic writing system
 Latin script
@@ -15016,7 +14556,7 @@ doghunters
 -1
 Am386
 -1
-eOne
+prevention of schizophrenia
 -1
 paracentesis
 amniocentesis
@@ -15036,7 +14576,7 @@ Q14517028
 -1
 Oymak
 -1
-Kanaka
+patronus
 -1
 transaction data
 -1
@@ -15044,21 +14584,39 @@ data silo
 -1
 Scanner
 -1
-Raspberry Pi 4 Model B
+archival description
+hierarchical description
 -1
-hand of justice
+signal
+Hechizo
+Nostalgia
+Poderoso Señor
+threat
+display
+alarm device
+Alarm indication signal
+Q1738935
+warning
+distress signal
+Q2549556
+warning signal
+Q3496907
+Q43291951
+honest signal
+alarm device
 -1
 83rd great-grandparent
 -1
-Canterbury Martyrs
-John Bland
+rider
+passenger
 -1
 Q43638700
 -1
-digital organism
-payload
-computer virus
-OpenWorm
+nipple
+male nipple
+female nipple
+Right nipple
+Left nipple
 -1
 Q2196840
 -1
@@ -15082,10 +14640,6 @@ culture hero
 CFTP
 -1
 Epson PX-4
--1
-deontic modality
-benedictive mood
-volitive modality
 -1
 Java
 Java annotation
@@ -15212,36 +14766,21 @@ Q2134756
 Filigranology
 epigraphy
 -1
-grammatology
-oracle bone studies
+presenter
+news presenter
+Master of ceremonies
+television presenter
+radio personality
+Caucus chair
+guest host
+Q5797651
+ring announcer
+stand-up comedian
+Q83623429
 -1
 concurrent object-oriented programming language
 -1
 frame-based expert system
--1
-humanoid robot
-Robonaut 2
-Surena
-gynoid
-REEM
-Robonaut
-Kismet
-KHR-1
-DARwIn-OP
-Actroid
-HRP-4C
-Toyota Partner Robot
-EveR
-Geoff Peterson
-MAHRU
-HRP-3
-HR6
-Atlas
-RoboTurk
-Salvius
-Pepper
-Telenoid R1
-Nadine Social Robot
 -1
 Q4401151
 -1
@@ -15267,19 +14806,27 @@ Q72703150
 -1
 Input
 -1
-sizeof
+strategic game
+sequential game
 -1
 fictional unborn person
 -1
 gimmick
 -1
-olive branch
+acquaintance
+roommate
+friend
+Q28008270
+schoolmate
+teammate
 -1
 Granthi
 -1
 vacationer
 tourist
 Q22953873
+-1
+Netlist
 -1
 Q21708200856
 OpenAI
@@ -15293,12 +14840,7 @@ volapükist
 obstetrical and gynecological diagnostic techniques
 fetal monitoring
 -1
-disease of anatomical entity
-musculoskeletal disorder
--1
 break reminder
--1
-Colour of Love
 -1
 function-level language
 -1
@@ -15317,13 +14859,17 @@ A
 -1
 spirit body
 -1
-Wang 1200
+chess person
+chess arbiter
+chess composer
+chess player
+chess official
 -1
 geotechnics
 -1
 Refueling and Overhaul
 -1
-ping6
+Colossus
 -1
 Q1617138
 -1
@@ -15341,8 +14887,7 @@ Dragon Runner
 -1
 English unitary authority council
 -1
-accounting software
-personal accounting software
+REMUS
 -1
 eye examination
 corneal pachymetry
@@ -15399,7 +14944,7 @@ Canon EOS C100
 AXIOM
 Canon EOS C700
 -1
-general-purpose programming language
+Alids of Tabaristan, Daylam and Gilan
 -1
 electro-mechanical computer
 Simon
@@ -15408,14 +14953,12 @@ algebraic logic
 quantum logic
 categorical logic
 -1
-external hard drive
-My Passport
+disease of anatomical entity
+musculoskeletal disorder
 -1
 Q49203568
 -1
 B
--1
-Big man
 -1
 Intertec Superbrain
 -1
@@ -15432,24 +14975,11 @@ Swimmer
 -1
 Tertiary sex characteristic
 -1
-municipal corporation
-neighborhood
-Q11149346
-Commune president
-municipal sector
-municipality
-grietenij
-community of Prince Edward Island
-municipal corporation in the United States
-incorporated town
-city of Wisconsin
-rural municipality of Nepal
--1
 Rascal
 -1
 circulation module
 -1
-ZX Interface 1
+Cronopio
 -1
 Mac Pro
 -1
@@ -15480,6 +15010,8 @@ verbal reasoning
 -1
 message authentication code
 -1
+NeXTstation
+-1
 Hexbug
 -1
 TORAN
@@ -15498,12 +15030,11 @@ African reference alphabet
 B
 A
 -1
-Q11620255
+User
 -1
-defun
+1541 Ultimate
 -1
-vector graphic
-auto traced vector graphic
+4-bit
 -1
 System 6
 -1
@@ -15523,6 +15054,13 @@ document
 Levite
 -1
 PC12 minicomputer
+-1
+memory
+knowledge
+-1
+great-great-grandparent
+great-great-grandmother
+great-great-grandfather
 -1
 specialty
 journal
@@ -15583,7 +15121,10 @@ New York state public-benefit corporation
 -1
 Tosca
 -1
-PIATS
+game
+sequential game
+strategy game
+abstract game
 -1
 phototrope
 -1
@@ -15604,6 +15145,8 @@ Intel® Bay Trail-T Quad Core Z3735F
 -1
 Agricultural Development
 -1
+film portrait
+-1
 hexapod (vehicle)
 -1
 earworm
@@ -15612,15 +15155,23 @@ space bar
 -1
 96th great-grandparent
 -1
-data in use
+A Quiet Place: Part II
 -1
 Hospes
 -1
-SPARCclassic
+fourth-degree relative
+grandniece or grandnephew
+grandaunt or granduncle
+great-great-grandchild
+great-great-grandparent
+fourth cousin
+first half cousin
 -1
 Q1496338
 -1
 Microprofessor III
+-1
+SM-4
 -1
 sequential game
 chess
@@ -15635,16 +15186,11 @@ secondary sex characteristic
 primary sex characteristic
 Tertiary sex characteristic
 -1
-West Germanic languages
-Anglo-Frisian languages
-English
-Anglic languages
+Computer Protocol Heart Beat
 -1
 Biological data
 -1
-shogi
-king
-Shogi variant
+Internet Stream Protocol
 -1
 insignia
 Q1514955
@@ -15674,8 +15220,6 @@ attente
 -1
 event-Management-System
 -1
-qayna
--1
 Q1733903
 -1
 strict programming language
@@ -15685,8 +15229,7 @@ IBM 5520
 human resources
 chief human resources officer
 -1
-subject of a right
-legal person
+Versatile Message Transaction Protocol
 -1
 American Dream
 -1
@@ -15706,7 +15249,7 @@ disability pretender
 -1
 Logitech VideoMan
 -1
-social purpose corporation
+Implication graph
 -1
 humanities
 Oriental studies
@@ -15798,8 +15341,6 @@ Q86435632
 globalization studies
 -1
 First Gentleman
--1
-work colleague
 -1
 Romantic hero
 Byronic hero
@@ -16130,18 +15671,27 @@ vanilla kernel
 electromagnetic wave
 light
 -1
-film technician
-camera operator
-digital imaging technician
-special effects artist
-technical supervisor
+search engine
+web indexing
+indexation software
+Human search engine
+route planning software
+desktop search
+vertical search engine
+Q2713778
+Visual search engine
+distributed search engine
+network search engine
+Search appliance
+scholarly search service
+hangul search engine
+BiTtorrent search engine
 -1
 6264
 -1
 character key
 -1
-Q12042163
-scientific terminology
+Site-specific browser
 -1
 adventurer
 flibuster
@@ -16152,7 +15702,7 @@ vault hunter
 -1
 Sequential analysis
 -1
-Trad.
+Gekko
 -1
 computer booking system
 -1
@@ -16162,11 +15712,11 @@ charcoal burner
 -1
 TED speaker
 -1
-English alphabet
-B
-A
+Combat Radio Transport Protocol
 -1
 fighter
+-1
+natural language processing toolkit
 -1
 algorithm
 artificial intelligence
@@ -16182,11 +15732,22 @@ enthymeme
 -1
 Q16009033
 -1
-passenger vehicle operator
+antispyware
 -1
 hunger stone
 -1
-spiritual evolution
+municipal corporation
+neighborhood
+Q11149346
+Commune president
+municipal sector
+municipality
+grietenij
+community of Prince Edward Island
+municipal corporation in the United States
+incorporated town
+city of Wisconsin
+rural municipality of Nepal
 -1
 confederation
 Amphictyonic League
@@ -16247,16 +15808,28 @@ Gigatron TTL
 deductive reasoning
 transcendental deduction
 -1
+receiver
+Q1750990
+Heinzelmann (Radiobausatz)
+radio receiver
+input device
+passive radar
+learner
+satellite receiver
+streaming media receiver
+-1
 human in Steven Universe
 -1
-end-user
+Authorized Corporation
+medical corporation
+Private Education Institution of Japan
+Q11588318
 -1
-AbFad
+miniKanren
 -1
 Business English
 -1
-Anglic languages
-English
+Olympic rings
 -1
 pattern of behaviour
 game
@@ -16273,9 +15846,20 @@ Q186004
 -1
 SYSMIC
 -1
-Continuous Integration Software
+Q3726220
+Q54820876
 -1
-Chamber of Architects
+heraldic animal
+cow head
+fish
+imaginary creature
+cow
+body part
+heraldic bird
+animal head
+heraldic insect
+reptile
+quadruped heraldic
 -1
 donor portrait
 -1
@@ -16285,6 +15869,8 @@ Q9200176
 -1
 routine diagnostic tests
 -1
+DRT-DM
+-1
 Tourette syndrome
 -1
 communication sciences
@@ -16292,9 +15878,9 @@ emotive
 Impact
 Q1709909
 -1
-logical link control
--1
 MERA 300
+-1
+Villain of the week
 -1
 literary
 -1
@@ -16431,7 +16017,7 @@ laboratory diagnosis of viral infections
 -1
 change sign
 -1
-WEIRD
+46th great-grandparent
 -1
 syntax
 thematic relation
@@ -16457,7 +16043,8 @@ Q21574066
 learning or memory
 memory
 -1
-Render
+municipality president
+mayor of Lausanne
 -1
 datapoint for Wikidata statistics
 -1
@@ -16477,11 +16064,10 @@ AMD Opteron Excavator
 AMD Opteron Jaguar
 AMD Opteron ARMv8-A
 -1
-most recent common ancestor
-mitochondrial Eve
-Y-chromosomal Adam
+Resource Reservation Protocol
 -1
-hacking tool
+map symbol
+map symbol of Japan
 -1
 robotic fish
 -1
@@ -16497,8 +16083,15 @@ first cousin
 -1
 Diagnosis of lung cancer
 -1
-relation
-physical interface
+chess strategy
+blockade
+-1
+genetic testing
+genealogical DNA test
+Predictive testing
+Carrier testing
+genetic screening
+Elective genetic and genomic testing
 -1
 military robot
 Goliath tracked mine
@@ -16512,7 +16105,9 @@ screen buffer
 -1
 Wrapped Encapsulating Security Payload
 -1
-14th great-grandparent
+English alphabet
+B
+A
 -1
 mathematical linguistics
 computational linguistics
@@ -16555,6 +16150,8 @@ C, 17b road sign
 C, 17c road sign
 C, 13ba road sign
 C, 17d road sign
+-1
+pre-credit
 -1
 modular programming language
 -1
@@ -16646,6 +16243,8 @@ human activity
 -1
 Autoconfig
 -1
+role model
+-1
 index
 -1
 Groundling
@@ -16666,13 +16265,20 @@ burn down chart
 Disadvantaged
 Q17239691
 -1
+Anglic languages
+English
+-1
 Model 103 Computer
 -1
 Q17381550
 -1
 Protocol Independent Multicast
 -1
-citrinitas
+Internet library sub-saharan Africa
+-1
+information exchange
+communication
+depiction
 -1
 binary tree
 Stern–Brocot tree
@@ -16688,6 +16294,8 @@ full binary tree
 BD-tree
 extended binary tree
 -1
+work colleague
+-1
 local authority
 territorial collectivity of France
 Area committee
@@ -16702,27 +16310,22 @@ London borough council
 Q41595408
 Scottish district council
 -1
-biological phenomenon
-biological process
-physiological phenomena
+data in transit
 -1
 Q893389
 -1
-Secure Packet Shield
+proof theory
+Gödel's speed-up theorem
 -1
 Taussig symptoms
 -1
 reservation station
 -1
-Resource Reservation Protocol
--1
 social group
 family
 man
 -1
-first cousin once removed ascending
-second uncle
-second aunt
+qayna
 -1
 bachelor
 -1
@@ -16731,6 +16334,8 @@ Q2753508
 interior gateway protocol
 distance-vector routing protocol
 link-state routing protocol
+-1
+chorded keyboard
 -1
 Hijack
 -1
@@ -16758,9 +16363,7 @@ fellow traveler
 -1
 apocryphal biographical entry
 -1
-physiologic monitoring
-Self-monitoring
-fetal monitoring
+SP Switch
 -1
 survivor
 Holocaust survivor
@@ -16771,16 +16374,17 @@ Turion X2 Ultra
 -1
 4-pin fan connector
 -1
-host
-database
+3DLabs P20
 -1
-chinsō
+test automation
+Tosca
+test automation framework
 -1
 Immortal
 -1
 Alien
 -1
-Motorola 6800
+Q63827043
 -1
 category of being
 category
@@ -16825,6 +16429,9 @@ Motorola 6809
 -1
 89th great-grandparent
 -1
+relation
+physical interface
+-1
 personal cloud
 CloudLocker
 -1
@@ -16832,7 +16439,7 @@ carbon nanotube computer
 -1
 research data
 -1
-intelligent dance music
+Nindroid
 -1
 category
 -1
@@ -16860,6 +16467,8 @@ Ethernet VPN
 -1
 technical metadata
 -1
+Banat Swabians
+-1
 limb
 upper extremity
 free upper limb
@@ -16880,16 +16489,16 @@ gateway address
 router
 XMPP transport
 -1
+21st great-grandparent
+-1
 Nonvolatile BIOS memory
 -1
 Land defender
 -1
-D-II Data Exchange
--1
 brevity code
 Q code
 -1
-Q897399
+Cache coherence
 -1
 USB adapter
 Retrode
@@ -16898,7 +16507,7 @@ Sony CCD-V8AF
 -1
 evil twin
 -1
-Three-phase commit protocol
+spamware
 -1
 rail transport
 control room
@@ -16971,7 +16580,35 @@ murder victim
 fictional unborn person
 disproven person
 -1
-45th great-grandparent
+computer memory
+data buffer
+framebuffer
+memory area
+row hammer
+heap
+screen buffer
+random-access memory
+volatile memory
+content-addressable memory
+Read-write memory
+drum memory
+delay line memory
+ECC memory
+Mellon optical memory
+regenerative capacitor memory
+twistor memory
+non-volatile memory
+external memory
+ZX Spectrum Contended Memory
+High Bandwidth Memory
+Big memory
+-1
+West Germanic languages
+Anglo-Frisian languages
+English
+Anglic languages
+-1
+Apple I
 -1
 IBM 709
 -1
@@ -16984,6 +16621,9 @@ Klingonist
 -1
 neurological disorder
 specific developmental disorder
+-1
+DFS
+dfs
 -1
 optical disc drive
 disk buffer
@@ -17000,6 +16640,9 @@ Gigapixel image
 Q5713169
 image macro
 digital photograph
+-1
+minisupercomputer
+Cray XMS
 -1
 human kupffer cell
 -1
@@ -17021,7 +16664,8 @@ NIF 2.0
 personally identifiable information
 personal data
 -1
-system bus
+clean-up artist
+clean-up supervisor
 -1
 Computer Protocol Network Executive
 -1
@@ -17211,7 +16855,7 @@ Document capture software
 -1
 People convicted by the International Military Tribunal for the Far East
 -1
-Q84152537
+SGI Fuel
 -1
 robotic lawn mower
 -1
@@ -17418,9 +17062,12 @@ Q25413611
 -1
 skew heap
 -1
-patron
+gustatory papilla
+fungiform papilla
+vallate papilla
+foliate papilla
 -1
-celebrity chef
+Q897399
 -1
 process
 biological process
@@ -17443,6 +17090,10 @@ cognitive science
 artificial intelligence
 -1
 blind person
+-1
+BBC Master
+-1
+Wang 1200
 -1
 Stream Control Transmission Protocol
 -1
@@ -17474,27 +17125,12 @@ Q11703774
 Carthusian martyrs of London
 Child Martyrs of Tlaxcala
 -1
-martial artist
-Yusei
-Grandmaster
-budoka
-uke
-rikishi
-judoka
-karateka
-boxer
-mixed martial artist
-amateur wrestler
-Brazilian jiu-jitsu practitioner
-sambo fighter
-wrestler
-jujutsuka
-capoeira practitioner
-Hapkido practitioner
-pugilist
--1
 scientific data
 Biological data
+-1
+cultural worker
+-1
+non-combatant
 -1
 malware
 payload
@@ -17516,10 +17152,13 @@ computer infection
 Cyberpolice virus
 Bitcoin mining malware
 -1
+celebrity chef
+-1
+Lemon II
+-1
 mirror image
 -1
-General Alphabet of Cameroon Languages
-A
+Q11620255
 -1
 co-sibling-in-law
 co-brother-in-law
@@ -17533,7 +17172,12 @@ Enterprise digital assistant
 free upper limb
 arm
 -1
-muggle
+accounting software
+personal accounting software
+-1
+Q25424895
+-1
+Q12050475
 -1
 cholera
 Vibrio cholerae O139 cholera
@@ -17547,7 +17191,7 @@ laugh track
 -1
 Q4530968
 -1
-flibuster
+dependently typed programming language
 -1
 human bile canaliculus
 -1
@@ -17568,16 +17212,14 @@ Písmáci
 -1
 Triangular chess
 -1
+chinsō
+-1
 stateless protocol
 -1
 live recording
 radio performance
 -1
-computer appliance
-firewall
-Search appliance
-Server appliance
-network appliance
+Cray T3D
 -1
 Apple Macintosh
 System 6
@@ -17590,9 +17232,13 @@ Macintosh 68k
 -1
 fictional child
 -1
+Q2692212
+-1
 In situ hybridization
 -1
 A 5120
+-1
+PIATS
 -1
 auriga
 -1
@@ -17667,8 +17313,9 @@ Meccanoid
 -1
 neurotypical
 -1
-network file system
-DCE Distributed File System
+panorama portrait
+-1
+sizeof
 -1
 Acorn Communicator
 -1
@@ -17684,7 +17331,7 @@ still frame
 -1
 Standard Architecture for Universal Comment Extensions
 -1
-case definition
+Anwar Saifullah Khan
 -1
 trade name
 record label
@@ -17695,8 +17342,6 @@ lao zihao
 story artist
 story supervisor
 -1
-amateur archaeologist
--1
 model organism database
 -1
 interlocutor
@@ -17706,59 +17351,15 @@ receiver
 namespace
 address
 -1
-cultural studies
-study of the Hebrew language
-papyrology
-funeral rite
-ethnobotany
-visual culture
-participant observation
-anthropology of Religion
-isolated human group
-extinct human group
-folkloristic morphology
-role-playing game theory
-Arabic studies
-gender archaeology
-Native American studies
-ethnic studies
-Jewish studies
-ethnology
-folkloristics
-African American studies
-disability studies
-game studies
-cultural history
-area studies
-xenology
-cultural psychology
-gender studies
-Q1786978
-Q1791844
-migration studies
-queer studies
-Q2499930
-francology
-Asian American studies
-Deaf studies
-performance studies
-Q15075764
-transgender studies
-Hispanic-American, Puerto Rican, and Mexican-American/Chicano studies
-fan studies
-anarchist studies
-Sephardic studies
-mad studies
-Caribbean studies
+Q151522
 -1
 film soundtrack
 film score
 -1
-CSS Flex Box Layout
--1
 Pocketdelta robot
 -1
-tetractys
+Buddha
+Eternal Buddha
 -1
 6th great-grandparent
 -1
@@ -17768,8 +17369,7 @@ Dimensioning
 -1
 Test set
 -1
-Inferno
-Q9086151324
+geographic information systems software
 -1
 Patient management software
 -1
@@ -17786,15 +17386,13 @@ Bit-oriented protocol
 -1
 philosophy of music
 -1
-computer vision
-image segmentation
-object detection
+AT keyboard
 -1
 Director
 -1
 age
 -1
-Q25424895
+muggle
 -1
 freedman
 Wahshi ibn Harb
@@ -17802,7 +17400,8 @@ Q11916775
 -1
 IMCE Junior
 -1
-Q25412478
+Solutions of the Einstein field equations
+closed timelike curve
 -1
 AMD microprocessor
 AMD Turion
@@ -17876,8 +17475,56 @@ kidnapper
 -1
 PK8002 "Elf"
 -1
-xiangqi
-Xiangqi variant
+image
+Good Ole Boys Like Me
+Love Me Over Again
+Hey Baby (They're Playing Our Song)
+Susan
+Render
+channel
+Segesser I
+Segesser II
+symbol
+emblem
+portrait
+vector graphic
+illustration
+raster graphics
+karyotype
+anamorphosis
+intermediate image
+entrance pupil
+wordmark
+laser guide star
+clip art
+digital image
+Educational Wall Picture
+multispectral image
+vessel traffic service
+mirror image
+hologram
+petrosomatoglyph
+standard test image
+warrior
+Tracing board
+ambiguous image
+Ames trapezoid
+archival image
+iron-on
+Stevengraph
+pole figure
+moving image
+Segesser hides
+Image
+Palladium
+sonogram
+still frame
+Hand Heart
+Q28009426
+official image
+blur
+figure
+tattoo
 -1
 Q5732678
 -1
@@ -17888,10 +17535,10 @@ DOS memory manager
 optical system
 optical instrument
 -1
-fashion illustration
-fashion figure
+Single-photon emission computed tomography
 -1
-tag out
+crime prevention
+crime control
 -1
 a posteriori knowledge
 -1
@@ -17899,7 +17546,7 @@ complete binary tree
 binary heap
 perfect binary tree
 -1
-emotive
+olive branch
 -1
 Q79203069
 -1
@@ -17915,15 +17562,7 @@ maple leaf
 -1
 Bandai Gundam RX-78
 -1
-internet celebrity
-YouTuber
-Q41685600
-Instagram blogger
-Twitch streamer
-online streamer
-Squawker
-tweeter
-social media influencer
+animal soul
 -1
 outliner
 -1
@@ -17944,10 +17583,12 @@ abstract strategy game
 great-grandaunt or great-granduncle
 great-granduncle
 -1
-Virtual Network Computing
+passenger vehicle operator
 -1
-sleep study
-Multiple Sleep Latency Test
+PC-8000 series
+PC-8001mkII
+NEC PC-8001
+NEC PC-8001mkIISR
 -1
 Santa Fe Living Treasure
 -1
@@ -17960,12 +17601,19 @@ Modal window
 Sabbath mode
 snap
 -1
-music psychology
-music perception
+subdivision of cardinal body part
+arm
 -1
 widower
 -1
-common knowledge
+digital organism
+payload
+computer virus
+OpenWorm
+-1
+Q2785035
+-1
+patron
 -1
 Business idea
 -1
@@ -17976,17 +17624,20 @@ Presidential portrait of Presidents of the United States
 Delta robot
 Pocketdelta robot
 -1
-profile
+Incroyable
 -1
-Q1936987
+badware
+malware
 -1
 Portable application
+-1
+chess computer
 -1
 Simple Message Protocol
 -1
 BeagleBone
 -1
-IPv6 encapsulation
+flibuster
 -1
 Extremely Annotational RDF Markup
 -1
@@ -17997,10 +17648,39 @@ Web counter
 -1
 Ligio
 -1
-enterprise software
-Enterprise Content Management system
-Enterprise search
-enterprise file synchronization and sharing
+designer
+architect
+graphic designer
+golf course designer
+head of design
+Q1779650
+lighting designer
+interior designer
+jewellery designer
+scenographer
+landscape architect
+production designer
+sound designer
+fashion designer
+game designer
+architectural designer
+Fabergé workmaster
+furniture designer
+camoufleur
+Q11852757
+garden designer
+motorcycle designer
+property designer
+industrial designer
+textile designer
+Product-designer
+Q29179832
+user interface designer
+Q33392730
+fabric designer
+tapestry designer
+vexillographer
+mechanical designer
 -1
 human nature
 -1
@@ -18071,24 +17751,20 @@ wedding witness
 direct witness
 indirect witness
 -1
-cutie mark
+out
+tag out
+strikeout
+fourth out
 -1
-cross-platform software
+Electrologica X1
 -1
 XMPP Extension Protocol
 -1
-entertainment
-game
-music
+Address Resolution Protocol
 -1
 Electrologica X8
 -1
-International Phonetic Alphabet
-Ă
--1
 Kizuna AI
--1
-legged robot
 -1
 activist
 whistleblower
@@ -18131,16 +17807,37 @@ asthmatic
 -1
 Care-O-bot
 -1
-metaclass
-Wikidata metaclass
-chemical component
-vehicle family
-variable-order metaclass
+cause
+Agadir Crisis
+assassination of Archeduke Franz Ferdinand of Austria
+causality
+causes of World War I
+causes of World War II
+stressor
+failure cause
+environmental factor
+cause of accident
+signal passed at danger
+Push and pull factors
+multiple causes
+aviation safety incident cause
+end cause
+single cause
+cause of destruction
+epidemiologic factor
+causes of the 2019 Hong Kong protests
 -1
 humanist
 Renaissance humanist
 -1
+harm reduction
+safe sex
+acceptance oriented drug care
+responsible drug use
+-1
 Air-Cobot
+-1
+Kanaka
 -1
 software development methodology
 Spike
@@ -18177,7 +17874,7 @@ child
 -1
 subtitle editor
 -1
-Macintosh 128K
+human upper arm
 -1
 Q2391569
 -1
@@ -18211,7 +17908,11 @@ Q66486266
 -1
 supply chain management software
 -1
-freemasonry symbolism
+film technician
+camera operator
+digital imaging technician
+special effects artist
+technical supervisor
 -1
 winner of the mountain classification
 -1
@@ -18240,6 +17941,8 @@ speech recognition
 -1
 Q11132879
 -1
+Q4476621
+-1
 server computer
 IEFBR14
 power supply unit
@@ -18252,14 +17955,12 @@ ProLiant
 ThinkServer
 mobile server
 -1
-Q1156005
--1
-Nindroid
+Q62027129
 -1
 loss of turn
 -1
-undead in Warcraft
-Forsaken
+Quantitative polymerase chain reaction
+real-time polymerase chain reaction
 -1
 24th great-grandparent
 -1
@@ -18270,9 +17971,23 @@ town of Virginia
 -1
 Q2793402
 -1
-machine instruction
-CPUID
-floating point operation
+firefighter
+smokejumper
+chief firefighter
+fire marshal
+Fire services in France
+fire chief
+Q16675652
+Q19349534
+Q19349537
+Q19349538
+Q19349540
+Q19349541
+Fire chiefs of South Korea
+Q19349545
+Q19349546
+Q19359951
+gymnast firefighters
 -1
 scene
 confessional
@@ -18286,7 +18001,11 @@ text data
 specific developmental disorder
 tic disorder
 -1
-Cray T3D
+AbFad
+-1
+hit record
+hit single
+number one album
 -1
 Q12057826
 -1
@@ -18295,7 +18014,7 @@ Q12057825
 Pan-Nigerian alphabet
 B
 -1
-Q12057829
+hunter's jargon
 -1
 Q12057828
 -1
@@ -18402,67 +18121,36 @@ process-oriented programming language
 intellectual competition
 mind sport
 -1
-data
-open data in France
-Q151522
-digital data
-signal
-metadata
-fact
-telemetry
-checksum
-open data
-sales data
-geospatial information
-Master data
-mask
-big data
-sales lead
-message authentication code
-unstructured data
-Compact Disc subcode
-paradata
-microdata
-raw data
-categorical variable
-semi-structured data
-audio recording
-Test set
-Experimental data
-machine-readable data
-ordinal variable
-Synthetic data
-Test data
-transaction data
-research data
-quasi-identifier
-Economic data
-health data
-scientific data
-datapoint for Wikidata statistics
-Q25424895
-structured data
-biodiversity data
-FAIR data
-legacy data
-statistical data
-argument
-sensor data
-climate data
-data silo
-satellite data
-2018 FIFA World Cup statistics
-numeric data
-Q60475632
-image data
-representational data
-text data
-audio data
-individual data
-shape expression
-Q65770027
-Clinical data
-mobility data
+set art director
+-1
+creator
+author name string
+My Shit
+urban planner
+inventor
+author
+artist
+pastry chef
+artisan
+editor
+researcher
+muse
+chess composer
+film professional
+innovator
+chef
+game designer
+anonymous
+designer
+advertising person
+documentarian
+presenter
+podcaster
+gallerist
+organizational founder
+fashion person
+mimographer
+creator software
 -1
 traveller
 castaway
@@ -18489,12 +18177,25 @@ A
 -1
 Q69060453
 -1
-intelligence
-human intelligence
+man
+eunuch
+gentleman
+First Gentleman
+gigolo
+young man
+househusband
+beefcake
+Randle Holme
+patriarch
+widower
+Q20741461
+zaque
+Bonokuhle Magwaza
+Q69060453
+male flight attendant
+naked man
 -1
-Highly sensitive person
--1
-final
+amateur archaeologist
 -1
 natural process
 biological process
@@ -18508,7 +18209,10 @@ bObsweep
 -1
 early bird
 -1
-English billiards player
+modus ponens
+-1
+Canterbury Martyrs
+John Bland
 -1
 scientific writing
 scientific terminology
@@ -18539,9 +18243,9 @@ Pashto
 -1
 John 3:7
 -1
-D37D
+86th great-grandparent
 -1
-hunter's jargon
+technical animation supervisor
 -1
 Q2279027
 -1
@@ -18579,6 +18283,8 @@ EPod
 -1
 off-side rule language
 -1
+constitutive theory of statehood
+-1
 dimensional traveller
 -1
 Subpixel rendering
@@ -18593,7 +18299,7 @@ NHS foundation trust
 New York state public-benefit corporation
 Transportation authority
 -1
-AAC
+Psion Organiser
 -1
 middlegame
 -1
@@ -18602,6 +18308,8 @@ viewer
 Automated Certificate Management Environment
 -1
 rubedo
+-1
+Iskradata 1680
 -1
 Misuk
 -1
@@ -18656,8 +18364,7 @@ human arterial endothelial cell
 -1
 Development Team
 -1
-Shelf corporation
-Reverse takeover
+Development
 -1
 Independent
 -1
@@ -18671,11 +18378,25 @@ pastry chef
 -1
 Chaosnet
 -1
+xiangqi
+Xiangqi variant
+-1
 Pūloʻuloʻu
 -1
 Q5760035
 -1
-Simultaneous exhibition
+arm
+forearm
+upper arm
+Q2732501
+human forearm
+human upper arm
+wing
+left arm
+right arm
+left upper arm
+right upper arm
+human arm (excluding hand)
 -1
 crew member
 flight attendant
@@ -18689,20 +18410,243 @@ Q19388862
 -1
 municipal corporation in India
 -1
-Q1438199
+non-procedural programming language
 -1
 Particular
 -1
 backplane
 backplane system
 -1
+network file system
+DCE Distributed File System
+-1
 concatenative programming language
 -1
 dialectal syntax
 -1
+mass media
+newspaper
+radio station
+media of Algeria
+media of Honduras
+alternative media
+media of India
+media in Berlin
+media of Austria
+media of Poland
+new media
+Q861061
+media of the Faroe Islands
+media in Ethiopia
+online newspaper
+media of Turkey
+ethnic media
+media of Japan
+media of Belarus
+media of Burkina Faso
+media of Croatia
+media of Senegal
+media of Switzerland
+media of Sweden
+media of Russia
+media of Iran
+media of the United Kingdom
+media of Cameroon
+media of Mali
+media of Morocco
+media of Venezuela
+media of the Democratic Republic of the Congo
+media of Scotland
+media of Eritrea
+media of Cuba
+media of Iceland
+media of Tunisia
+media of Norway
+media in Hong Kong
+media of Sudan
+media of Saudi Arabia
+media in Abkhazia
+media of Baku
+media of Australia
+media of Bashkortostan
+media of Bhutan
+media of North Korea
+media of Costa Rica
+media of Turkmenistan
+media of the People's Republic of China
+media of Israel
+media of the United States of America
+media of Belgium
+media in Romania
+mainstream media
+media of Germany
+media of Chile
+media of Spain
+media of Uzbekistan
+media in Benin
+media in Uganda
+media of Afghanistan
+media of Africa
+media of Albania
+media of Angola
+media of Bahrain
+media of Barbados
+media of Bolivia
+media of Botswana
+media of Brunei
+media of Myanmar
+media of Burundi
+media of Cambodia
+media of Canada
+media of Chad
+media of Colombia
+media of Comoros
+media of Djibouti
+media of Equatorial Guinea
+media of Egypt
+media of Georgia
+media of France
+media of Guatemala
+media of Haiti
+media of Indonesia
+media of Iraq
+media of Ireland
+media of Ivory Coast
+media of Jordan
+media of Kenya
+media of Kosovo
+media of Kyrgyzstan
+media of Latin America
+media of Libya
+media of Malaysia
+media of Mauritius
+media of Mongolia
+media of Mauritania
+media of Nauru
+media of New Orleans
+Zeitungsbuch
+daily comic strip
+Teaser (Press)
+letter to the editor
+online magazine
+advertising supplement
+Zeit Online
+colour supplement
+television in Israel
+radio in Israel
+Kol Chai
+broadcasting programming
+radio programming
+Q2466900
+Clock
+Encryption Plus Non-Assertion
+television programming
+media of New Zealand
+media of Nepal
+media of Nicaragua
+media of Niger
+media of Nigeria
+media of Northern Ireland
+media of Pakistan
+media of Panama
+media of Paraguay
+media of Peru
+media of Puerto Rico
+media of Sierra Leone
+media of Somalia
+media of Singapore
+media of South Africa
+media of Sri Lanka
+media of Syria
+media of Transnistria
+media of Thailand
+media of Tajikistan
+media of Taiwan
+media of Vietnam
+media of Wales
+media of Zimbabwe
+media of Yemen
+media of the Central African Republic
+media of the Republic of the Congo
+media of the United Arab Emirates
+media of the Soviet Union
+Sign-language media
+media of Ukraine
+media of Macau
+print media
+media of the Netherlands
+media of Lebanon
+media of Italy
+media of Greece
+media of South Sudan
+broadcasting
+media of Bangladesh
+media of Gabon
+media of Jersey
+media of Ghana
+media of Estonia
+media of Kazakhstan
+media in Zambia
+media of Cape Verde
+media in Kiribati
+media of South Korea
+media of Vanuatu
+media of the Philippines
+media of Malawi
+written news media
+news website
+media of Hungary
+media of Mozambique
+media of Bosnia and Herzegovina
+media of Bulgaria
+media of Qatar
+media of Serbia
+media of Slovenia
+media of Montenegro
+Media of North Macedonia
+media of Palestine
+media of Moldova
+media of Azerbaijan
+media of Armenia
+media of Cyprus
+media of Northern Cyprus
+media of Rwanda
+information media
+media of Togo
+media of Guinea-Bissau
+media of Tanzania
+Arabic media
+media of Namibia
+media of Czech Republic
+media of Finland
+media of Lithuania
+media of Portugal
+media of Latvia
+media of Slovakia
+Q51181862
+media of São Tomé and Príncipe
+media of Denmark
+media of Brazil
+media of Uruguay
+media of Argentina
+media of Ecuador
+media of Mexico
+media of Luxembourg
+media of El Salvador
+media of the Dominican Republic
+media of Jamaica
+media of Oman
+media in Lesotho
+Qué Pasa (Zulia)
+netcaster
+América radio (Radio Station)
+-1
+Q750372
+-1
 Heathkit H11
 -1
-ThinkServer
+subject of a right
+legal person
 -1
 C++
 dynamic_cast
@@ -18732,10 +18676,15 @@ Arndale Board
 -1
 84th great-grandparent
 -1
-class
-type of sport
+Tangerine Microtan 65
 -1
-Ability
+Vietnamese alphabet
+B
+Ă
+A
+Â
+-1
+Big man
 -1
 Farris Wilks
 -1
@@ -18745,11 +18694,15 @@ Q4530990
 -1
 Celtic deity
 -1
-SQL programming tool
+Littlewood's three principles of real analysis
 -1
 Q1908975
 -1
 charge controller
+-1
+shogi
+king
+Shogi variant
 -1
 New Martyr
 -1
@@ -18758,6 +18711,14 @@ PatrolBot
 Q1665596
 -1
 fugitive slave
+-1
+input method
+language input key
+Japanese input method
+Chinese input methods for computers
+Unicode input
+Bengali input methods
+Tamil input methods
 -1
 fact
 Q4080826
@@ -18768,7 +18729,7 @@ notebook processor
 Q294889
 Q294897
 -1
-67th great-grandparent
+case definition
 -1
 solution stack
 mobile development framework
@@ -18789,18 +18750,8 @@ dependant
 -1
 Spherical panoramics
 -1
-polymerase chain reaction
-reverse transcription polymerase chain reaction
-inverse polymerase chain reaction
-RAPD
-multiplex ligation-dependent probe amplification
-touchdown polymerase chain reaction
-real-time polymerase chain reaction
-nested polymerase chain reaction
-multiplex polymerase chain reaction
-Quantitative polymerase chain reaction
-hot start PCR
-Digital polymerase chain reaction
+Celtic cross
+Cross stone
 -1
 Public law institute
 Anstalt des öffentlichen Rechts
@@ -18820,8 +18771,6 @@ Firebat
 Q12326114
 -1
 Host Monitoring Protocol
--1
-Ipsilon Flow Management Protocol
 -1
 prophet of Islam
 rasul
@@ -18878,17 +18827,18 @@ Local and Indigenous Knowledge
 -1
 Mobile IP
 -1
-cache
-HTTP ETag
-Cache-Control
-CPU cache
-web cache
-disk cache
-Negative cache
-HTTP Caching
-cache memory
-shared L2 cache
-logical volume caching software
+winner
+champion
+overall winner general classification
+stage winner
+overall leader at the end of the stage
+winner of the teams classification by time
+winner of the points classification
+winner of the young rider classification
+winner of the mountain classification
+award winner
+Q27067359
+winner of the rookie classification
 -1
 Q2296538
 -1
@@ -18910,7 +18860,7 @@ computer language
 -1
 unbeliever
 -1
-Transaction Transport Protocol
+Q2672965
 -1
 Sun Ray
 -1
@@ -18971,7 +18921,11 @@ homeland research
 -1
 OpenRISC
 -1
+whistleblower
+-1
 Chief of Chaplains of the United States Army
+-1
+spiritual evolution
 -1
 Q55057389
 -1
@@ -18982,7 +18936,7 @@ Law of excluded middle
 modus ponens
 term logic
 -1
-whistleblower
+neurological diagnostic techniques
 -1
 Q20012547
 -1
@@ -18995,6 +18949,8 @@ TCF
 Interactive Agent Transfer Protocol
 -1
 Dark Lord
+-1
+45th great-grandparent
 -1
 syllogism
 enthymeme
@@ -19012,9 +18968,13 @@ heresiarch
 -1
 Dual-career commuter couples
 -1
+Eco-warrior
+-1
 Symbols of Zlín Region
 -1
-film portrait
+legal person
+juridical person
+company
 -1
 descendant
 Calais and Zetes
@@ -19035,7 +18995,9 @@ Continuous test-driven development
 -1
 Jiro
 -1
-4-bit
+free limb
+free upper limb
+arm
 -1
 Windows key
 -1
@@ -19044,12 +19006,17 @@ honor
 -1
 Broadway
 -1
+system bus
+-1
 self-extracting archive
 self-extracting ZIP
 -1
 keel laying
 -1
-Q9323066
+Wikimedia tool
+Q19636751
+Wikipedia:Gadget
+Wikidata tool
 -1
 Open sea
 -1
@@ -19060,24 +19027,23 @@ document
 -1
 causes of landslides
 -1
-accord
-signature
-opening clause
-severability clause
-clause
-contractual term
-contract
-treaty
-customs agreement
-rights
-minority rights
-Deal with the Devil
-Individual and group rights
-wage-price agreement
-Q2244614
-Q17620108
-intergovernmental agreement
-cooperation agreement
+C
+C preprocessor
+structure in C
+typedef
+sizeof
+Strtod
+Sfio
+Q11298043
+!=
+Escape sequences in C
+register
+C99
+ANSI C
+C11
+C18
+K&R C
+C2x
 -1
 module
 Perl module
@@ -19088,6 +19054,23 @@ lock manager
 transaction manager
 Linux Security Module
 Apache module
+-1
+accused
+defendant
+respondent
+enemy of the state
+falsely accused
+-1
+metrosexual
+technosexual
+-1
+Q2984926
+-1
+WEIRD
+-1
+Apple IIc
+-1
+innovator
 -1
 computer
 power supply unit
@@ -19233,15 +19216,6 @@ Independent
 Toshiba T 100
 Vinyl cutter
 -1
-metrosexual
-technosexual
--1
-Q2984926
--1
-Apple IIc
--1
-innovator
--1
 Q28721615
 -1
 symbol of the United States Department of the Treasury
@@ -19261,18 +19235,6 @@ power good signal
 -1
 Q2943539
 -1
-second-degree relative
-niece or nephew
-grandparent
-grandchild
-uncle or aunt
-half-sibling
-Biaoge
-Biaodi
-Biaojie
-Biaomei
-half cousin
--1
 genius
 -1
 Tektronix 405x
@@ -19281,7 +19243,8 @@ Last man
 -1
 Apple III
 -1
-interactive computing
+Shelf corporation
+Reverse takeover
 -1
 nurse assistant
 -1
@@ -19324,6 +19287,10 @@ Magic Keyboard
 gaming keyboard
 Q79203069
 Dreamcast Keyboard
+-1
+social organism behavior
+communication
+depiction
 -1
 central processing unit
 eDRAM
@@ -19399,6 +19366,8 @@ Farris Wilks
 -1
 Loongson
 -1
+first base
+-1
 mouse arm
 -1
 plantsman
@@ -19454,9 +19423,22 @@ left biceps brachii
 -1
 SpectraLink Radio Protocol
 -1
-great-great-grandparent
-great-great-grandmother
-great-great-grandfather
+Trus, Balbes and Byvalyi
+the Coward
+the Fool
+the Pro
+-1
+cache
+HTTP ETag
+Cache-Control
+CPU cache
+web cache
+disk cache
+Negative cache
+HTTP Caching
+cache memory
+shared L2 cache
+logical volume caching software
 -1
 DCN Measurement Subsystems
 -1
@@ -19531,9 +19513,9 @@ Snapdragon 830
 Q31086521
 Snapdragon 845
 -1
-preprocessor
+Internet Group Management Protocol
 -1
-chess computer
+opposition
 -1
 DVK
 -1
@@ -19565,13 +19547,14 @@ loxodromic navigation
 -1
 Lot
 -1
+cs
+CS
+-1
 Acer Predator
 -1
 Q14513673
 -1
-information exchange
-communication
-depiction
+citrinitas
 -1
 character map
 -1
@@ -19593,6 +19576,10 @@ network socket
 raw socket
 datagram socket
 Stream socket
+-1
+biological phenomenon
+biological process
+physiological phenomena
 -1
 trademark
 Zweitmarke
@@ -19626,7 +19613,7 @@ Q77932826
 Yahoo
 Merold
 -1
-Bonokuhle Magwaza
+tetractys
 -1
 Q1350087
 weather lore
@@ -19823,7 +19810,7 @@ regentenstuk
 family portrait
 double portrait
 -1
-Libre knowledge
+ARGUS
 -1
 sportswriter
 -1
@@ -19861,11 +19848,13 @@ Keyboard controller
 peripheral controller
 SMBUS controller
 -1
-EPR01
+gnosis
 -1
 Q12057830
 -1
-Q12057831
+digital identity
+username
+@
 -1
 symbols of Delaware
 -1
@@ -19898,6 +19887,8 @@ Palladium
 -1
 Keyboard controller
 -1
+Q84152537
+-1
 quantum memory
 -1
 cursor
@@ -19908,7 +19899,7 @@ generalized function
 probability density function
 probability distribution
 -1
-Q2205043
+driver assistance software
 -1
 Olympic symbols
 Citius, Altius, Fortius
@@ -19936,6 +19927,10 @@ Q3388476
 marine piloting
 -1
 solid-state electronics
+-1
+sibling-in-law
+brother-in-law
+sister-in-law
 -1
 Q50355772
 -1
@@ -19984,7 +19979,14 @@ Malu
 cutie mark
 face tattoo
 -1
-spatial analysis software
+digital data
+digital electronics
+Digital imaging
+D-2
+data at rest
+overhead information
+data in transit
+data in use
 -1
 smartbook
 Toshiba AC100
@@ -19993,48 +19995,19 @@ Lenovo Skylight
 formalized language
 map language
 -1
-Ames trapezoid
+Apricot PC
 -1
 structured programming language
 -1
-cross
-swastika
-ankh
-saltire
-Maltese cross
-Jerusalem cross
-Christian cross
-Order of Christ Cross
-Greek cross
-Cross potent
-patriarchal cross
-Bolnisi cross
-cross pattée
-Huguenot cross
-Lauburu
-crux gemmata
-Russian Orthodox cross
-lazarus cross
-Leopold cross
-Rupert cross
-lilac cross
-Jansenistic cross
-Agadez cross
-Borromean cross
-Q4322514
-equal-armed cross
-Angob
-Nordic cross
-Q20160267
-two-barred cross
-Russian cross
-Cross of Aviz
+defun
 -1
 head of animation
 head of characters and technical animation
 head of effects animation
 co-head of animation
 computer animation supervisor
+-1
+ProLiant
 -1
 lucky symbol
 mascot
@@ -20048,10 +20021,7 @@ NEC V30
 -1
 George H. W. Bush
 -1
-party
-litigant
-lessee
-Q56704091
+Secure Packet Shield
 -1
 android
 sex robot
@@ -20073,21 +20043,67 @@ Expireware
 -1
 unit symbol
 -1
-Q41595408
--1
 fireman
 -1
 eccentric
 -1
-receiver
-Q1750990
-Heinzelmann (Radiobausatz)
-radio receiver
-input device
-passive radar
-learner
-satellite receiver
-streaming media receiver
+Ames trapezoid
+-1
+logic
+predicate logic
+Principle of explosion
+causality
+propositional logic
+modal logic
+fuzzy logic
+classical logic
+premise
+Science of Logic
+description logic
+deductive reasoning
+inductive reasoning
+philosophical logic
+category of being
+quantum logic
+appeal to motive
+Q3016108
+opposition
+logical form
+Q8465354
+Q10317846
+formalized language
+Alebo
+deontic logic
+Syntax
+conjunctive normal form
+Open-world assumption
+Gödel's completeness theorem
+Löwenheim–Skolem theorem
+closed world assumption
+Gödel numbering
+judgment
+negation complete
+strength
+Shannon's expansion
+reflection principle
+literal
+Implication graph
+Q55766620
+syllogism
+Deontic logic
+formal logic
+mathematical logic
+logic in computer science
+Q2672965
+Q3065774
+Q3490550
+Obversion
+verbal reasoning
+Q9389394
+hetuvidyā
+Q11762395
+Q25518081
+media logic
 -1
 Q28778566
 -1
@@ -20107,28 +20123,7 @@ wetware computer
 -1
 Mahasiddha
 -1
-computer memory
-data buffer
-framebuffer
-memory area
-row hammer
-heap
-screen buffer
-random-access memory
-volatile memory
-content-addressable memory
-Read-write memory
-drum memory
-delay line memory
-ECC memory
-Mellon optical memory
-regenerative capacitor memory
-twistor memory
-non-volatile memory
-external memory
-ZX Spectrum Contended Memory
-High Bandwidth Memory
-Big memory
+23rd great-grandparent
 -1
 judgment
 -1
@@ -20184,12 +20179,30 @@ multiplayer chess
 four-handed chess
 three-player chess
 -1
+functionary
+High Representative for Bosnia and Herzegovina
+commissioner
+Q1006064
+European Commissioner
+Q2804433
+top official
+Director Special Forces
+Q17353934
+Chief of Defence Intelligence
+Q29552271
+United Nations official
+Q47541624
+Q48969674
+Q61876950
+party official
+-1
 acknowledgement
 consent
 receipt
 thanking
 -1
-Crossland banner
+disk enclosure
+external hard drive
 -1
 Q2393463
 -1
@@ -20214,39 +20227,12 @@ mathematical thinking
 Symbolic Thought
 artificial thinking
 -1
+SPARCclassic
+-1
 computer programming
 routine
 -1
-corporation
-Agrargemeinschaft
-Shelf corporation
-self-regulatory organization
-statutory corporation
-homeowner association
-professional association
-local authority
-Q1102369
-private law corporation
-municipal corporation
-S corporation
-benefit corporation
-C corporation
-for-profit corporation
-foreign corporation
-municipality of Chile
-private company limited by guarantee
-Public development authority
-public service company
-religious corporation
-association of legal entities
-Q10871615
-special public interest promotion corporation
-Authorized Corporation
-nonprofit corporation
-Kosher certification agency
-Q33000899
-Nobiliary Corporation
-public-benefit corporation
+Q2370707
 -1
 possibly disproven person
 -1
@@ -20256,8 +20242,8 @@ Stand-up meeting
 -1
 Hypercube
 -1
-Merold
-Yahoo
+Sarkobgar
+Leila Vaseghi
 -1
 robotic dog
 i-Cybie
@@ -20282,11 +20268,12 @@ Tender Heart
 quantitative easing
 Outright Monetary Transactions
 -1
+ROMP
+-1
 Unix domain socket
 -1
-negation complete
--1
-IP-within-IP Encapsulation Protocol
+deontic logic
+deontic modality
 -1
 fingerprint
 -1
@@ -20317,12 +20304,34 @@ Sustainable Development Goal Indicator
 skill
 routine
 -1
+prisoner
+prisoner of war
+hostage
+civilian internee
+political prisoner
+Sonderkommando
+Kapo
+Heimkehrer
+prisoner of a Nazi concentration camp
+ghost detainee
+Q3389010
+Canadian detainees at Guantanamo Bay
+Q7210478
+Zek
+Q18088349
+inmate
+Q47484906
+Q58225756
+federal prisoner
+-1
 communication medium
 document
 -1
 Manufacturing operations
 -1
 Lutheran
+-1
+preprocessor
 -1
 bibliography
 National Bibliography Number
@@ -20373,27 +20382,14 @@ Q60586493
 -1
 History of libraries
 -1
-firefighter
-smokejumper
-chief firefighter
-fire marshal
-Fire services in France
-fire chief
-Q16675652
-Q19349534
-Q19349537
-Q19349538
-Q19349540
-Q19349541
-Fire chiefs of South Korea
-Q19349545
-Q19349546
-Q19359951
-gymnast firefighters
+musical instrument part
+pickup
 -1
-Icelandic alphabet
-B
-A
+spatial analysis software
+-1
+dubbing of film
+Q1208461
+Q1208493
 -1
 hierodule
 sacred prostitution
@@ -20423,8 +20419,17 @@ A
 -1
 Raster image processor
 -1
-data structure
-tree data structure
+occult
+Spagyric
+Magnum opus
+vitriol
+Apport
+Asport
+séance
+Spirit world
+alchemy
+spiritualism
+Chaos magic
 -1
 Fender Wide Range
 -1
@@ -20443,13 +20448,20 @@ mental process
 energy generating station
 control room
 -1
+polymorphism
+sexual dimorphism
+-1
 Programa
 -1
 tragic villain
 -1
 Alebo
 -1
-human hepatic artery
+computer appliance
+firewall
+Search appliance
+Server appliance
+network appliance
 -1
 integrated graphics processor
 -1
@@ -20457,7 +20469,8 @@ union of writers
 -1
 Abstractor of title
 -1
-miniKanren
+treasure hunter
+vault hunter
 -1
 name
 vendor
@@ -20597,7 +20610,9 @@ eunuch official
 -1
 Q12744957
 -1
-realist
+deontic modality
+benedictive mood
+volitive modality
 -1
 journalism
 journal
@@ -20659,17 +20674,25 @@ Q54862900
 -1
 village sign
 -1
-Q3511956
+raster graphics
+High-dynamic-range imaging
+Subpixel rendering
+Sprite
+-1
+Voice over Internet Protocol
+mobile VoIP
+Q28864043
+VoWiMAX
 -1
 C++ concept
--1
-UDP Lite
 -1
 Q10403173
 -1
 Q3511951
 -1
-field-replaceable unit
+Ability
+-1
+eOne
 -1
 assignment statement
 augmented assignment
@@ -20683,13 +20706,15 @@ Recap sequence
 -1
 Quadrics
 -1
-1541 Ultimate
+Virtual Network Computing
 -1
 MANET Protocols
 -1
-Rabies testing
+constraint  programming language
 -1
 agricultural robot
+-1
+Pine64
 -1
 integrated library system
 acquisition module
@@ -20728,6 +20753,8 @@ transport
 commercial vehicle
 -1
 Q9389394
+-1
+Symbols of Olomouc Region
 -1
 competitor
 -1
@@ -21146,11 +21173,13 @@ production planning manager
 -1
 Canon Cat
 -1
+layout manager
+-1
 Q3527315
 -1
 murderer
 -1
-role model
+Q33000899
 -1
 military specialism
 radioman
@@ -21185,10 +21214,17 @@ Q87748623
 -1
 T-tree
 -1
+ISO Transport Protocol Class 4
+-1
 Q87748623
 Q87748624
 -1
-Q11565586
+tag
+<meta> element
+hashtag
+medical identification tag
+revision tag
+triple tag
 -1
 adversary
 enemy combatant
@@ -21294,11 +21330,13 @@ Uniform Resource Name namespace
 Q72904836
 apartment number
 -1
+Scottish district council
+-1
 Nkanu
 -1
 certainty
 -1
-Q2919599
+crown shyness
 -1
 conscientious objection
 total conscientious objector
@@ -21570,45 +21608,9 @@ FnF.FM Radio
 -1
 service-oriented programming language
 -1
-Q151522
+CSS Flex Box Layout
 -1
-jurist
-State Examination for Access to the Legal Profession (Spain)
-lawyer
-notary
-Ulama
-Q736197
-attorney at law
-avoué
-poet lawyer
-advocate general
-Queen's Counsel
-Master of Requests
-county court bailiff
-jurist-consultant
-Q2886068
-feudist
-Q3190207
-Official receiver
-magistrate
-Iudex
-judicial officer
-Solicitor General
-Q10402092
-canon law jurist
-international lawyer
-in-house lawyer
-lawyer - court specialist
-legal scholar
-counsel
-Q19365766
-philosopher of law
-Q26833986
-Q30332887
-Q56298389
-administrative lawyer
-Q65130285
-State lawyer
+Q41595408
 -1
 Internet Protocol version 4
 subnet mask
@@ -21619,49 +21621,13 @@ Fibre Channel protocol
 -1
 Junzi
 -1
-female human
-Womanhood
-woman
-girl
-mother
-girlfriend
-aunt
-wife
-daughter
-sister
-mother-in-law
-great-grandmother
-half-sister
-sister-in-law
-niece
-grandniece
-grandaunt
-stepmother
-second aunt
-daughter-in-law
-granddaughter
-stepdaughter
-stepsister
-adopted daughter
-foster mother
-great-granddaughter
-may be daughter
-may be mother
-Q23067029
-cousin-in-law
-adoptive sister
-great-great-grandmother
-godmother
-grandmother-in-law
-co-sister-in-law
-great-great-granddaughter
-female cousin
-adoptive mother
-great-grandniece
+tag out
 -1
 Segesser I
 -1
-25th great-grandparent
+Q1936987
+-1
+post-visualization supervisor
 -1
 LGP-30
 -1
@@ -21681,6 +21647,8 @@ diagnosis
 Q16692035
 Social problem-solving
 -1
+field-replaceable unit
+-1
 Q12291629
 -1
 Private IP Encapsulation within IP
@@ -21696,6 +21664,8 @@ mimographer
 -1
 climate data
 -1
+14th great-grandparent
+-1
 Tongue muscles
 hyoglossus
 genioglossus
@@ -21710,6 +21680,8 @@ quasi-foreign corporation
 swallow tattoo
 -1
 Q18342202
+-1
+Q1438199
 -1
 Clevo x7200
 -1
@@ -21769,7 +21741,7 @@ for-profit corporation
 social purpose corporation
 education company
 -1
-Iskradata 1680
+QNS
 -1
 alcoholic
 High-functioning alcoholic
@@ -21813,6 +21785,8 @@ information sensitivity
 personal data
 -1
 Q2324479
+-1
+English billiards player
 -1
 Master data
 -1
@@ -21929,6 +21903,13 @@ Q1804784
 -1
 Pick symptom
 -1
+enterprise software
+Enterprise Content Management system
+Enterprise search
+enterprise file synchronization and sharing
+-1
+system console
+-1
 chipset
 southbridge
 northbridge
@@ -21970,8 +21951,7 @@ Chromebook
 Chromebox
 Chromebit
 -1
-CG modeler
-modeling supervisor
+Japhetic people
 -1
 group activist
 president of a non-profit organisation
@@ -21991,6 +21971,8 @@ disk controller
 floppy-disk controller
 -1
 Commodore Chessmate
+-1
+Q3511956
 -1
 model theory
 Löwenheim–Skolem theorem
@@ -22096,16 +22078,25 @@ trade secrets
 Q62024691
 Q62024700
 -1
-Q3726220
-Q54820876
+application programming interface
+Message Passing Interface
+Web API
+Server Application Programming Interface
+Type library
+database interface
+Glide API
+access method
+Open API
+API management
+Developer Portal
 -1
 embedded metadata
 -1
 Banana Pi
 -1
-Q20741461
--1
 Q3299875
+-1
+discrete interval encoding tree
 -1
 Eddie and Sol Zakay
 Eddie Zakay
@@ -22186,12 +22177,9 @@ full time worker
 gatherer
 factory worker
 -1
-out
-tag out
-strikeout
-fourth out
+cutie mark
 -1
-Electrologica X1
+pro–am
 -1
 star
 froebel star
@@ -22227,13 +22215,10 @@ Headpiece
 -1
 Internet activist
 -1
-directory
-home directory
-root directory
-working directory
-special folder
-podcast directory
-mount point
+binary heap
+leftist tree
+treap
+weak heap
 -1
 computer key
 Page Up
@@ -22263,6 +22248,11 @@ stan
 Q3046075
 -1
 Sun ND Protocol
+-1
+data center
+control room
+-1
+general-purpose programming language
 -1
 Type library
 -1
@@ -22324,14 +22314,36 @@ wastebasket diagnosis
 molecular diagnostics
 early diagnosis
 -1
-set art director
+preventive medicine
+sink
+detergent
+anal cleansing
+public bath
+Q32918421
+preventive health services
+healthy diet
+tooth brushing
+hygiene
+hand washing
+Quaternary prevention
+Prenatal care
+Artificial induction of immunity
+antibiotic prophylaxis
+behavior change
+personal hygiene
+primary prevention
+secondary prevention
+tertiary prevention
+preventive nutrition
+prevention of allergy
+Prevention of mental disorders
+prevention of sexually trasmitted deseases
+addiction medicine
 -1
 memory controller
 integrated memory controller
 -1
 Digest access authentication
--1
-smoker
 -1
 Simon Reuben
 -1

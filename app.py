@@ -15,8 +15,8 @@ import networkx as nx
 Graph={}
 levels=3
 #limit=""
-list_of_nodes=[]
-renamed_nodes=[]
+list_of_nodes=[] #base nodes with inital names
+renamed_nodes=[] #base nodes with wikidata names
 
 app=Flask(__name__)
 
@@ -70,7 +70,7 @@ def data_to_list(data):
             x=re.sub(r"\n","",x)
             list_of_nodes.append(x)
 
-def onotology(task_content):
+def onotology(task_content,imageTag):
     def id_extractor(search_string):
         #print(type(wikipedia.search(search_string)))
         query=""
@@ -256,18 +256,49 @@ def onotology(task_content):
     data_to_list(task_content)
     print(list_of_nodes)
     Graph_gen()
-
-
-
-
+    #Graph Appended/Created`
+    id,new_node=id_extractor(imageTag)
+    if id!="-1":
+        save_graph("prev_graph.txt")
+        if new_node not in Graph:
+            levels=2
+            #print("Here")
+            chilldren(new_node,id,0)
+            parent(new_node,id,0)
+            #print(Graph)
+            save_graph("graph.txt")
+    levels=3
+    #imagetag added to graph
+    source = []
+    target = []
+    for x in Graph:
+        for y in Graph[x]:
+            if x!=y:
+                source.append(x)
+                target.append(y)
+    kg_df = pd.DataFrame({'source':source, 'target':target})    
+    G=nx.from_pandas_edgelist(kg_df, "source", "target")
+    print("Done form nx codeline 280")
+    ranking=[]
+    for node in renamed_nodes:
+        val=nx.shortest_path_length(G,imageTag,node)
+        ranking.append([node,val])
+    print(ranking)
+    ranking=sorted(ranking,key=lambda x: (x[0]))
+    print("---------------")
+    print(ranking)
 
 @app.route('/', methods=['POST', 'GET'])
 def index():
     if request.method == 'POST':
         task_content = request.form['content']
+        imageTag=request.form['imageTag']
+        #To be done after getting image tag
+        #formatImageTag()
+        
         #print(task_content)
         try:
-            onotology(task_content)
+            onotology(task_content, imageTag)
             #onotology()
             return redirect('/')
         except:

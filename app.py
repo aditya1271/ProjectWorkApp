@@ -11,6 +11,9 @@ import pickle
 import requests
 import wikipedia
 import networkx as nx
+from googlesearch import search
+import requests
+import re
 #import matplotlib.pyplot as plt
 Graph={}
 levels=3
@@ -69,6 +72,29 @@ def data_to_list(data):
             x=re.sub(r"/"," ",x)
             x=re.sub(r"\n","",x)
             list_of_nodes.append(x)
+def urls(word1,word2):
+    list_urls=[]
+    regex1='\W'+word1+'\W'
+    regex2='\W'+word2+'\W'
+    query='"'+word1+'" "'+word2+'"'
+    #fout.write(word2+"\n")
+    for url in search(query, tld='com', stop=10):
+        if(url.find(".pdf",len(url)-5)==-1):
+            test=1
+            try:
+                page=requests.get(url).text
+            except :
+                test=0
+            if test!=0 :
+                #fout.write(url)
+                #fout.write("\n")    
+                #fout.write(str(len(re.findall(regex1, page ,  re.IGNORECASE) ) )  )
+                #fout.write(" ")    
+                #fout.write(str(len(re.findall(regex2, page ,  re.IGNORECASE) ) )  )
+                #fout.write("\n")
+                list_urls.append(url)
+    #TODO sort URLS
+    return list_urls
 
 def onotology(task_content,imageTag):
     def id_extractor(search_string):
@@ -258,6 +284,7 @@ def onotology(task_content,imageTag):
     Graph_gen()
     #Graph Appended/Created`
     id,new_node=id_extractor(imageTag)
+    imageTag=new_node
     if id!="-1":
         save_graph("prev_graph.txt")
         if new_node not in Graph:
@@ -278,15 +305,18 @@ def onotology(task_content,imageTag):
                 target.append(y)
     kg_df = pd.DataFrame({'source':source, 'target':target})    
     G=nx.from_pandas_edgelist(kg_df, "source", "target")
+    print (renamed_nodes)
     print("Done form nx codeline 280")
     ranking=[]
     for node in renamed_nodes:
         val=nx.shortest_path_length(G,imageTag,node)
-        ranking.append([node,val])
+        ranking.append([val,node,urls(imageTag,node)])
     print(ranking)
     ranking=sorted(ranking,key=lambda x: (x[0]))
     print("---------------")
     print(ranking)
+    
+
 
 @app.route('/', methods=['POST', 'GET'])
 def index():

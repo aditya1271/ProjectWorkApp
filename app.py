@@ -87,9 +87,9 @@ def urls(word1,word2):
                 test=0
             if test!=0 :
                 #fout.write(url)
-                #fout.write("\n")    
+                #fout.write("\n")
                 #fout.write(str(len(re.findall(regex1, page ,  re.IGNORECASE) ) )  )
-                #fout.write(" ")    
+                #fout.write(" ")
                 #fout.write(str(len(re.findall(regex2, page ,  re.IGNORECASE) ) )  )
                 #fout.write("\n")
                 list_urls.append(url)
@@ -112,8 +112,10 @@ def onotology(task_content,imageTag):
                 new_string = new_string + '_'
             else:
                 new_string = new_string + i
-        #print("New string")
-        print("Addeed to renamed_nodes {}".format(new_string))
+        print(["New string",new_string])
+        new_string = new_string.encode('ascii', 'ignore').decode('ascii').encode("utf-8")
+        #new_string= str(new_string).encode('utf-8')
+        print("Added to renamed_nodes {}".format(new_string))
 
         res = requests.get("https://en.wikipedia.org/wiki/"+new_string)
         soup = bs(res.text, "html.parser")
@@ -135,7 +137,10 @@ def onotology(task_content,imageTag):
         node=""
         for hit in soup.findAll(attrs={'class' : 'wikibase-title-label'}):
             node= hit.text
-        return wikidata_id.encode("utf-8"),node.encode("utf-8")
+        #TODO dont use unicode
+        # UnicodeWarning: Unicode equal comparison failed to convert both arguments to Unicode - interpreting them as being unequal
+        #solve this ^^
+        return wikidata_id.encode('ascii', 'ignore').decode('ascii').encode("utf-8"),node.encode('ascii', 'ignore').decode('ascii').encode("utf-8")
 
 
     def result_gen_children(prop,id):
@@ -268,7 +273,7 @@ def onotology(task_content,imageTag):
         print(len(Graph))
         for node in list_of_nodes:
             id,new_node=id_extractor(node)
-            if id!="-1":
+            if len(id)!=0 and id!="-1":
                 renamed_nodes.append(new_node)
                 save_graph("prev_graph.txt")
                 if new_node not in Graph:
@@ -285,16 +290,17 @@ def onotology(task_content,imageTag):
     #Graph Appended/Created`
     id,new_node=id_extractor(imageTag)
     imageTag=new_node
-    if id!="-1":
+    print("280 ",imageTag,type(imageTag),len(imageTag))
+    if id!="-1" and len(id) !=0:
         save_graph("prev_graph.txt")
         if new_node not in Graph:
-            levels=2
+            #levels=2
             #print("Here")
             chilldren(new_node,id,0)
             parent(new_node,id,0)
             #print(Graph)
             save_graph("graph.txt")
-    levels=3
+    #levels=3
     #imagetag added to graph
     source = []
     target = []
@@ -303,19 +309,36 @@ def onotology(task_content,imageTag):
             if x!=y:
                 source.append(x)
                 target.append(y)
-    kg_df = pd.DataFrame({'source':source, 'target':target})    
+    kg_df = pd.DataFrame({'source':source, 'target':target})
     G=nx.from_pandas_edgelist(kg_df, "source", "target")
     print (renamed_nodes)
-    print("Done form nx codeline 280")
+    print("Done form nx codeline 280",imageTag)
     ranking=[]
-    for node in renamed_nodes:
-        val=nx.shortest_path_length(G,imageTag,node)
-        ranking.append([val,node,urls(imageTag,node)])
-    print(ranking)
-    ranking=sorted(ranking,key=lambda x: (x[0]))
-    print("---------------")
-    print(ranking)
-    
+    if(id!="-1" and len(id)!=0):
+        for node in renamed_nodes:
+            if node.strip()!="" :
+                flag=1
+                #print([id,imageTag,node])
+                try:
+                    val=nx.shortest_path_length(G,imageTag,node)
+                except:
+                    flag=0
+                if(flag==0):
+                    try:
+                        val=nx.shortest_path_length(G,node,imageTag)
+                    except:
+                        flag=0
+                if(flag!=0):
+                    ranking.append([val,node,urls(imageTag,node)])
+                else:
+                    print("Path to ",node," not found")
+        print(ranking)
+        ranking=sorted(ranking,key=lambda x: (x[0]))
+        print("---------------")
+        print(ranking)
+    else:
+        print("Image Tag Not Found")
+
 
 
 @app.route('/', methods=['POST', 'GET'])
@@ -325,14 +348,14 @@ def index():
         imageTag=request.form['imageTag']
         #To be done after getting image tag
         #formatImageTag()
-        
+
         #print(task_content)
-        try:
-            onotology(task_content, imageTag)
+        #try:
+        onotology(task_content, imageTag)
             #onotology()
-            return redirect('/')
-        except:
-            return 'There was an issue adding your task'
+        return redirect('/')
+        #except:
+            #return 'There was an issue adding your task'
 
     else:
 

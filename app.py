@@ -316,6 +316,8 @@ def onotology(task_content,imageTag):
     ranking=[]
     if(id!="-1" and len(id)!=0):
         for node in renamed_nodes:
+            val=0
+            val1=0
             if node.strip()!="" :
                 flag=1
                 #print([id,imageTag,node])
@@ -323,12 +325,15 @@ def onotology(task_content,imageTag):
                     val=nx.shortest_path_length(G,imageTag,node)
                 except:
                     flag=0
-                if(flag==0):
-                    try:
-                        val=nx.shortest_path_length(G,node,imageTag)
-                    except:
-                        flag=0
+                try:
+                    val1=nx.shortest_path_length(G,node,imageTag)
+                    if(flag==0 || val1<val)
+                    val=val1
+                except:
+                    flag=0
+
                 if(flag!=0):
+
                     ranking.append([val,node,urls(imageTag,node)])
                 else:
                     print("Path to ",node," not found")

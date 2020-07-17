@@ -12,8 +12,27 @@ import requests
 import wikipedia
 import networkx as nx
 from googlesearch import search
+import json
 import requests
-import re
+import urllib
+
+#TODO Add this to to return data
+def send_message():
+    server = "https://fcm.googleapis.com/fcm/send"
+    api_key = "AAAAgWFaEHE:APA91bHNcm5sJjbxpW-dH0TwidCeelBBR4LDyk4XSrmHgt9058rjCNubgD3vTT3On9-EW4pzlw4Z5jK9-wgf4-CGYLiAdgfJ37mb4w3qP_Q83InM1qLDqTuBtS3qQGA9bX3lZ44kSW4q"
+    user_token = "dP70npWW5YA:APA91bEoN-XOGkIhcl4y6ZUEVzoQ3818cJ3LqJ7FbNHPeRRZ8zJp5fvj0lIqsIVj0Jm2XBYtiLTVlfXrFDkWYkFjp6xwLR1WQGxpMpDwu5ye-LuzPJKJ4-M3Boj5mt0-DwJdjsk16GIL"
+
+    headers = {'Authorization': 'key=' + api_key}
+
+    notification= {"body": "this is a body", "title": "this is a title" , "click_action": "FLUTTER_NOTIFICATION_CLICK"}
+    data = {"click_action": "FLUTTERNOTIFICATIONCLICK", "id": "1", "status": "done"}
+    payload = {"notification":notification,"data": data, "to": user_token}
+
+    res = requests.post(server, headers=headers, json=payload)
+
+    return res
+print(send_message())
+
 #import matplotlib.pyplot as plt
 Graph={}
 levels=3
@@ -327,8 +346,8 @@ def onotology(task_content,imageTag):
                     flag=0
                 try:
                     val1=nx.shortest_path_length(G,node,imageTag)
-                    if(flag==0 || val1<val)
-                    val=val1
+                    if(flag==0 or val1<val):
+                        val=val1
                 except:
                     flag=0
 
@@ -349,10 +368,12 @@ def onotology(task_content,imageTag):
 @app.route('/', methods=['POST', 'GET'])
 def index():
     if request.method == 'POST':
-        task_content = request.form['content']
+        #change to url after creating function
         imageTag=request.form['imageTag']
-        #To be done after getting image tag
-        #formatImageTag()
+        #Perform depending which of them is empty
+        # data = urllib.urlopen(requestform['dataUrl'])
+        task_content = request.form['content']
+
 
         #print(task_content)
         #try:

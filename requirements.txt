@@ -22,7 +22,7 @@ ipaddress==1.0.17
 isodate==0.6.0
 itsdangerous==1.1.0
 Jinja2==2.11.2
-joblib==0.14.1
+joblib==1.2.0
 keyring==10.6.0
 keyrings.alt==3.0
 MarkupSafe==1.1.1
